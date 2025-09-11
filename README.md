@@ -173,8 +173,9 @@
 
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
-|  |                     |              |
-|  |                     |              |
+| Explica ideas de forma clara y organizada en presentaciones orales. | | |
+| Redacta reportes y documentos con coherencia, ortografía y gramática adecuadas. | | |
+| Adapta el lenguaje y nivel de detalle según el público (técnico o no técnico). | | |
 
 </div>
 <br><br>
@@ -227,6 +228,15 @@
 </p>
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| Perfil | Descripción |
+|--------|-------------|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
 
 ## 1.2. Solution Profile
 
