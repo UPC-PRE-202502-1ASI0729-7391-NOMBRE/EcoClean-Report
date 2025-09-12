@@ -242,6 +242,94 @@
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
+<p>
+  En América Latina, la <b>gestión de residuos sólidos</b> representa un reto 
+  creciente para las ciudades. El aumento poblacional, el crecimiento de zonas 
+  urbanas y la falta de innovación en los procesos de recolección generan un 
+  servicio costoso, ineficiente y poco sostenible.
+</p>
+
+<p>
+  La mayoría de municipios continúa operando con un modelo tradicional basado en 
+  <b>rutas fijas y horarios predeterminados</b>, lo que provoca recorridos innecesarios 
+  en zonas con tachos vacíos y retrasos en áreas donde los contenedores ya se encuentran 
+  desbordados. Esta situación incrementa los gastos de combustible, horas-hombre y 
+  emisiones contaminantes, además de generar insatisfacción ciudadana.
+</p>
+
+<h4>What? – ¿Qué ocurre exactamente?</h4>
+<p>
+  El problema central se manifiesta en tres puntos críticos: 
+</p>
+<ul>
+  <li><b>Ineficiencia en las rutas:</b> los camiones siguen trayectos sin datos en tiempo real, 
+  lo que provoca recorridos redundantes.</li>
+  <li><b>Acumulación de residuos:</b> en las zonas de mayor actividad, los tachos se saturan 
+  rápidamente sin un monitoreo preventivo.</li>
+  <li><b>Altos costos logísticos:</b> los municipios destinan más presupuesto de lo necesario 
+  en combustible y personal operativo.</li>
+</ul>
+
+<h4>Why? – ¿Por qué sucede?</h4>
+<p>
+  El modelo de recolección responde a un esquema obsoleto que carece de 
+  <b>sensores, datos confiables y análisis predictivo</b>. 
+  Sin información precisa, los municipios no pueden optimizar su logística, 
+  generando desperdicio de recursos y aumentando el impacto ambiental.
+</p>
+
+<h4>When? – ¿Cuándo se intensifica?</h4>
+<p>
+  El problema se vuelve más evidente en:
+</p>
+<ul>
+  <li><b>Épocas festivas o fines de semana</b>, cuando el volumen de basura puede crecer hasta en un 40%.</li>
+  <li><b>Zonas comerciales y mercados</b>, donde los tachos alcanzan su capacidad mucho más rápido.</li>
+  <li><b>Distritos periféricos</b>, con menor frecuencia de recolección y mayores riesgos sanitarios.</li>
+</ul>
+
+<h4>Where? – ¿Dónde se concentra el problema?</h4>
+<p>
+  El impacto es más crítico en <b>grandes urbes latinoamericanas</b> como Lima, Bogotá o 
+  Ciudad de México, donde la extensión territorial y la densidad poblacional hacen que los 
+  sistemas tradicionales resulten insostenibles. 
+</p>
+<p>
+  Las brechas se observan especialmente en distritos con presupuestos limitados, 
+  áreas comerciales de alta generación de residuos y zonas alejadas donde la recolección 
+  no logra cubrir la demanda.
+</p>
+
+<h4>Who? – ¿Quiénes son los afectados?</h4>
+<ul>
+  <li><b>Ciudadanos:</b> conviven con calles sucias, olores desagradables y riesgos de salubridad.</li>
+  <li><b>Municipios:</b> soportan costos logísticos elevados sin lograr eficiencia operativa.</li>
+  <li><b>Medio ambiente:</b> se ve impactado por el exceso de emisiones de CO₂ y residuos mal gestionados.</li>
+</ul>
+
+<h4>How? – ¿Cómo afecta al sistema actual?</h4>
+<p>
+  El modelo tradicional crea un ciclo de ineficiencia: 
+  rutas mal diseñadas incrementan el gasto de combustible, 
+  los tachos desbordados generan quejas ciudadanas 
+  y la falta de datos limita la capacidad de planificación. 
+</p>
+<p>
+  Con este esquema, los costos operativos pueden aumentar hasta un <b>30%</b> y las emisiones 
+  de CO₂ se elevan significativamente, comprometiendo tanto el presupuesto municipal como la 
+  sostenibilidad ambiental.
+</p>
+
+<h4>How much? – ¿Cuál es el costo de no innovar?</h4>
+<p>
+  Se estima que hasta un <b>40% de los recorridos</b> de camiones recolectores son innecesarios, 
+  lo que representa millones en pérdidas anuales por consumo de combustible y horas-hombre. 
+</p>
+<p>
+  Una solución digital basada en <b>IoT y optimización de rutas</b> podría reducir estos costos 
+  en un 25-30%, mejorar la limpieza urbana y elevar la satisfacción ciudadana, a la vez que 
+  disminuye la huella ambiental.
+</p>
 
 ### 1.2.2. Lean UX Process
 
