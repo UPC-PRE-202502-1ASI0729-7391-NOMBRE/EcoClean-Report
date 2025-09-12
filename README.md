@@ -29,7 +29,7 @@
 | :------------------------------- | :--------: |
 |  |  |
 | Mathias Andree Cardenas Huaman | U202316353 |
-|  |  |
+| Diego Andres Avalos Cordova    | U202313922 |
 |  |  |
 |  |  |
 
