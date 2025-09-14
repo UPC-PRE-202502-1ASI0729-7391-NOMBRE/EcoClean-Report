@@ -28,7 +28,7 @@
 | Member                           |    Code    |
 | :------------------------------- | :--------: |
 |  |  |
-|  |  |
+| Mathias Andree Cardenas Huaman | U202316353 |
 |  |  |
 |  |  |
 |  |  |
@@ -173,8 +173,9 @@
 
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
-|  |                     |              |
-|  |                     |              |
+| Explica ideas de forma clara y organizada en presentaciones orales. |                     |              |
+| Redacta reportes y documentos con coherencia, ortografía y gramática adecuadas. |                     |              |
+| Adapta el lenguaje y nivel de detalle según el público (técnico o no técnico). |                     |              |
 
 </div>
 <br><br>
@@ -185,7 +186,56 @@
 
 ### 1.1.1. Description de la StartUp
 
+<p>
+  <b>EcoSmart Waste Solutions</b> es una startup tecnológica enfocada en la 
+  <b>gestión inteligente de residuos urbanos</b>. Su propósito es optimizar 
+  el proceso de recolección de basura en distritos y municipios mediante el uso 
+  de <b>sensores IoT</b> instalados en tachos inteligentes, los cuales envían 
+  información en tiempo real sobre el nivel de llenado de los contenedores.
+</p>
+
+<p>
+  Gracias a esta información, el sistema aplica 
+  <b>algoritmos de optimización de rutas</b> que permiten a los camiones recolectores 
+  recorrer solo las zonas necesarias, reduciendo tiempos, costos operativos y emisiones de CO₂.
+</p>
+
+<h4>Visión:</h4>
+<p>
+  Convertirse en la principal solución tecnológica en Latinoamérica para la gestión eficiente 
+  y sostenible de residuos, promoviendo ciudades inteligentes y amigables con el medio ambiente.
+</p>
+
+<h4>Misión:</h4>
+<p>
+  Ofrecer un sistema de gestión de residuos innovador que integre sensores inteligentes, 
+  análisis de datos y rutas optimizadas, contribuyendo a que los distritos reduzcan 
+  costos logísticos, mejoren la calidad del servicio y minimicen el impacto ambiental.
+</p>
+
+<h4>Propuesta de valor</h4>
+<ul>
+  <li>Reducción de hasta un <b>X%</b> en costos de combustible y horas-hombre en recolección.</li>
+  <li>Mejora en la planificación de rutas de los camiones recolectores.</li>
+  <li>Disminución significativa de emisiones contaminantes.</li>
+  <li>Mayor limpieza y satisfacción ciudadana al evitar tachos desbordados.</li>
+</ul>
+
+<h4>Innovación</h4>
+<p>
+  Integramos <b>IoT, Big Data y algoritmos de optimización</b> en un solo ecosistema digital, 
+  logrando un modelo escalable y adaptable a distintos distritos y ciudades.
+</p>
+
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| Perfil | Descripción |
+|--------|-------------|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## 1.2. Solution Profile
 
