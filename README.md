@@ -19,7 +19,7 @@
 
 <h3> Startup:  </h3>
 
-<h3> Product:  </h3>
+<h3> Product: EcoSmart </h3>
 
 <h3> Team Members: 04</h3>
 
