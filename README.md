@@ -232,8 +232,7 @@
 
 | Perfil | Descripción |
 |--------|-------------|
-| ![Imagen de WhatsApp 2025-09-12 a las 23 22 24_5448a2f7](https://github.com/user-attachments/assets/7dc73728-3add-4cf7-9ee8-bcfb5f4128c5)
- |  |
+| <img src="https://github.com/user-attachments/assets/e00b64e9-a7e7-4e49-97f3-1811059412be" alt="Imagen de WhatsApp" width="300"> |<p> Hola, mi nombre es Diego Ávalos, soy estudiante de la carrera<br>de Ingeniería de Software en la UPC y actualmente curso el sexto ciclo.<br>Me apasiona el campo de la Ciberseguridad y mi objetivo es especializarme<br>en esta área para convertirme en un profesional capaz de aportar soluciones<br>innovadoras en la protección de la información. Tengo conocimientos en C++,<br>JavaScript, HTML y Python, y me encuentro en constante aprendizaje de nuevos<br>lenguajes y tecnologías que fortalezcan mis habilidades técnicas.<br>Además, me interesa participar en proyectos que me permitan crecer tanto<br>a nivel académico como profesional, desarrollando experiencia práctica y<br>aportando valor en el ámbito tecnológico.</p>|
 |  |  |
 |  |  |
 |  |  |
@@ -333,11 +332,71 @@
 
 ### 1.2.2. Lean UX Process
 
+En EcoSmart Waste Solutions utilizamos el proceso Lean UX como un enfoque ágil para crear y validar soluciones en la gestión de residuos urbanos. Partimos de hipótesis sobre la eficiencia de recolección, desarrollamos prototipos mínimos con sensores IoT y algoritmos de optimización, y los probamos en escenarios reales con municipios. A partir de los resultados obtenidos, ajustamos e iteramos constantemente para asegurar un sistema que reduzca costos, mejore la limpieza urbana y contribuya a la sostenibilidad ambiental.  
+
 #### 1.2.2.1. Lean UX Problem Statements
+En Lima Metropolitana y en muchas ciudades de la región, la gestión de residuos sólidos es un problema persistente. Los camiones recolectores siguen rutas y horarios fijos, lo que genera vaciados innecesarios en contenedores semivacíos y, al mismo tiempo, acumulación excesiva en zonas críticas. Esta ineficiencia provoca sobrecostos, incrementa la contaminación y deteriora la calidad de vida urbana.  
+
+EcoSmart Waste Solutions busca transformar este escenario mediante el uso de sensores IoT y algoritmos de optimización de rutas, ofreciendo a los municipios información en tiempo real para tomar decisiones más inteligentes. Con ello, reducimos recorridos innecesarios, optimizamos recursos logísticos y aportamos a un entorno más limpio y sostenible.  
+
+Lo que distingue a nuestra propuesta es la capacidad de convertir datos en soluciones prácticas: no solo monitoreamos niveles de llenado, sino que entregamos rutas inteligentes y métricas ambientales que permiten a los gestores municipales actuar con eficiencia.  
+
+Estudios preliminares revelan que cerca del **40% de los recorridos de recolección son evitables**, lo cual representa pérdidas significativas en combustible y tiempo. Este hallazgo nos plantea el siguiente desafío:  
+
+**¿Cómo podemos diseñar una plataforma que no solo optimice la recolección en base a datos en tiempo real, sino que también motive a los municipios a adoptar prácticas sostenibles y mejorar la experiencia urbana?**
 
 #### 1.2.2.2. Lean UX Assumptions
 
+**Assumptions:**
+
+Creemos que la recolección de residuos urbanos debería ser un proceso mucho más eficiente, sostenible y transparente. Los municipios necesitan herramientas simples pero potentes que les permitan planificar mejor sus rutas y reducir costos operativos sin complicar el trabajo de sus equipos. Los ciudadanos también son parte clave: esperan calles más limpias y tachos que no estén desbordados, ya que esto afecta directamente la calidad de vida en su distrito. Nuestra propuesta se centra en integrar sensores IoT, análisis de datos y algoritmos de optimización en un solo ecosistema. La confianza se genera a través de datos en tiempo real y reportes claros que ayuden a tomar decisiones rápidas. Los principales desafíos estarán en la adopción tecnológica por parte de los municipios y en demostrar que la inversión inicial en estos sistemas se traduce en ahorros y beneficios visibles a corto plazo.  
+
+**¿Quién es el usuario?**  
+Funcionarios municipales responsables de la gestión de residuos, operarios de limpieza y, de manera indirecta, los vecinos de cada distrito.  
+
+**¿Dónde encaja nuestro producto en su vida?**  
+En la planificación y ejecución diaria de la recolección de residuos, facilitando que los equipos de limpieza trabajen de forma más ordenada y que los ciudadanos perciban un entorno urbano más limpio.  
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**  
+- Problema 1: Rutas de recolección ineficientes que generan gastos innecesarios.  
+  **Solución:** Algoritmos de optimización que reducen recorridos y consumo de combustible.  
+- Problema 2: Falta de información en tiempo real sobre los tachos de basura.  
+  **Solución:** Sensores IoT que envían datos actualizados al sistema central.  
+- Problema 3: Dificultad de los municipios para justificar la inversión tecnológica.  
+  **Solución:** Reportes con métricas claras de ahorro, reducción de emisiones y mejora en la satisfacción ciudadana.  
+
+**¿Cuándo y cómo es usado nuestro producto?**  
+El sistema se usa diariamente para monitorear tachos inteligentes, generar reportes automáticos y planificar rutas de camiones recolectores de manera más ágil.  
+
+**¿Qué características son importantes?**  
+Monitoreo en tiempo real, optimización de rutas, reportes automáticos, integración sencilla con sistemas municipales y paneles de control fáciles de usar.  
+
+**¿Cómo debe verse nuestro producto y cómo debe comportarse?**  
+Debe transmitir confianza, simplicidad y modernidad. El diseño tiene que ser intuitivo, visual y accesible, con datos claros que permitan tomar decisiones rápidas.  
+
+**Business Outcomes:**  
+- Reducir los costos operativos de recolección en al menos un 30% durante el primer año.  
+- Optimizar hasta un 40% de las rutas de camiones recolectores.  
+- Disminuir la huella de carbono asociada a la recolección en un 25%.  
+- Incrementar la satisfacción ciudadana al reducir la presencia de tachos desbordados.  
+
+**User Outcomes:**  
+- Los municipios cuentan con información confiable y procesable.  
+- Los operarios de limpieza trabajan con rutas más claras y menos tiempo perdido.  
+- Los ciudadanos disfrutan de espacios públicos más limpios y ordenados.  
+- Se fomenta la percepción de que la tecnología puede mejorar la calidad de vida urbana.  
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que al instalar sensores IoT en los tachos para enviar datos en tiempo real sobre el nivel de llenado, los municipios podrán tomar mejores decisiones de recolección. Sabremos que esto es cierto cuando al menos el 50% de las rutas se optimicen en los primeros tres meses de uso.  
+
+- Creemos que ofrecer a los gestores municipales un panel de control con métricas claras (rutas, costos y niveles de residuos) aumentará la confianza en el sistema. Sabremos que hemos tenido éxito cuando al menos el 70% de los funcionarios consulten los reportes de manera semanal.  
+
+- Creemos que mostrar indicadores ambientales como reducción de emisiones de CO₂ ayudará a los municipios a justificar la inversión tecnológica. Sabremos que hemos logrado el objetivo cuando al menos el 40% de los reportes presentados incluyan estos indicadores como argumento de gestión.  
+
+- Creemos que la integración de notificaciones automáticas para los operarios (alertas de tachos llenos o rutas actualizadas) facilitará la coordinación diaria. Sabremos que esto funciona cuando al menos el 60% de las alertas generen una acción registrada en menos de 24 horas.  
+
+- Creemos que si los ciudadanos perciben menos tachos desbordados en sus distritos, aumentará la satisfacción con el servicio de limpieza. Sabremos que esto es cierto cuando encuestas municipales reflejen un aumento del 20% en la percepción positiva en los primeros seis meses.  
 
 #### 1.2.2.4. Lean UX Canvas
 
