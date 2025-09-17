@@ -232,7 +232,8 @@
 
 | Perfil | Descripción |
 |--------|-------------|
-|  |  |
+| ![Imagen de WhatsApp 2025-09-12 a las 23 22 24_5448a2f7](https://github.com/user-attachments/assets/7dc73728-3add-4cf7-9ee8-bcfb5f4128c5)
+ |  |
 |  |  |
 |  |  |
 |  |  |
