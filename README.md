@@ -400,9 +400,53 @@ Debe transmitir confianza, simplicidad y modernidad. El diseño tiene que ser in
 
 #### 1.2.2.4. Lean UX Canvas
 
+| **Sección** | **Descripción** |
+|-------------|-----------------|
+| **Business Problem** | Los municipios siguen gastando demasiado en la recolección de basura porque todavía trabajan con rutas fijas y sin datos en tiempo real. Esto genera recorridos innecesarios, mayor consumo de combustible, más emisiones y vecinos insatisfechos al ver tachos desbordados en sus calles. |
+| **Business Outcomes** | - Reducir los costos de operación en un 30%.<br>- Optimizar al menos un 40% de las rutas de recolección en el primer año.<br>- Bajar en un 25% las emisiones de CO₂ relacionadas a la recolección.<br>- Mejorar la percepción ciudadana sobre limpieza pública en un 20%. |
+| **Users and Customers** | - Funcionarios municipales que gestionan los residuos.<br>- Operarios y choferes de camiones recolectores.<br>- Empresas de limpieza pública.<br>- Vecinos que esperan calles más limpias y ordenadas. |
+| **User Benefits** | - Los municipios pueden tomar decisiones más rápidas gracias a datos en tiempo real.<br>- Los operarios cuentan con rutas claras y menos trabajo innecesario.<br>- Los vecinos disfrutan de espacios más limpios y sin acumulación de basura. |
+| **Solutions (Ideas)** | - Sensores IoT en tachos inteligentes para medir el nivel de llenado.<br>- Plataforma central con paneles de control y reportes.<br>- Algoritmos que optimicen rutas en tiempo real.<br>- Alertas automáticas para operarios y gestores.<br>- Métricas de ahorro y reducción de emisiones. |
+| **Hypotheses** | Creemos que si instalamos sensores en los tachos y aplicamos algoritmos de optimización, los municipios podrán reducir kilómetros recorridos, consumo de combustible y emisiones. Sabremos que esto funciona cuando los reportes del piloto reflejen esas reducciones de manera clara y constante. |
+| **What’s the most important thing we need to learn first?** | Necesitamos confirmar que la información que brindan los sensores realmente se traduce en decisiones prácticas y en rutas que los operarios estén dispuestos a seguir. Lo más importante es comprobar que las rutas optimizadas reducen kilómetros recorridos y consumo de combustible sin complicar la operación diaria. |
+| **What’s the least amount of work we need to do to learn the next most important thing?** | Probar con un piloto reducido en un distrito pequeño: instalar entre 10 y 20 sensores, correr el sistema durante unas semanas y comparar los resultados de las rutas optimizadas frente a las rutas tradicionales. Mediremos kilómetros recorridos, consumo de combustible, cantidad de tachos desbordados y la opinión de los operarios sobre la facilidad de uso. |
+
 # 1.3. Segmentos Objetivo
 
-<br><br>
+**Segmento Objetivo 1: Municipios y áreas de gestión de residuos sólidos**  
+
+**Aspectos demográficos:**  
+- Instituciones públicas locales.  
+- Personal administrativo (jefes de limpieza pública, responsables de logística) y operativos (choferes, supervisores).  
+- Edad promedio de los responsables: entre 30 y 55 años.  
+
+**Aspectos geográficos:**  
+- Principalmente municipios urbanos y semiurbanos.  
+- Mayor concentración en ciudades grandes como Lima Metropolitana, pero con interés en expandir a provincias que enfrentan problemas de acumulación de basura.  
+
+**Aspectos psicográficos:**  
+- Autoridades preocupadas por mejorar la eficiencia del servicio y reducir costos.  
+- Interés en adoptar soluciones tecnológicas que muestren resultados medibles.  
+- Alta presión social por parte de vecinos que exigen calles más limpias.  
+- Buscan herramientas prácticas y fáciles de implementar sin interrumpir demasiado la operación actual.  
+
+---
+
+**Segmento Objetivo 2: Empresas privadas de limpieza y recolección de residuos** 
+
+**Aspectos demográficos:**  
+- Compañías contratadas por municipios o privadas que gestionan residuos de industrias, comercios y edificios residenciales.  
+- Equipos técnicos y logísticos de entre 25 y 50 años que toman decisiones sobre rutas, combustible y mantenimiento.  
+
+**Aspectos geográficos:**  
+- Operan en zonas urbanas e industriales de gran movimiento.  
+- Mayor demanda en distritos con alta densidad poblacional y zonas empresariales.  
+
+**Aspectos psicográficos:**  
+- Buscan optimizar sus recursos para competir en licitaciones públicas y privadas.  
+- Interés en reducir gastos de combustible y desgaste de vehículos.  
+- Valoran datos claros y reportes que les permitan justificar su eficiencia frente a clientes y autoridades.  
+- Están abiertos a soluciones digitales siempre que sean rentables y de implementación progresiva.  
 
 # Capítulo II: Requirements Elicitation & Analysis
 
