@@ -413,40 +413,40 @@ Debe transmitir confianza, simplicidad y modernidad. El diseño tiene que ser in
 
 # 1.3. Segmentos Objetivo
 
-**Segmento Objetivo 1: Municipios y áreas de gestión de residuos sólidos**  
+### Segmento Objetivo 1: Ciudadanos urbanos  
 
 **Aspectos demográficos:**  
-- Instituciones públicas locales.  
-- Personal administrativo (jefes de limpieza pública, responsables de logística) y operativos (choferes, supervisores).  
-- Edad promedio de los responsables: entre 30 y 55 años.  
+- Personas entre 18 y 60 años.  
+- Incluye estudiantes, trabajadores y familias que generan residuos diariamente.  
+- Nivel educativo medio a superior, con acceso a internet y dispositivos móviles.  
 
 **Aspectos geográficos:**  
-- Principalmente municipios urbanos y semiurbanos.  
-- Mayor concentración en ciudades grandes como Lima Metropolitana, pero con interés en expandir a provincias que enfrentan problemas de acumulación de basura.  
+- Distritos de Lima Metropolitana con alta densidad poblacional.  
+- Proyección de expansión hacia ciudades intermedias con problemas de acumulación de residuos.  
 
 **Aspectos psicográficos:**  
-- Autoridades preocupadas por mejorar la eficiencia del servicio y reducir costos.  
-- Interés en adoptar soluciones tecnológicas que muestren resultados medibles.  
-- Alta presión social por parte de vecinos que exigen calles más limpias.  
-- Buscan herramientas prácticas y fáciles de implementar sin interrumpir demasiado la operación actual.  
+- Personas preocupadas por la limpieza de su entorno y el impacto ambiental.  
+- Buscan soluciones prácticas para separar y disponer correctamente sus residuos.  
+- Familiarizados con el uso de aplicaciones móviles y redes sociales.  
+- Valoran iniciativas que promuevan la sostenibilidad y el bienestar comunitario.  
 
 ---
 
-**Segmento Objetivo 2: Empresas privadas de limpieza y recolección de residuos** 
+### Segmento Objetivo 2: Municipios y gobiernos locales  
 
 **Aspectos demográficos:**  
-- Compañías contratadas por municipios o privadas que gestionan residuos de industrias, comercios y edificios residenciales.  
-- Equipos técnicos y logísticos de entre 25 y 50 años que toman decisiones sobre rutas, combustible y mantenimiento.  
+- Instituciones públicas responsables de la gestión de residuos sólidos.  
+- Funcionarios entre 30 y 55 años que toman decisiones operativas y presupuestarias.  
 
 **Aspectos geográficos:**  
-- Operan en zonas urbanas e industriales de gran movimiento.  
-- Mayor demanda en distritos con alta densidad poblacional y zonas empresariales.  
+- Municipios urbanos y semiurbanos.  
+- Mayor concentración en Lima Metropolitana, con interés de expansión a provincias con alta generación de residuos.  
 
 **Aspectos psicográficos:**  
-- Buscan optimizar sus recursos para competir en licitaciones públicas y privadas.  
-- Interés en reducir gastos de combustible y desgaste de vehículos.  
-- Valoran datos claros y reportes que les permitan justificar su eficiencia frente a clientes y autoridades.  
-- Están abiertos a soluciones digitales siempre que sean rentables y de implementación progresiva.  
+- Autoridades interesadas en modernizar la gestión de residuos mediante soluciones tecnológicas.  
+- Necesitan herramientas que reduzcan costos y aumenten la eficiencia de los servicios públicos.  
+- Están bajo presión social de los vecinos que demandan una ciudad más limpia.  
+- Prefieren soluciones fáciles de implementar y con resultados visibles en el corto plazo.  
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -496,7 +496,51 @@ Finalmente, como táctica clave, implementaremos pilotos en distritos específic
 
 ## 2.2. Entrevistas
 
+En esta parte del informe se presentará el diseño, la aplicación y el análisis de las entrevistas realizadas a nuestros segmentos objetivos, con el fin de obtener información valiosa que respalde la propuesta de la startup.  
+
 ### 2.2.1. Diseño de entrevistas
+
+**Segmento 1: Municipios y funcionarios públicos**  
+*Datos generales:*  
+- Nombre y cargo  
+- Edad  
+- Distrito o municipio  
+- Tiempo de experiencia en gestión ambiental  
+
+*Preguntas:*  
+1. ¿Cómo se gestiona actualmente la recolección de residuos en su distrito?  
+2. ¿Qué problemas frecuentes enfrentan con el sistema actual de recolección?  
+3. ¿Qué impacto económico considera que tienen esas ineficiencias en el municipio?  
+4. ¿Han intentado aplicar alguna innovación o cambio tecnológico en este proceso?  
+5. ¿Qué tan receptivos cree que son los trabajadores y vecinos ante nuevas soluciones?  
+6. ¿Cuáles son los indicadores principales que utilizan para medir la eficiencia del servicio?  
+7. ¿Qué beneficios esperaría de una herramienta digital como EcoSmart?  
+8. ¿Cuáles serían las principales barreras para implementar un sistema nuevo?  
+9. ¿Cómo evalúa la aceptación de la ciudadanía frente a cambios en la gestión de residuos?  
+10. ¿Qué tipo de soporte o acompañamiento considera necesario para usar una nueva tecnología?  
+
+---
+
+**Segmento 2: Ciudadanos urbanos**  
+*Datos generales:*  
+- Nombre  
+- Edad  
+- Distrito de residencia  
+- Ocupación  
+- Tipo de vivienda (casa, departamento, condominio)  
+
+*Preguntas:*  
+1. ¿Cómo maneja los residuos en su hogar actualmente?  
+2. ¿Qué problemas ha tenido con el servicio de recolección en su distrito?  
+3. ¿Con qué frecuencia percibe que los tachos públicos están llenos o mal gestionados?  
+4. ¿Ha participado en iniciativas de reciclaje o separación de residuos?  
+5. ¿Qué mejoras le gustaría ver en el servicio de recolección de basura?  
+6. ¿Qué tan dispuesto estaría a usar una aplicación que informe sobre horarios o rutas de recolección?  
+7. ¿Qué características le generarían más confianza en una plataforma como EcoSmart?  
+8. ¿Qué tipo de información le sería más útil recibir (horarios, puntos de reciclaje, alertas)?  
+9. ¿Estaría dispuesto a colaborar reportando incidencias (tacho lleno, basura acumulada)?  
+10. ¿Qué lo motivaría a involucrarse activamente en una iniciativa de gestión inteligente de residuos?  
+
 
 ### 2.2.2. Registro de entrevistas
 
