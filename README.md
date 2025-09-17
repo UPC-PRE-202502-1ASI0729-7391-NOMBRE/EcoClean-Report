@@ -452,9 +452,47 @@ Debe transmitir confianza, simplicidad y modernidad. El diseño tiene que ser in
 
 ## 2.1. Competidores
 
+Dentro del mercado de soluciones tecnológicas para la gestión de residuos existen varias iniciativas que, de manera directa o indirecta, compiten con la propuesta de EcoSmart. Analizar a estos actores nos ayuda a entender qué están haciendo bien, dónde se quedan cortos y qué oportunidades podemos aprovechar para diferenciarnos.  
+
+**SmartBin (Internacional)**  
+SmartBin es una empresa que ofrece sensores para medir el nivel de llenado de contenedores de basura. Su modelo se centra en la recolección de datos y el envío de alertas para optimizar rutas de recolección.  
+- **Fortalezas:** Tiene experiencia en varios países y una tecnología probada en campo. Su producto es altamente especializado y cuenta con casos de éxito en ciudades grandes.  
+- **Debilidades:** Su implementación suele ser costosa y está pensada más para grandes municipios con presupuestos amplios, lo que limita su alcance en contextos como el peruano.  
+
+**EcoRuta (Latinoamérica)**  
+EcoRuta es una startup emergente que desarrolla software para la optimización de rutas de camiones recolectores. Su propuesta está más orientada al análisis de recorridos y consumo de combustible que al monitoreo en tiempo real de los contenedores.  
+- **Fortalezas:** Ofrece una plataforma intuitiva que ayuda a reducir gastos operativos en transporte y mantenimiento de flota.  
+- **Debilidades:** Al no contar con sensores IoT propios, depende de información cargada manualmente o de sistemas externos, lo que reduce la precisión en la toma de decisiones.  
+
+Con este análisis, vemos que existe un espacio importante para EcoSmart: integrar el monitoreo en tiempo real con algoritmos de optimización accesibles y adaptados a la realidad de municipios medianos y pequeños, que suelen ser los más afectados por la mala gestión de residuos.  
+
 ### 2.1.1. Análisis competitivo
 
+Para entender mejor el mercado y cómo posicionar a **EcoSmart**, analizamos a dos competidores relevantes y a nuestra propia propuesta. Esto nos permite identificar qué hacen bien, dónde presentan limitaciones y cómo podemos diferenciarnos con una solución más accesible y pensada para ciudades de Latinoamérica.  
+
+| Perfil / Categoría | EcoSmart (Nosotros) | EcoRuta | SmartBin |
+|--------------------|----------------------|---------|----------|
+| **Overview** | Startup tecnológica que combina sensores IoT y algoritmos de optimización para gestión de residuos urbanos. | Startup latinoamericana enfocada en software de optimización de rutas para transporte y logística. | Empresa internacional con amplia trayectoria en gestión inteligente de residuos mediante sensores y sistemas digitales. |
+| **Ventaja Competitiva** | Ecosistema completo: hardware (sensores IoT) + software (optimización de rutas) + datos en tiempo real. | Bajo costo y simplicidad de uso, ideal para operadores privados y municipios pequeños. | Experiencia global, tecnología validada y casos de éxito en ciudades grandes. |
+| **Mercado Objetivo** | Municipios medianos y pequeños en Latinoamérica que buscan eficiencia a costos accesibles. | Empresas privadas de logística y algunos municipios con recursos limitados. | Gobiernos locales y municipales de grandes ciudades con presupuesto amplio. |
+| **Estrategias de Marketing** | Posicionamiento como solución integral, precios escalables y cercanía con municipios. | Enfoque en precios bajos y facilidad de adopción. | Uso de credenciales internacionales, casos de éxito y marketing institucional. |
+| **Productos y Servicios** | Sensores IoT en contenedores, plataforma de monitoreo en tiempo real, optimización de rutas. | Software de optimización de rutas basado en datos ingresados por el usuario. | Sensores inteligentes, sistemas centralizados de gestión de residuos, consultoría. |
+| **Precios y Costos** | Modelo escalable: costos accesibles con planes adaptados al tamaño del municipio. | Bajos costos por licencia de software, sin hardware incluido. | Costos altos, orientados a gobiernos con gran capacidad de inversión. |
+| **Canales de Distribución** | Directo a municipios y distritos, alianzas con proveedores locales. | Venta online y acuerdos con empresas privadas. | Contratos con gobiernos municipales y asociaciones internacionales. |
+| **Fortalezas** | Innovación local, accesibilidad en costos, integración completa. | Simplicidad y bajo costo. | Experiencia internacional y tecnología probada. |
+| **Debilidades** | Startup nueva, menor reconocimiento de marca. | No ofrece hardware, depende de datos externos. | Alto costo y complejidad de implementación. |
+| **Oportunidades** | Creciente demanda de soluciones “smart city” en municipios pequeños y medianos. | Ampliar hacia hardware propio para fortalecer su propuesta. | Expandirse en mercados emergentes si ajusta precios. |
+| **Amenazas** | Competidores internacionales con mayor trayectoria. | Ser desplazados por soluciones más completas como EcoSmart. | Ser percibidos como inaccesibles en mercados con bajo presupuesto. |
+
+EcoSmart se diferencia de sus competidores al combinar sensores IoT y rutas optimizadas, lo que genera un sistema más eficiente y sostenible para la gestión de residuos. Aunque todavía se encuentra en etapa temprana de desarrollo, su propuesta representa una alternativa innovadora para modernizar la recolección de basura en ciudades de Latinoamérica y avanzar hacia entornos urbanos más inteligentes.  
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+Para competir en el sector de gestión de residuos, EcoSmart apostará por un enfoque basado en innovación y cercanía con los municipios. Nuestra principal estrategia será la diferenciación tecnológica, aplicando sensores IoT y algoritmos de optimización que reduzcan costos y tiempos en la recolección de basura, algo que nuestros competidores aún no explotan a fondo.  
+
+También buscamos impulsar **alianzas estratégicas** con gobiernos locales y empresas privadas, lo que permitirá integrar nuestra solución dentro de los planes de ciudades sostenibles. A nivel de marketing, emplearemos **campañas de sensibilización ambiental**, resaltando la importancia de la reducción de CO₂ y el uso eficiente de recursos.  
+
+Finalmente, como táctica clave, implementaremos pilotos en distritos específicos, lo que nos dará datos reales para ajustar la plataforma y demostrar el impacto económico y ambiental de nuestra propuesta. Con ello, podremos posicionarnos como una alternativa confiable y de alto valor frente a los competidores actuales.  
 
 ## 2.2. Entrevistas
 
