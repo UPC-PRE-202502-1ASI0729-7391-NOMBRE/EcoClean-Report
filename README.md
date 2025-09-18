@@ -317,6 +317,32 @@ User Persona - Ciudadano
 
 ### 2.3.2. User Task Matrix
 
+**Funcionario Municipal (Carlos)**
+
+| Tarea | Importancia | Frecuencia |
+|:------|:------|:----------|
+|Supervisar rutas de recolección de residuos|Alta|Alta|
+|Responder a quejas ciudadanas sobre basura acumulada|Alta|Alta|
+|Revisar reportes de limpieza y recolección|Alta|Media|
+|Coordinar con trabajadores de limpieza y supervisores|Alta|Alta|
+|Justificar presupuesto y recursos para el área de limpieza|Alta|Baja|
+|Evaluar propuestas tecnológicas para optimizar el servicio|Media|Baja|
+|Monitorear indicadores de eficiencia del servicio|Media|Baja|
+|Impulsar campañas de sensibilización ciudadana sobre residuos|Baja|Baja|
+
+**Ciudadano (Diego)**
+
+| Tarea | Importancia | Frecuencia |
+|:------|:------|:----------|
+|Separar residuos en casa (orgánico / reciclable)|Media|Alta|
+|Sacar la basura en horarios de recojo|Alta|Alta|
+|Revisar si los tachos públicos de su barrio están llenos|Media|Media|
+|Usar apps o grupos vecinales para informarse sobre recolección|Media|Media|
+|Reportar incidencias (tacho lleno, basura acumulada) al municipio o apps|Media|Baja|
+|Participar en actividades de reciclaje universitarias o comunitarias|Baja|Baja|
+|Comentar en redes sociales sobre la gestión de residuos|Baja|Baja|
+| Conversar con familia o amigos sobre hábitos de manejo de basura | Baja | Baja
+
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
