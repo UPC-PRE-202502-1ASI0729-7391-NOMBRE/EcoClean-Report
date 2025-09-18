@@ -99,63 +99,11 @@
 
 ### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
 
-- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-- [3.2. User Stories](#32-user-stories)
-- [3.3. Impact Mapping](#33-impact-mapping)
-- [3.4. Product Backlog](#34-product-backlog)
+- [3.1. User Stories](#31-user-stories)
+- [3.2. Impact Mapping](#32-impact-mapping)
+- [3.3. Product Backlog](#33-product-backlog)
 
-### [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
 
-- [4.1. Style Guidelines](#41-style-guidelines)
-  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-- [4.2. Information Architecture](#42-information-architecture)
-  - [4.2.1. Organization Systems](#421-organization-systems)
-  - [4.2.2. Labeling Systems](#422-labeling-systems)
-  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-  - [4.2.4. Searching Systems](#424-searching-systems)
-  - [4.2.5. Navigation Systems](#425-navigation-systems)
-- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-  - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-  - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-- [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-- [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-  - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-  - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-  - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-- [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-  - [4.7.1. Class Diagrams](#471-class-diagrams)
-  - [4.7.2. Class Dictionary](#472-class-dictionary)
-- [4.8. Database Design](#48-database-design)
-  - [4.8.1. Database Diagram](#481-database-diagram)
-
-### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment-1)
-
-- [5.1. Software Configuration Management](#51-software-configuration-management)
-  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-  - [5.1.2. Source Code Management](#512-source-code-management)
-  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint 1](#521-sprint-1)
-    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-- [5.3. Validation Interviews](#53-validation-interviews)
-  - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
-  - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
-  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-- [5.4. Video About-The-Product](#54-video-about-the-product)
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -268,7 +216,32 @@ Las Historias de Usuario:
 
 ## 3.2. Impact Mapping
 
+| Objetivo                                           | Actores                 | Impactos esperados                                                                 | Funcionalidades asociadas                                                                                              |
+| -------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Reducir costos operativos de recolección**       | Municipalidad           | - Menor gasto en combustible. <br> - Reducción de horas de trabajo en recolección. | - Algoritmo de optimización de rutas. <br> - Panel de control con métricas de eficiencia.                              |
+| **Evitar desbordes de residuos en la vía pública** | Ciudadanos              | - Mayor limpieza en calles. <br> - Mejor experiencia en el uso de tachos.          | - Notificaciones de tacho lleno. <br> - Sugerencia de tacho alternativo en la app.                                     |
+| **Mejorar la eficiencia de los operarios**         | Operarios de limpieza   | - Rutas claras y en tiempo real. <br> - Menos desplazamientos innecesarios.        | - App móvil con rutas optimizadas. <br> - Confirmación digital de recolección.                                         |
+| **Fomentar la sostenibilidad y transparencia**     | Autoridades municipales | - Acceso a reportes de impacto ambiental. <br> - Mayor confianza ciudadana.        | - Generación de reportes de eficiencia. <br> - Descarga de métricas en PDF. <br> - Comparación de métricas históricas. |
+
+
 ## 3.3. Product Backlog
+
+| Orden | Épica | Título                                           | Relación con User Story | Prioridad | Story Points <br>(1/2/3/5/8) |
+| ----- | ----- | ------------------------------------------------ | ----------------------- | --------- | ------------ |
+| 1     | EP01  | Implementación de sensores IoT en tachos         | US01                    | Alta      | 8            |
+| 2     | EP01  | Sistema de alertas de tacho lleno                | US02                    | Alta      | 5            |
+| 3     | EP01  | Módulo de sugerencia de tacho alternativo        | US03                    | Media     | 3            |
+| 4     | EP02  | Mapa de tachos con indicadores de llenado        | US04                    | Alta      | 5            |
+| 5     | EP02  | Panel de control municipal                       | US05                    | Alta      | 8            |
+| 6     | EP02  | Sistema de alertas automáticas a operarios       | US06                    | Alta      | 5            |
+| 7     | EP03  | Algoritmo de optimización de rutas               | US07                    | Alta      | 8            |
+| 8     | EP03  | App móvil con rutas optimizadas                  | US07                    | Alta      | 8            |
+| 9     | EP03  | Notificaciones en tiempo real de cambios en ruta | US08                    | Media     | 3            |
+| 10    | EP03  | Confirmación digital de recolección              | US09                    | Media     | 2            |
+| 11    | EP04  | Generación automática de reportes de eficiencia  | US10                    | Media     | 5            |
+| 12    | EP04  | Descarga de reportes en PDF                      | US11                    | Baja      | 2            |
+| 13    | EP04  | Comparación de métricas históricas               | US12                    | Baja      | 3            |
+
 
 <br><br>
 
