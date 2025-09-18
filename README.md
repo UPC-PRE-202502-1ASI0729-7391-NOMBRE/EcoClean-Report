@@ -365,7 +365,41 @@ Ciudadano
 
 ## 2.4. Big Picture Event Storming.
 
+Para nuestra startup, el EventStorming se utiliza para entender cómo interactúan los diferentes actores (ciudadanos, sensores IoT, sistema central, operarios y municipalidades) en el proceso de gestión inteligente de residuos. A través de la identificación de eventos clave, podemos visualizar el recorrido completo desde el depósito de residuos hasta la generación de reportes de eficiencia.
+
+**Eventos principales identificados**
+| Evento                                               | Actor principal      | Resultado esperado                                                                          |
+| ---------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------- |
+| Ciudadano deposita residuos en el tacho inteligente  | Ciudadano            | El sensor IoT registra el nuevo nivel de llenado.                                           |
+| Sensor IoT detecta nivel de llenado crítico          | Sensor IoT           | Envío de datos al sistema central en tiempo real.                                           |
+| Sistema central procesa información recibida         | Plataforma EcoSmart  | Cálculo automático del estado de los tachos y predicción de próximos llenados.              |
+| Algoritmo de optimización genera ruta de recolección | Sistema EcoSmart     | Creación de rutas eficientes para camiones recolectores.                                    |
+| Notificación de recolección enviada a operarios      | Sistema EcoSmart     | Operarios reciben las instrucciones en su aplicación móvil.                                 |
+| Camión recolector ejecuta ruta y recolecta residuos  | Operario de limpieza | El nivel del tacho se reinicia tras la recolección.                                         |
+| Sistema genera reporte de eficiencia                 | Plataforma EcoSmart  | Se consolidan métricas de ahorro de costos, reducción de emisiones y cumplimiento de rutas. |
+
+Este flujo permite identificar cuellos de botella, oportunidades de mejora y puntos críticos en los que la tecnología aporta valor directo al proceso de gestión de residuos.
+
+
 ## 2.5. Ubiquitous Language.
+
+El Lenguaje Ubicuo (Ubiquitous Language) es un conjunto de términos compartidos entre todos los miembros del proyecto (equipo técnico, stakeholders y usuarios finales) que busca evitar malentendidos y asegurar que la comunicación sea clara y consistente. Se construye a partir del dominio del negocio y sirve de referencia tanto en la documentación como en la implementación técnica.
+
+En el marco de nuestro proyecto, hemos definido un glosario de términos clave que serán utilizados de manera uniforme en todo el proceso de desarrollo:
+
+| Término                      | Definición                                                                                                                              |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tacho inteligente**        | Contenedor de residuos equipado con sensores IoT que permiten medir en tiempo real el nivel de llenado.                                 |
+| **Sensor IoT**               | Dispositivo que recolecta datos del estado de los tachos (nivel de llenado, temperatura, ubicación) y los transmite al sistema central. |
+| **Sistema central EcoSmart** | Plataforma tecnológica que recibe, procesa y analiza los datos enviados por los tachos inteligentes.                                    |
+| **Ruta optimizada**          | Itinerario generado por el algoritmo para maximizar la eficiencia en la recolección de residuos, reduciendo tiempos y costos.           |
+| **Operario de limpieza**     | Persona encargada de ejecutar las rutas asignadas y realizar la recolección física de los residuos.                                     |
+| **Panel de control**         | Interfaz utilizada por municipalidades u operadores para monitorear en tiempo real el estado de los tachos, las rutas y los reportes.   |
+| **Alerta automática**        | Notificación generada por el sistema cuando un tacho alcanza un nivel crítico de llenado.                                               |
+| **Reporte de eficiencia**    | Documento con métricas de desempeño relacionadas al ahorro económico, reducción de emisiones de CO₂ y efectividad del servicio.         |
+
+Este glosario será la base de nuestra comunicación durante el desarrollo, evitando confusiones entre términos técnicos y de negocio.
+
 <br><br>
 
 # Capítulo III: Requirements Specification
