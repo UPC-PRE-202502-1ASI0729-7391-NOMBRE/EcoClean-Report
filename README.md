@@ -125,12 +125,12 @@
   - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-  - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-  - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-  - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.6.1. Design-Level Event Storming](#461-seding-level-event-storming) 
+  - [4.6.2. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+  - [4.6.3. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+  - [4.6.4. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
-  - [4.7.2. Class Dictionary](#472-class-dictionary)
 - [4.8. Database Design](#48-database-design)
   - [4.8.1. Database Diagram](#481-database-diagram)
 
@@ -258,7 +258,7 @@
 ### Overview  
 EcoSmart busca proyectar una imagen moderna, confiable y comprometida con la sostenibilidad. Su estilo combina la seriedad de una marca tecnológica con la frescura y vitalidad que transmite el color verde, reflejando el propósito de optimizar la gestión de residuos de forma innovadora y responsable.  
 
-
+  <img src="https://i.postimg.cc/26YL1GmV/Logo-Eco-Smart.jpg" alt="EcoSmart Logo" width="300"/>
 
 ### Brand Name  
 **EcoSmart Waste Solutions**  
@@ -287,16 +287,18 @@ El nombre transmite dos ideas centrales: la conciencia ecológica (“Eco”) y 
   - Principal: Verde (#2E7D32) con texto blanco.  
   - Secundario: Gris oscuro (#333333) con texto blanco.  
 - **Hover:** Cambio a un verde más brillante (#43A047) o sombra ligera para indicar interacción.  
-- **Texto:** Breve, en mayúsculas y con un estilo claro (ejemplo: “REGISTRAR”, “ENVIAR”).  
+- **Texto:** Breve, en mayúsculas y con un estilo claro (ejemplo: “REGISTRAR”, “ENVIAR”).
+
+<img src="https://i.postimg.cc/nryyx06h/Model-Botones-Eco-Smart.png" alt="EcoSmart Botones" width="300"/>
 
 ### Paleta de Colores  
 - **Verde principal:** #2E7D32 (sostenibilidad, confianza).  
 - **Verde secundario:** #43A047 (dinamismo, frescura).  
 - **Negro/Gris oscuro:** #212121 (formalidad, solidez).  
 - **Blanco:** #FFFFFF (limpieza, claridad).  
-- **Gris claro:** #E0E0E0 (equilibrio, fondos o secciones secundarias).  
+- **Gris claro:** #E0E0E0 (equilibrio, fondos o secciones secundarias).
 
-Con esta guía, EcoSmart mantiene una identidad visual coherente que refuerza su propósito de ser una solución tecnológica sostenible y confiable en el ámbito de la gestión de residuos.  
+<img src="https://i.postimg.cc/28nJvdsn/Colores-Eco-Smart.png" alt="EcoSmart Colores" width="600"/>
 
 ### 4.1.2. Web Style Guidelines
 
