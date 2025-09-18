@@ -355,6 +355,14 @@ Ciudadano
 
 ### 2.3.4. Empathy Mapping
 
+Funcionario Municipal
+
+[![Empathy-map-Carlos.png](https://i.postimg.cc/J4b1Sk4p/Empathy-map-Carlos.png)](https://postimg.cc/N5jqHLXX)
+
+Ciudadano
+
+[![Empathy-map-Diego.png](https://i.postimg.cc/4ypgCDZY/Empathy-map-Diego.png)](https://postimg.cc/XBNhdDrW)
+
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
