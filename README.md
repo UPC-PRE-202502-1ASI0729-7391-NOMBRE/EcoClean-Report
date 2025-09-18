@@ -306,6 +306,15 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 
 ### 2.3.1. User Personas
 
+User Persona - Funcionario Municipal
+
+[![Carlos-Ram-rez.png](https://i.postimg.cc/v81Gz9d1/Carlos-Ram-rez.png)](https://postimg.cc/7bkvP5hD)
+
+User Persona - Ciudadano
+
+[![Diego-Alarc-n.png](https://i.postimg.cc/V62QTGcJ/Diego-Alarc-n.png)](https://postimg.cc/TLj45c1x)
+
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
