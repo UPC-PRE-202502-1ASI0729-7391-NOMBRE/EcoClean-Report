@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img width=140 src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png"/>
+  <img width=200 src="images/commons/upcLogo.png"/>
 </div>
 
 <br>
