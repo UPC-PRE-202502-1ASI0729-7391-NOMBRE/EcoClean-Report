@@ -370,21 +370,19 @@
 
 ### 2.3.4. Empathy Mapping
 
-### 2.3.5. As-is Scenario Mapping
+## 2.4. Big Picture Event Storming
 
-## 2.4. Ubiquitous Language
+## 2.5. Ubiquitous Language
 
 <br><br>
 
 # Capítulo III: Requirements Specification
 
-## 3.1. To-Be Scenario Mapping
+## 3.1. User Stories
 
-## 3.2. User Stories
+## 3.2. Impact Mapping
 
-## 3.3. Impact Mapping
-
-## 3.4. Product Backlog
+## 3.3. Product Backlog
 
 <br><br>
 
@@ -428,6 +426,8 @@
 
 ## 4.6. Domain-Driven Software Architecture
 
+### 4.6.1. Design-Level Event Storming.
+
 ### 4.6.1. Software Architecture Context Diagram
 
 ### 4.6.2. Software Architecture Container Diagrams
@@ -437,8 +437,6 @@
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-
-### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design
 
@@ -464,11 +462,11 @@
 
 #### 5.2.1.1. Sprint Planning 1
 
-#### 5.2.1.2. Sprint Backlog 1
+#### 5.2.1.2. Aspect Leaders and Collaborators.
 
-#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.3. Sprint Backlog 1
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Development Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
