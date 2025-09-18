@@ -345,6 +345,14 @@ User Persona - Ciudadano
 
 ### 2.3.3. User Journey Mapping
 
+Funcionario Municipal
+
+[![User-journey-map-Carlos.png](https://i.postimg.cc/KzzSzKbh/User-journey-map-Carlos.png)](https://postimg.cc/1gLY734v)
+
+Ciudadano
+
+[![User-journey-map-Diego.png](https://i.postimg.cc/NGKFCFHn/User-journey-map-Diego.png)](https://postimg.cc/JtWRG1K3)
+
 ### 2.3.4. Empathy Mapping
 
 ### 2.3.5. As-is Scenario Mapping
