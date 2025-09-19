@@ -355,7 +355,21 @@ La idea central es que el recorrido dentro de la web sea fluido: el usuario entr
 
 ### 4.3.1. Landing Page Wireframe
 
+En esta sección mostramos los wireframes del Landing Page, diseñados tanto para Desktop Web Browser como para Mobile Web Browser.
+
+El objetivo del wireframe es organizar el contenido de forma clara y coherente, aplicando principios de diseño inclusivo y accesibilidad, asegurando que cualquier usuario pueda navegar y entender la información sin dificultad.
+
+### Desktop Web Browser
+
+<img src="https://i.postimg.cc/cLv8H7CS/Eco-Smart-figma-guia.png" alt="EcoSmart WireFame Page"/>
+
+### Mobile Web Browser
+
 ### 4.3.2. Landing Page Mock-up
+
+Los mock-ups del Landing Page muestran la propuesta visual final, aplicando los principios de diseño definidos en el Design System de EcoSmart.  
+
+<img src="https://i.postimg.cc/qMk59qRn/Eco-Smart-figma-guia-1.png"/>
 
 ## 4.4. Web Applications UX/UI Design
 
