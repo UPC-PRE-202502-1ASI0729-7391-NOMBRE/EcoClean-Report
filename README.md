@@ -294,13 +294,62 @@ El estilo web de EcoSmart está pensado para adaptarse a cualquier dispositivo, 
 
 ### 4.2.1. Organization Systems
 
+En EcoSmart decidimos organizar el contenido de forma que sea fácil de entender y que cada usuario pueda llegar rápido a lo que busca. Para la página web vamos a usar una **estructura jerárquica**, colocando primero lo más importante como la propuesta de valor y los beneficios, y luego los detalles secundarios como testimonios y contacto. En la aplicación, en cambio, optamos por una **organización secuencial**, especialmente en procesos como el registro o la creación de rutas, donde es clave seguir pasos claros y ordenados. Además, en la parte de reportes aplicaremos una **organización matricial**, que permite cruzar información según variables como fechas, zonas o tipos de residuos.  
+
+Respecto a la categorización del contenido, usaremos distintos enfoques según el caso: de manera cronológica para reportes e historiales, por tópicos para explicar funcionalidades y beneficios en la web, y por audiencia para diferenciar entre municipios y empresas privadas dentro de la app. El orden alfabético lo reservamos solo para listados largos en los que realmente ayude a encontrar algo más rápido.  
+
+Con estas decisiones buscamos que tanto la web como la aplicación transmitan claridad y que los usuarios puedan adaptarse sin esfuerzo a las funcionalidades de EcoSmart. 
+
 ### 4.2.2. Labeling Systems
+
+Apostamos por un sistema de etiquetas que sea directo y fácil de entender, evitando tecnicismos innecesarios que puedan generar confusión. Usaremos palabras cortas y concretas para identificar cada sección o conjunto de datos. Por ejemplo, en la aplicación se emplearán etiquetas como “Rutas”, "Reportes”, “Alertas” y “Configuración”, mientras que en la página web priorizaremos términos como “Inicio”, “Beneficios”, “Funcionalidades”, “Planes” y “Contacto”.  
+
+Además, las etiquetas estarán organizadas de manera coherente con la experiencia de cada usuario: los municipios verán opciones relacionadas con gestión de residuos y eficiencia operativa, mientras que las empresas privadas tendrán accesos más claros a costos, métricas y optimización de rutas.  
+
+La idea es mantener siempre un lenguaje sencillo y consistente, de modo que el usuario pueda asociar rápidamente cada palabra con la acción o información que representa, sin necesidad de explicaciones adicionales.  
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Los SEO y meta tags se definieron pensando en dos segmentos principales: las **municipalidades**, que buscan optimizar la gestión de residuos, y los **ciudadanos**, que requieren información clara y herramientas accesibles para colaborar en el cuidado del entorno.  
+
+### Landing Page  
+- **Title:** EcoSmart | Tecnología para una ciudad más limpia  
+- **Meta Description:** Plataforma que conecta a municipalidades y ciudadanos para mejorar la gestión de residuos, optimizar rutas de recolección y fomentar hábitos sostenibles.  
+- **Meta Keywords:** EcoSmart, gestión de residuos, municipalidades, ciudadanos, rutas inteligentes, sostenibilidad urbana.  
+- **Author:** Equipo EcoSmart  
+
+### Web Application  
+- **Title:** EcoSmart App | Gestión eficiente de residuos para municipalidades y ciudadanos  
+- **Meta Description:** Aplicación web diseñada para municipalidades y ciudadanos que permite monitorear la recolección de residuos, reducir costos y mejorar la limpieza urbana.  
+- **Meta Keywords:** EcoSmart App, gestión municipal, participación ciudadana, residuos sólidos, eficiencia operativa, limpieza pública.  
+- **Author:** Equipo EcoSmart  
+
 ### 4.2.4. Searching Systems
 
+Nuestro sistema de búsqueda está diseñado para ser sencillo, útil y adaptado a las necesidades reales de los usuarios. La idea es ofrecer herramientas básicas que permitan a los ciudadanos y a las municipalidades interactuar de forma clara y práctica.  
+
+**Opciones principales de búsqueda y consulta**  
+
+- **Barra de búsqueda por distrito:** En la parte superior de la página se podrá ingresar el nombre del distrito para acceder rápidamente a la información disponible.  
+- **Mapa interactivo sencillo:** Un mapa mostrará los distritos y señalará los puntos donde se encuentran tachos de basura públicos. Los usuarios podrán marcar si detectan exceso de residuos en alguno de ellos.  
+- **Sección de comentarios ciudadanos:** Un espacio donde las personas podrán leer experiencias de otros usuarios y compartir sus propias quejas o sugerencias.  
+- **Envío de reportes a la municipalidad:** Además del mapa, los usuarios podrán enviar un mensaje directo a la municipalidad para notificar problemas o brindar recomendaciones.  
+
+Con estas opciones, buscamos que los ciudadanos encuentren lo que necesitan sin dificultad y que las municipalidades reciban información útil para mejorar la gestión de residuos.
+
 ### 4.2.5. Navigation Systems
+
+El sistema de navegación de EcoSmart busca que tanto los ciudadanos como las municipalidades puedan moverse por la página de forma simple e intuitiva, sin necesidad de pasos complicados. La estructura está pensada para que el usuario encuentre lo que necesita en pocos clics y pueda cumplir su objetivo con rapidez.  
+
+**Principales elementos de navegación**  
+
+- **Menú principal fijo:** Incluye accesos directos a las secciones más importantes como Inicio, Información del distrito, Reportes ciudadanos* y *Mapa de tachos.  
+- **Mapa interactivo:** Permite recorrer visualmente los distritos, ubicar tachos de basura y marcar reportes de exceso de residuos.  
+- **Acceso rápido a comentarios:** Un botón llevará directamente a la sección donde los ciudadanos pueden leer y dejar sus opiniones.  
+- **Enlace directo a municipalidades:** Sección clara para que los usuarios envíen mensajes o reportes directamente a su distrito correspondiente.  
+- **Navegación responsive:** Todo el sistema de menús y accesos se adapta a móviles, tablets y pantallas más grandes, garantizando facilidad de uso en cualquier dispositivo.  
+
+La idea central es que el recorrido dentro de la web sea fluido: el usuario entra, encuentra lo que busca sin perder tiempo y puede interactuar con las funciones principales de manera natural.
 
 ## 4.3. Landing Page UI Design
 
