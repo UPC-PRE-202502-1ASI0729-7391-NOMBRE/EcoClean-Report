@@ -254,53 +254,42 @@
 
 ### 4.1.1. General Style Guidelines
 
-### Overview  
-EcoSmart busca proyectar una imagen moderna, confiable y comprometida con la sostenibilidad. Su estilo combina la seriedad de una marca tecnológica con la frescura y vitalidad que transmite el color verde, reflejando el propósito de optimizar la gestión de residuos de forma innovadora y responsable.  
+#### Overview: 
+La identidad visual de **EcoSmart** busca transmitir confianza, sostenibilidad y profesionalismo. Queremos que nuestra marca refleje innovación en la gestión de residuos, pero al mismo tiempo sea cercana y clara para quienes la usan.  
 
-  <img src="https://i.postimg.cc/26YL1GmV/Logo-Eco-Smart.jpg" alt="EcoSmart Logo" width="300"/>
+<img src="https://i.postimg.cc/26YL1GmV/Logo-Eco-Smart.jpg" alt="EcoSmart Logo" width="300"/>
+  
+#### Brand Name: 
+- **EcoSmart Waste Solutions**  
 
-### Brand Name  
-**EcoSmart Waste Solutions**  
-El nombre transmite dos ideas centrales: la conciencia ecológica (“Eco”) y la inteligencia aplicada a soluciones tecnológicas (“Smart”).  
+#### Typography: 
+Decidimos usar Open Sans en todo el sitio porque ofrece una lectura sencilla y moderna, adaptándose muy bien a cualquier pantalla.  
+Su diseño equilibrado y agradable genera una experiencia fluida, accesible y coherente con la identidad de EcoSmart, que busca transmitir confianza y cercanía en cada interacción.  
 
-### ¿Qué debe tener?  
-- Claridad y legibilidad en todo tipo de formatos.  
-- Uso consistente del color verde en elementos clave.  
-- Asociaciones con sostenibilidad, tecnología y eficiencia.  
-- Diseños simples y minimalistas que refuercen la modernidad de la marca.  
+<img src="https://i.postimg.cc/8s8nrskp/Letra-Eco-Smart.png" alt="EcoSmart Letra" width="300"/>
 
-### ¿Qué no debe tener?  
-- Sobrecarga visual o uso de colores ajenos a la paleta definida.  
-- Tipografías decorativas que dificulten la lectura.  
-- Elementos gráficos recargados o poco relacionados con la identidad ambiental.  
-- Uso incorrecto del logo (distorsionado, pixelado o con fondos que reduzcan contraste).  
-
-### Tipography  
-- **Principal (Títulos):** Fuente sans-serif moderna, como *Montserrat* o *Poppins*.  
-- **Secundaria (Texto):** Fuente sans-serif ligera y legible, como *Open Sans* o *Roboto*.  
-- **Estilo general:** Uso de negritas en titulares y un espaciado cómodo para mejorar la lectura.  
-
-### Buttons  
-- **Forma:** Rectangular con bordes ligeramente redondeados.  
-- **Colores:**  
-  - Principal: Verde (#2E7D32) con texto blanco.  
-  - Secundario: Gris oscuro (#333333) con texto blanco.  
-- **Hover:** Cambio a un verde más brillante (#43A047) o sombra ligera para indicar interacción.  
-- **Texto:** Breve, en mayúsculas y con un estilo claro (ejemplo: “REGISTRAR”, “ENVIAR”).
+#### Buttons:  
+- Bordes redondeados para mantener un estilo amigable.  
+- Colores principales de la paleta (verde para acciones primarias, negro o gris oscuro para secundarias).  
+- Texto siempre en **mayúsculas**, con un tamaño legible y contraste adecuado.  
+- Ejemplo: Botón principal verde con texto en blanco.  
 
 <img src="https://i.postimg.cc/nryyx06h/Model-Botones-Eco-Smart.png" alt="EcoSmart Botones" width="300"/>
 
-### Paleta de Colores  
-- **Verde principal:** #2E7D32 (sostenibilidad, confianza).  
-- **Verde secundario:** #43A047 (dinamismo, frescura).  
-- **Negro/Gris oscuro:** #212121 (formalidad, solidez).  
-- **Blanco:** #FFFFFF (limpieza, claridad).  
-- **Gris claro:** #E0E0E0 (equilibrio, fondos o secciones secundarias).
+#### Paleta de Colores:  
+- Verde (#2E7D32): representa sostenibilidad y acción ecológica.  
+- Negro (#000000): aporta profesionalismo y seriedad.  
+- Gris oscuro (#424242): ideal para fondos y textos secundarios.  
+- Blanco (#FFFFFF): transmite limpieza, claridad y orden.  
 
 <img src="https://i.postimg.cc/28nJvdsn/Colores-Eco-Smart.png" alt="EcoSmart Colores" width="600"/>
 
 ### 4.1.2. Web Style Guidelines
 
+El estilo web de EcoSmart está pensado para adaptarse a cualquier dispositivo, manteniendo una estructura en cuadrícula que facilita la navegación. Usamos la tipografía Open Sans por su claridad y buena lectura, junto con una paleta de colores basada en verde (#2E7D32), negro, gris y blanco que refuerza nuestra identidad. Los botones principales son verdes con texto blanco, mientras que los secundarios usan blanco con borde negro. En las interacciones añadimos efectos sutiles como hover con sombra para dar dinamismo sin perder simplicidad. Todo el diseño busca ser claro, accesible y coherente con la propuesta de EcoSmart.  
+
+<img src="https://i.postimg.cc/J0dHTBH8/Web-Style-Eco-Smart.png" alt="EcoSmart Colores" width="600"/>
+  
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
