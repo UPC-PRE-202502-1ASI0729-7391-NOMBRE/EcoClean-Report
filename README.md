@@ -307,7 +307,7 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 | Género: Masculino |
 | Edad: 23 años |
 | Link de la entrevista (YouTube): [https://youtu.be/qL3hUyrXn1c](https://youtu.be/qL3hUyrXn1c) |
-| |
+| Jorge Chumpitaz, un empleado de la municipalidad de comas, responde algunas preguntas relacionado al manejo de recolección de basura en las calles, parques, etc de su distrito, comenta que no hay un sistema donde les avise cuando un lugar está lleno de basura o avise cuánta basura recolectaron en una ronda. Comenta que a la municipalidad le gustaría tener una app donde les avise cuando un tacho de basura se encuentra lleno para poder mandar al personal de limpieza a ese punto fijo, y que están abiertos a hacer pruebas con proyectos como EcoSmart para facilitar y mejorar el manejo de recolección de basura. Y esperan tener las calles, avenidas, parques, centros de salud, etc, más limpias y seguras para la vida de los pobladores en el distrito de comas. |
 
 # Entrevistas del Segmento N°2: Ciudadanos urbanos 
 | ![Foto](https://i.postimg.cc/N0ZrhKkx/Entrevista-Alessandro-Eco-Smart.png) |
