@@ -381,6 +381,10 @@ El esquema de contexto es un recurso de análisis que ayuda a visualizar cómo s
 
 ### 4.6.3. Software Architecture Container Diagrams
 
+El diagrama de contenedores es un recurso clave para entender la arquitectura de ECOSMART y reconocer posibles limitaciones o dependencias que no aportan valor.
+
+<p align = "center"> <img  alt="Diagram Context" src="./images/commons/container_diagram.png"> </p>
+
 ### 4.6.4. Software Architecture Components Diagrams
 
 ## 4.7. Software Object-Oriented Design
