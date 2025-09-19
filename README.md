@@ -235,7 +235,8 @@
 | <img src="images/developers/AndreeCardenas.png" alt="Andree" width="300"> | Nombre: Mathias Andree Cárdenas Huaman <br>Código: U202316353<br> Actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Soy proactivo y comunicativo, trabajo en equipo y resolución de problemas, también me gusta colocarme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarla con la máxima nota posible. |
 |  |  |
 |  |  |
-|  |  |
+| <img width="404" height="521" alt="foto" src="https://github.com/user-attachments/assets/9cda02fd-c03f-4330-aa9d-0facd565dfc7" />
+ | Hola, soy Joaquín Carranza. Tengo 24 años y actualmente curso el sexto ciclo de la carrera de Ingeniería de Software. Me gusta la tecnología y la forma en que ayuda a las personas a resolver problemas de manera más rápida y eficiente. Me interesa especialmente el manejo de datos y la ciberseguridad. Siento que puedo aportar a mi equipo ideas desde otra perspectiva, ya que siempre me cuestiono cómo se podría mejorar el producto o hacia qué objetivo estamos apuntando. |
 
 ## 1.2. Solution Profile
 
