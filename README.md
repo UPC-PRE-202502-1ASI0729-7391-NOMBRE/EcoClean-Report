@@ -300,6 +300,8 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 
 ### 2.2.2. Registro de entrevistas
 
+#  Entrevistas del Segmento N°1:
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
