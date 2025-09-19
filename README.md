@@ -30,7 +30,7 @@
 |  |  |
 | Mathias Andree Cardenas Huaman | U202316353 |
 | Diego Andres Avalos Cordova    | U202313922 |
-|  |  |
+| Joaquin Enrique Carranza Tesén | U20191B935 |
 |  |  |
 
 </div>
