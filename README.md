@@ -301,14 +301,13 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 ### 2.2.2. Registro de entrevistas
 
 # Entrevistas del Segmento N°1: 
-|  |
+| ![Foto](https://i.postimg.cc/zXJmw0Yn/Entrevista-Jorge-Ecosmart.png) |
 |--------|
 | Entrevistado: Jorge Chumpitaz |
 | Género: Masculino |
 | Edad: 23 años |
-| Foto: ![Foto](https://i.postimg.cc/zXJmw0Yn/Entrevista-Jorge-Ecosmart.png) |
 | Link de la entrevista (YouTube): [https://youtu.be/qL3hUyrXn1c](https://youtu.be/qL3hUyrXn1c) |
-|  |
+| |
 
 # Entrevistas del Segmento N°2: Ciudadanos urbanos 
 | ![Foto](https://i.postimg.cc/N0ZrhKkx/Entrevista-Alessandro-Eco-Smart.png) |
