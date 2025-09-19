@@ -232,7 +232,7 @@
 | Perfil | Descripción |
 |--------|-------------|
 | <img src="https://github.com/user-attachments/assets/e00b64e9-a7e7-4e49-97f3-1811059412be" alt="Imagen de WhatsApp" width="300"> |<p> Hola, mi nombre es Diego Ávalos, soy estudiante de la carrera<br>de Ingeniería de Software en la UPC y actualmente curso el sexto ciclo.<br>Me apasiona el campo de la Ciberseguridad y mi objetivo es especializarme<br>en esta área para convertirme en un profesional capaz de aportar soluciones<br>innovadoras en la protección de la información. Tengo conocimientos en C++,<br>JavaScript, HTML y Python, y me encuentro en constante aprendizaje de nuevos<br>lenguajes y tecnologías que fortalezcan mis habilidades técnicas.<br>Además, me interesa participar en proyectos que me permitan crecer tanto<br>a nivel académico como profesional, desarrollando experiencia práctica y<br>aportando valor en el ámbito tecnológico.</p>|
-|  |  |
+| <img src="images/developers/AndreeCardenas.png" alt="Andree" width="300"> | Nombre: Mathias Andree Cárdenas Huaman <br>Código: U202316353<br> Actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Soy proactivo y comunicativo, trabajo en equipo y resolución de problemas, también me gusta colocarme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarla con la máxima nota posible. |
 |  |  |
 |  |  |
 |  |  |
