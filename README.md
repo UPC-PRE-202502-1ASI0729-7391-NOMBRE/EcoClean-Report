@@ -94,7 +94,7 @@
   - [2.3.2. User Task Matrix](#232-user-task-matrix)
   - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-- [2.4. Big Picture Event Storming.](#24-big-picture-event-storming.)
+- [2.4. Big Picture Event Storming](#24-big-picture-event-storming)
 - [2.5. Ubiquitous Language](#25-ubiquitous-language)
 
 ### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
@@ -300,7 +300,16 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 
 ### 2.2.2. Registro de entrevistas
 
-#  Entrevistas del Segmento N°1:
+# Entrevistas del Segmento N°1: 
+
+# Entrevistas del Segmento N°2: Ciudadanos urbanos 
+|  |
+|  |
+| Entrevistado: Alessandro Bravo |
+| Género: Masculino |
+| Edad: 22 años |
+| Link de la entrevista (YouTube): [https://youtu.be/36lqm5R-UhA](https://youtu.be/36lqm5R-UhA) |
+| Alessandro Bravo, un joven de 22 años que reside en San Martin de Porres, actualmente está estudiando en la Universidad Peruana de Ciencias Aplicadas (UPC). |
 
 ### 2.2.3. Análisis de entrevistas
 
