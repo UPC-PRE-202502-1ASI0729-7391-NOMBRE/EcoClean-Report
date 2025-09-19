@@ -387,6 +387,25 @@ El diagrama de contenedores es un recurso clave para entender la arquitectura de
 
 ### 4.6.4. Software Architecture Components Diagrams
 
+Los diagramas de componentes proporcionan una visión precisa de la arquitectura del software, mostrando su división en módulos y la manera en que estos interactúan para conformar un sistema integrado.
+
+*Recolection Request Manager Bounded Context*
+
+<p align = "center"> <img  alt="Diagram Context" src="./images/commons/component_diagram1.png"> </p>
+
+*Recolection Request Manager Bounded Context*
+
+<p align = "center"> <img  alt="Diagram Context" src="./images/commons/component_diagram1.png"> </p>
+
+*Route Management and Recolection Status Bounded Context*
+
+<p align = "center"> <img  alt="Diagram Context" src="./images/commons/component_diagram2.png"> </p>
+
+*Recollection Request and Schedule Bounded Context*
+
+<p align = "center"> <img  alt="Diagram Context" src="./images/commons/component_diagram2.png"> </p>
+
+
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
