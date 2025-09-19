@@ -375,6 +375,10 @@ La idea central es que el recorrido dentro de la web sea fluido: el usuario entr
 
 ### 4.6.2. Software Architecture Context Diagram
 
+El esquema de contexto es un recurso de análisis que ayuda a visualizar cómo se relaciona ECOSMART con su entorno, lo que permite detectar oportunidades de integración y áreas de mejora.
+
+<p align = "center"> <img  alt="Diagram Context" src="./images/commons/context_diagram.png"> </p>
+
 ### 4.6.3. Software Architecture Container Diagrams
 
 ### 4.6.4. Software Architecture Components Diagrams
