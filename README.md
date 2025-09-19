@@ -303,12 +303,11 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 # Entrevistas del Segmento N°1: 
 
 # Entrevistas del Segmento N°2: Ciudadanos urbanos 
-|  |
+| ![Foto](https://i.postimg.cc/N0ZrhKkx/Entrevista-Alessandro-Eco-Smart.png) |
 |--------|
 | Entrevistado: Alessandro Bravo |
 | Género: Masculino |
 | Edad: 20 años |
-| Foto: ![Foto](https://i.postimg.cc/N0ZrhKkx/Entrevista-Alessandro-Eco-Smart.png) |
 | Link de la entrevista (YouTube): [https://youtu.be/36lqm5R-UhA](https://youtu.be/36lqm5R-UhA) |
 | Alessandro Bravo, un joven de 20 años que reside en San Martin de Porres, actualmente está estudiando en la Universidad Peruana de Ciencias Aplicadas (UPC) y vive en un departamento. Maneja los residuos en casa con tachos en cocina, baños y escritorio, aunque reconoce que el servicio de recolección presenta problemas de horarios y en ocasiones no pasa, lo que provoca acumulación de basura. No ha participado en iniciativas de reciclaje, pero sugiere mejorar las rutas de recolección y considera útil una aplicación con horarios y alertas para organizarse mejor. Está dispuesto a reportar incidencias y se motivaría a participar en una gestión inteligente de residuos si introduce innovación y eficiencia en el sistema actual. |
 
