@@ -375,7 +375,44 @@ Los mock-ups del Landing Page muestran la propuesta visual final, aplicando los 
 
 ### 4.4.1. Web Applications Wireframes
 
+- Tenemos la pantalla de Bienvenida, en donde si ya tenemos una cuenta, podremos acceder con los datos que ya tenemos. 
+<img src="https://i.postimg.cc/rsB4SKKm/Wireframe-1.png"/>
+
+- Si no tenemos cuenta, podemos creanos una en el apartado de "Crear una nueva" donde ingresaremos los datos que nos piden.
+<img src="https://i.postimg.cc/y8Yc4J2M/Wireframe-2.png"/>
+
+- tenemos el apartado de "Buscar tendencia" donde podemos ver las tendencias de cada distrito y con su cantidad de reacciones.
+<img src="https://i.postimg.cc/3wzvvtWh/Wireframe-3.png"/>
+
+- Podemos entrar a cada publicación que haga un ciudadano, y dentro de ella podemos ver su información y podremos dar nuestras opiniones sobre aquella publicación.
+<img src="https://i.postimg.cc/j2bn8Czk/Wireframe-4.png"/>
+
+- Tenemos el apartado de "Mapa" en este apartado tendremos el mapa de los distritos y los puntos que marcan los tachos de basura que hay en cada lugar. 
+<img src="https://i.postimg.cc/m2TFCzZP/Wireframe-5.png"/>
+
+- Tenemos el apartado de "Mensaje directo" en este apartado podremos mandar mensajes directos a las municipalidades, reportando alguna queja o alguna sugerencia. 
+<img src="https://i.postimg.cc/FsGkZr1D/Wireframe-6.png"/>
+
+- El apartado "Tu perfil" donde puedes crear tu perfil para que las otras personas puedan saber quien eres y de donde eres.
+<img src="https://i.postimg.cc/Gm28gWyr/Wireframe-7.png"/>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+En esta sección presentamos la propuesta de Wireflows que describen los recorridos de los usuarios dentro de la aplicación. Cada Wireflow parte de un User Goal específico, definido a partir de nuestros User Persona (ciudadanos y municipalidades).  
+
+El objetivo es mostrar cómo se conectan los distintos pasos dentro de la aplicación, y cómo la interacción en cada pantalla produce cambios visuales o nuevas opciones. Para construirlos, partimos primero de los Task Flows, lo que nos permitió consensuar las rutas más comunes antes de diseñar el detalle de cada flujo.
+
+#### User Goal 1: Leer y publicar comentarios: 
+
+El usuario entra a la web, si tiene cuenta puede acceder a la pagina, si no, entonces se tiene que crear una cuenta nueva, una vez dentro puede leer comentarios pero si quiere comentar tiene que verificar si tiene creado su perfil para poder comentar una publicacion, si tiene creado su perfil puede comentar y si no entonces debe ir al apartado de perfil, y crearse un perfil, luego volver al aparato de tendencias y comentar.  
+
+<img src="https://i.postimg.cc/8P90XSFg/Diagramas-de-flujo.jpg"/>
+
+#### User Goal 2: Mandar mensaje directo a Municipalidad: 
+
+El usuario entra a la web, si tiene cuenta puede acceder a la pagina, si no, entonces se tiene que crear una cuenta nueva, una vez dentro puede ir al apartado de Mensaje directo, en donde podra enviar un mensaje directamente a la municipalidad de su distrito solo si tiene un perfil creado, si no entonces va al apartado mi perfi y se crea uno, luego vuelve al apartado de Mensaje directo y podra mandar un mensaje a la Municipalidad. 
+
+<img src="https://i.postimg.cc/VkW1xR3R/Diagramas-de-flujo-1.jpg"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
