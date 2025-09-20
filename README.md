@@ -420,6 +420,21 @@ El usuario entra a la web, si tiene cuenta puede acceder a la pagina, si no, ent
 
 ### 4.4.3. Web Applications Mock-ups
 
+<img src="https://i.postimg.cc/MZVNTYDJ/Mock-ups-Eco-Smart-1.png"/>
+<img src="https://i.postimg.cc/xjLj2MNc/Mock-ups-Eco-Smart-1-2.png"/>
+<img src="https://i.postimg.cc/90HW9FKm/Mock-ups-Eco-Smart-1-3.png"/>
+<img src="https://i.postimg.cc/hvWYsJKY/Mock-ups-Eco-Smart-2.png"/>
+<img src="https://i.postimg.cc/90PcYHHG/Mock-ups-Eco-Smart-5-1.png"/>
+<img src="https://i.postimg.cc/j57xCJ83/Mock-ups-Eco-Smart-5-2.png"/>
+<img src="https://i.postimg.cc/5yBRRx02/Mock-ups-Eco-Smart-3.png"/>
+<img src="https://i.postimg.cc/JnBgj3CJ/Mock-ups-Eco-Smart-4.png"/>
+<img src="https://i.postimg.cc/xdZhkxhn/Mock-ups-Eco-Smart-5.png"/>
+<img src="https://i.postimg.cc/FKzwH5PT/Mock-ups-Eco-Smart-6.png"/>
+<img src="https://i.postimg.cc/rwQvTF9d/Mock-ups-Eco-Smart-7.png"/>
+<img src="https://i.postimg.cc/zGJ94RTZ/Mock-ups-Eco-Smart-8.png"/>
+<img src="https://i.postimg.cc/X7KR2gGk/Mock-ups-Eco-Smart-9.png"/>
+<img src="https://i.postimg.cc/BQGWcz6v/Mock-ups-Eco-Smart-10.png"/>
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
