@@ -492,6 +492,8 @@ Los diagramas de componentes proporcionan una visión precisa de la arquitectura
 
 ### 4.7.1. Class Diagrams
 
+<p align = "center"> <img  alt="Class Diagram" src="./images/commons/uml_ecosmart.png"> </p>
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
