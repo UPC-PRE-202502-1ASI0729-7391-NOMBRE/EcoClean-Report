@@ -310,7 +310,7 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 | Jorge Chumpitaz, un empleado de la municipalidad de comas, responde algunas preguntas relacionado al manejo de recolección de basura en las calles, parques, etc de su distrito, comenta que no hay un sistema donde les avise cuando un lugar está lleno de basura o avise cuánta basura recolectaron en una ronda. Comenta que a la municipalidad le gustaría tener una app donde les avise cuando un tacho de basura se encuentra lleno para poder mandar al personal de limpieza a ese punto fijo, y que están abiertos a hacer pruebas con proyectos como EcoSmart para facilitar y mejorar el manejo de recolección de basura. Y esperan tener las calles, avenidas, parques, centros de salud, etc, más limpias y seguras para la vida de los pobladores en el distrito de comas. |
 
 ### Entrevistas del Segmento N°2: Ciudadanos urbanos 
-| ![Foto](https://i.postimg.cc/N0ZrhKkx/Entrevista-Alessandro-Eco-Smart.png) |
+| [![imagen-2025-09-19-231316201.png](https://i.postimg.cc/8PTdybmV/imagen-2025-09-19-231316201.png)](https://postimg.cc/c658CwzD) |
 |--------|
 | Entrevistado: Alessandro Bravo |
 | Género: Masculino |
@@ -318,13 +318,13 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 | Link de la entrevista (YouTube): [https://youtu.be/36lqm5R-UhA](https://youtu.be/36lqm5R-UhA) |
 | Alessandro Bravo, un joven de 20 años que reside en San Martin de Porres, actualmente está estudiando en la Universidad Peruana de Ciencias Aplicadas (UPC) y vive en un departamento. Maneja los residuos en casa con tachos en cocina, baños y escritorio, aunque reconoce que el servicio de recolección presenta problemas de horarios y en ocasiones no pasa, lo que provoca acumulación de basura. No ha participado en iniciativas de reciclaje, pero sugiere mejorar las rutas de recolección y considera útil una aplicación con horarios y alertas para organizarse mejor. Está dispuesto a reportar incidencias y se motivaría a participar en una gestión inteligente de residuos si introduce innovación y eficiencia en el sistema actual. |
 
-|  |
+| [![imagen-2025-09-19-231053307.png](https://i.postimg.cc/PxN98jN2/imagen-2025-09-19-231053307.png)](https://postimg.cc/hzWpHNLd) |
 |------|
 | Entrevistado: Andrea Santur |
 | Género: Feminino |
 | Edad: 19 años |
 | Link de la entrevista (YouTube): [https://youtu.be/nZILFH9AJQY](https://youtu.be/nZILFH9AJQY) |
-
+| Andrea Santur, de 19 años y estudiante de Ingeniería de Software, actualmente recidiendo en una casa, y explicó que en su hogar manejan los residuos de manera organizada con horarios definidos y separación en bolsas comunes y de reciclaje; sin embargo, ha observado problemas en espacios públicos como tachos mal gestionados y bolsas rotas por recicladores. Aunque no ha participado en iniciativas de reciclaje, está interesada en hacerlo y considera importante generar mayor conciencia social. Señaló que le gustaría ver mejoras en el servicio de recolección, como calles más limpias, recolección en todos los puntos y sectores exclusivos para desechar basura. |
 
 ### 2.2.3. Análisis de entrevistas
 
