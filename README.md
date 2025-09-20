@@ -369,7 +369,11 @@ El objetivo del wireframe es organizar el contenido de forma clara y coherente, 
 
 Los mock-ups del Landing Page muestran la propuesta visual final, aplicando los principios de diseño definidos en el Design System de EcoSmart.  
 
+### Desktop Web Browser
+
 <img src="https://i.postimg.cc/qMk59qRn/Eco-Smart-figma-guia-1.png"/>
+
+### Mobile Web Browser
 
 ## 4.4. Web Applications UX/UI Design
 
