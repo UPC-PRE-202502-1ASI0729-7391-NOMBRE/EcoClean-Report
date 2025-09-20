@@ -309,14 +309,84 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
+A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambios de desarrollo de EcoSmart.
 
 ### 5.1.1. Software Development Environment Configuration
 
+El equipo configuró un entorno de desarrollo colaborativo utilizando diversas herramientas:
+
+- Project Management:
+  * Canva: <br>Elaboración de presentaciones visuales y material de apoyo para la comunicación de avances.
+  * Zoom: <br>Coordinación y reuniones virtules del equipo, utilizada también para realizar y grabar la exposición final.
+  * Uxpressia: <br>Herramienta en línea que ayuda en el proceso de mapeo (user personas).
+    
+- Requirements Management:
+  * Miro: <br>Desarrollo de sesiones de brainstorming, modelado de EventStorming y gestión de requerimientos funcionales.
+
+- Product UX/UI Design:
+  * Figma: <br>Diseño de interfaces gráficas, prototipos interactivos y mockups de la solución.
+
+- Software Development:
+  * HTML: <br>Sirve para definir la estructura del contenido de una página web.
+  * CSS: <br>Se utiliza para dar estilo y diseño visual a las páginas web.
+  * JavaScript: <br>Es un lenguaje de programación que añade interactividad y dinamismo al sitio web.
+
+-  Software Documentation:
+  * GitHub: <br>Almacenamiento y control de versiones de la documentación, garantizando trazabilidad y colaboración entre los miembros del equipo.
+
 ### 5.1.2. Source Code Management
+
+Para la gestión del código fuente, se empleó GitHub como repositorio central. Se adoptaron ramas específicas para cada funcionalidad (feature branches) y se utilizó la técnica de pull requests para integrar cambios al repositorio principal. Esto permitió asegurar calidad en el código, revisiones colaborativas y trazabilidad de cada contribución.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+* HTML
+
+  - Uso de indentación de 2 espacios por nivel de anidamiento.
+
+  - Etiquetas y atributos escritos en minúsculas.
+
+  - Cierre correcto de todas las etiquetas, incluso las opcionales.
+
+  - Inclusión de comentarios en secciones clave (<!-- -->) para identificar bloques de contenido.
+
+  - Uso semántico de etiquetas (header, nav, main, section, footer) para mejorar la accesibilidad y el SEO.
+
+
+* CSS
+
+  - Organización del código en bloques por componente o sección de la interfaz.
+
+  - Uso de clases en lugar de IDs para la mayoría de estilos, siguiendo buenas prácticas de escalabilidad.
+
+  - Nombres de clases en kebab-case (ejemplo: .main-container).
+
+  - Inclusión de comentarios para separar secciones de estilos.
+
+  - Aplicación de diseño responsive con media queries para compatibilidad en distintos dispositivos.
+
+
+* JavaScript
+
+  - Uso de camelCase para variables y funciones (ejemplo: getUserData).
+
+  - Declaración de variables con const y let, evitando var.
+
+  - Inclusión de comentarios descriptivos (//) en funciones críticas.
+
+  - Modularización del código para separar funciones por responsabilidad.
+
+  - Manejo de errores con bloques try...catch en operaciones sensibles.
+
+  - Nombrado en inglés de todas las variables y funciones para mantener consistencia.
+
+
 ### 5.1.4. Software Deployment Configuration
+
+En esta fase inicial, el despliegue se simuló de forma local, aprovechando las capacidades de los navegadores para ejecutar HTML, CSS y JavaScript sin necesidad de un servidor dedicado. La documentación de configuración y evidencias de ejecución fueron almacenadas en GitHub, lo que asegura que el proyecto pueda ser replicado por cualquier miembro del equipo.
+<br>
+[![imagen-2025-09-19-193921569.png](https://i.postimg.cc/Rh0RJb2L/imagen-2025-09-19-193921569.png)](https://postimg.cc/hzHxHMDX)<br>
+[![imagen-2025-09-19-193809492.png](https://i.postimg.cc/T3K44h7J/imagen-2025-09-19-193809492.png)](https://postimg.cc/K1yfKcy1)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
