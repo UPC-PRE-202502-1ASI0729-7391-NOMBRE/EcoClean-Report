@@ -365,6 +365,8 @@ El objetivo del wireframe es organizar el contenido de forma clara y coherente, 
 
 ### Mobile Web Browser
 
+<img src="https://i.postimg.cc/NGd0n2N3/Mobile-landing-Page.png"/>
+
 ### 4.3.2. Landing Page Mock-up
 
 Los mock-ups del Landing Page muestran la propuesta visual final, aplicando los principios de diseño definidos en el Design System de EcoSmart.  
@@ -374,6 +376,8 @@ Los mock-ups del Landing Page muestran la propuesta visual final, aplicando los 
 <img src="https://i.postimg.cc/qMk59qRn/Eco-Smart-figma-guia-1.png"/>
 
 ### Mobile Web Browser
+
+<img src="https://i.postimg.cc/02L9gY7B/Mobile-mock-up.png"/>
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -436,6 +440,14 @@ El usuario entra a la web, si tiene cuenta puede acceder a la pagina, si no, ent
 <img src="https://i.postimg.cc/BQGWcz6v/Mock-ups-Eco-Smart-10.png"/>
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+#### Goal: El usuario quiere enviar un reporte de un tacho lleno
+
+<img src="https://i.postimg.cc/8zBm8bqp/Diagramas-de-flujo-2.jpg"/>
+
+#### Goal: El usuario quiere mandar un mensaje directo a la Municipalidad
+
+<img src="https://i.postimg.cc/tRxPQ5xK/Diagramas-de-flujo-3.jpg"/>
 
 ## 4.5. Web Applications Prototyping
 
