@@ -26,13 +26,13 @@
 <div align="center">
 
 
-| Versión | Fecha | Autor | Descripción de modificación |
-| :-----: | :---: | :---: | :-------------------------- |
-| TB1 | 11/09/25 | Andree Cardenas | CapÍtulo I y su descripción |
-| TB1 | 12/09/25 | Joaquin Carranza | Entrevistas, Diagrama de base de datos y Landing Page.  |
-| TB1 | 14/09/25 | Andree Cardenas | Parte final del Capítulo II |
-| TB1 | 15/09/25 | Andree Cardenas | Realización completa del Capítulo III |
-
+| Member                           |    Code    |
+| :------------------------------- | :--------: |
+| Mathias Andree Cardenas Huaman | U202316353 |
+| Diego Andres Avalos Cordova    | U202313922 |
+| Joaquin Enrique Carranza Tesén | U20191B935 |
+| Piero Alberto Velarde Luyo | U20211A620 |
+| Sebastian Gabriel Zuñiga Calle | U20221b479 |
 
 </div>
 
