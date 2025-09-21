@@ -46,7 +46,7 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
 | TB1 | 11/09/25 | Andree Cardenas | CapÍtulo I y su descripción |
-| TB1 | 12/09/25 | Andree Cardenas | Entrevistas del segmento 1 |
+| TB1 | 12/09/25 | Joaquin Carranza | Entrevistas, Diagrama de base de datos y Landing Page.  |
 | TB1 | 14/09/25 | Andree Cardenas | Parte final del Capítulo II |
 | TB1 | 15/09/25 | Andree Cardenas | Realización completa del Capítulo III |
 
