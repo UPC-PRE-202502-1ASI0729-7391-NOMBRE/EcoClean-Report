@@ -450,6 +450,17 @@ En esta fase inicial, el despliegue se simuló de forma local, aprovechando las 
 
 #### 5.2.1.2. Sprint Backlog 1
 
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| US14 | Barra de navegación en la Landing Page     | TS01 |Barra de navegación en la Landing Page (HTML, CSS y JS).| Implementación del header y la barra de navegación, desarrollados en HTML, CSS y JS con diseño responsive. | 8                  | Joaquin | Done                                   |
+| US15 | Sección "Lo que dicen nuestros clientes"    | TS02 | Sección "Lo que dicen nuestros clientes" (HTML, CSS y JS).|Implementación de la sección "Lo que dicen nuestros clientes", con diseño responsive y optimización en HTML, CSS y JS. | 6                | Diego/Andree | Done                                   |
+| US16 | Sección de soluciones       | TS03 | Sección de soluciones (HTML, CSS y JS).| Desarrollo de la sección de soluciones, con integración de una previsualizacion a los futuros features, en HTML, CSS y JS.           | 4                 | Piero   | Done                                   |
+| US17 | Descripcion de equipo de expertos | TS04 | Descripcion del equipo de expertos (HTML, CSS y JS).| Implementación de la sección de expertos, con diseño responsive en HTML, CSS y JS.| 4 | Gabriel | Done
+
+Este enfoque asegura que el equipo se concentre en las partes esenciales de la Landing Page, permitiendo que los usuarios exploren la plataforma de manera efectiva.
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
