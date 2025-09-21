@@ -1301,7 +1301,7 @@ Durante el Sprint 1, el landing page en su totalidad fue implementado por **Joaq
 
 #### Evidencia de colaboración en GitHub (Sprint 1)
 
-<p align="center"><img width="auto" height="auto" src="images/commons/contribution.png">
+<p align="center"><img width="auto" height="auto" src="images/commons/contributors.png">
 
 # Conclusiones
 
