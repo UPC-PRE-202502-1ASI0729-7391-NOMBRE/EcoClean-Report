@@ -1047,8 +1047,6 @@ Los diagramas de componentes proporcionan una visión precisa de la arquitectura
 <p align = "center"> <img  alt="Class Diagram" src="./images/commons/databasediagram.png"> </p>
 <br><br>
 
-<br><br>
-
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
