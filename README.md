@@ -1201,6 +1201,29 @@ En esta fase inicial, el despliegue se simuló de forma local, aprovechando las 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
+En este Sprint se trabajaron los principales aspectos relacionados con el desarrollo de la solución: **Landing Page**, **Web Applications** y **Web Services**. Con el fin de asegurar una comunicación clara y una adecuada distribución de responsabilidades, se elaboró la matriz de Liderazgo y Colaboración (LACX).  
+
+Este artefacto permite identificar a los miembros del equipo que lideran cada aspecto y aquellos que colaboran en su implementación, asegurando que las tareas del Sprint estén alineadas con las fortalezas y responsabilidades de cada integrante.  
+
+---
+
+## Leadership-and-Collaboration Matrix (LACX)
+
+| Team Member (Last Name, First Name) | GitHub Username      | Landing Page | Web Applications | Web Services |
+|-------------------------------------|----------------------|--------------|------------------|--------------|
+| Cardenas Huaman, Mathias Andree     | AndS56               | **L**        | C                | C            |
+| Zuniga Calle, Sebastian Gabriel     | sezunii              | C            | **L**            | C            |
+| Avalos Cordova, Diego Andres        | DiegoAndresAvalos    | C            | C                | **L**        |
+| Carranza Tesen, Joaquin Enrique     | thepima              | C            | C                | C            |
+| Velarde Luyo, Piero Alberto         | P1er0VL              | C            | C                | C            |
+
+---
+
+### Notas sobre la organización
+- Cada aspecto cuenta con **un líder principal (L)**, responsable de la planificación, coordinación y toma de decisiones.  
+- Los demás miembros se registran como **colaboradores (C)**, apoyando en tareas específicas.  
+- Esta organización guarda coherencia con la asignación de **tasks en el Sprint**, garantizando que cada aspecto del alcance esté cubierto y gestionado eficientemente.  
+
 #### 5.2.1.3. Sprint Backlog 1
 
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
