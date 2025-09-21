@@ -62,7 +62,7 @@
 
 | URL del repositorio del reporte |
 | ------------------------------- |
-| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Nombre-Report](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Nombre-Report) |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Report](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Report) |
 
 | URL del repositorio de la landing page |
 | -------------------------------------- |
