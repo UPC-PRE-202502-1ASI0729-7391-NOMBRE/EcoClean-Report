@@ -344,6 +344,35 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 
 ### 2.2.3. Análisis de entrevistas
 
+A partir de las entrevistas realizadas a los segmentos de **municipalidades** y **ciudadanos urbanos**, se identificaron puntos en común que permiten entender mejor sus necesidades y expectativas frente al manejo de residuos. A continuación, presentamos el análisis segmentado con porcentajes de coincidencia según la muestra.  
+
+#### Segmento 1: Municipalidades  
+
+Las entrevistas con Jorge Chumpitaz (Municipalidad de Comas) y Emmanuel Ñahuiña (Municipalidad de Lima) nos dejaron ver lo siguiente:  
+
+- **Falta de sistemas tecnológicos:** El 100% mencionó que no cuentan con alertas en tiempo real sobre tachos llenos o incidencias.  
+- **Interés en innovación:** Ambos entrevistados (100%) mostraron apertura a proyectos como EcoSmart, siempre que se acompañen de capacitación y soporte.  
+- **Problemas operativos:** El 50% señaló retrasos frecuentes por tráfico o fallas mecánicas, mientras que el otro 50% resaltó la falta de información inmediata sobre puntos críticos.  
+- **Indicadores de gestión:** El 100% coincidió en que los principales son puntualidad en el recojo, toneladas recolectadas y satisfacción ciudadana.  
+- **Barreras de implementación:** El 50% habló de resistencia inicial al cambio por parte del personal, y el otro 50% mencionó el presupuesto como principal limitante.  
+
+#### Segmento 2: Ciudadanos Urbanos  
+
+Con las entrevistas a Alessandro Bravo, Andrea Santur y Andre Bernaola se identificaron estos patrones:  
+
+- **Manejo en el hogar:** El 67% organiza la basura en casa, aunque el 100% señaló que el verdadero problema está en la gestión municipal y los espacios públicos.  
+- **Problemas de recolección:** Todos (100%) coincidieron en que hay deficiencias: horarios incumplidos, acumulación en los puntos de recojo y tachos mal gestionados.  
+- **Reciclaje:** El 100% dijo no haber participado en iniciativas de reciclaje, pero el 67% expresó interés en hacerlo si existieran sistemas claros y accesibles.  
+- **Uso de tecnología:** El 100% consideró útil una aplicación con horarios, rutas y alertas.  
+- **Participación ciudadana:** El 67% estaría dispuesto a reportar incidencias, siempre que la herramienta sea fácil de usar y tenga resultados visibles.  
+- **Expectativas:** El 100% espera mejoras en limpieza pública, mayor organización y transparencia en el servicio.  
+
+#### Conclusiones Generales  
+
+- Tanto municipalidades como ciudadanos coinciden en que el mayor problema está en la **ineficiencia del sistema de recolección actual**, más que en la disposición final de los residuos.  
+- Existe una **alta disposición hacia soluciones digitales** en ambos segmentos (100%), aunque con diferentes motivaciones: las municipalidades buscan eficiencia y reducción de costos, mientras que los ciudadanos valoran limpieza y transparencia.  
+- Las principales barreras detectadas son la **resistencia al cambio en las municipalidades** y la **escasa costumbre de participación ciudadana organizada** en el caso de los vecinos.  
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
