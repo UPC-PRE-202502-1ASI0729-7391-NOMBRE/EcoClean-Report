@@ -997,6 +997,10 @@ El usuario entra a la web, si tiene cuenta puede acceder a la pagina, si no, ent
 
 ## 4.5. Web Applications Prototyping
 
+En esta sección presentamos los prototipos de la aplicación web. El objetivo es mostrar cómo se verán y cómo se comportarán las interfaces en escenarios de navegación reales, basándonos en los User Flow Diagrams definidos anteriormente.
+
+<img src="https://i.postimg.cc/9QjpKwDt/Prototype-Eco-Smart.png"/>
+
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
