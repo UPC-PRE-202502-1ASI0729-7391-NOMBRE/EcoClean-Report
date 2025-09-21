@@ -1001,6 +1001,8 @@ El usuario entra a la web, si tiene cuenta puede acceder a la pagina, si no, ent
 
 ### 4.6.1. Design-Level Event Storming
 
+<img src="https://i.postimg.cc/rpmYZLr1/Eco-Smart-4-6-1.png"/>
+
 ### 4.6.2. Software Architecture Context Diagram
 
 El esquema de contexto es un recurso de análisis que ayuda a visualizar cómo se relaciona ECOSMART con su entorno, lo que permite detectar oportunidades de integración y áreas de mejora.
