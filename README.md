@@ -476,3 +476,30 @@ En esta fase inicial, el despliegue se simuló de forma local, aprovechando las 
 <br><br>
 
 # Anexos
+
+Organización: [`https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE`](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE)
+
+Reporte: [`https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Nombre-Report`](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Nombre-Report)
+
+
+Entrevistas: 
+
+Segmento Municipalidad
+
+[`Entrevista 1`](https://youtu.be/qL3hUyrXn1c)
+/ [`Entrevista 2`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/EeSlP6nob51Llwue_1tPJ28BQlYmhgU-_zl5vJz-TdMClw?)
+
+Segmento Ciudadanos
+
+[`Entrevista 1`](https://youtu.be/36lqm5R-UhA)
+/ [`Entrevista 2`](https://youtu.be/nZILFH9AJQY)
+/ [`Entrevista 3`](https://drive.google.com/file/d/1JbdaEvg0dT-YWBs-Ws36s-8sRLnnS3L3/view?usp=drive_link)
+
+
+Wireframes y Mock-Ups: [`https://www.figma.com/design/Wv1NTnR06A4ZERLNnyBYW0/EcoSmart-figma-guia?node-id=5001-5730`](https://www.figma.com/design/Wv1NTnR06A4ZERLNnyBYW0/EcoSmart-figma-guia?node-id=5001-5730)
+
+Modelo C4: [`https://miro.com/app/board/uXjVJGdP3aU=/?inviteKey=Z2duRnRITHMxUnNWWkh5S3ZtVEY0c0VaUGc4bVRGTTJuRjhuNWRQL3FHazNuMjJ5M0xjaU1XS0dLWFRGWmd1L2VnalNYUVJ5emJmTHJzbWNQaWhUZWl1Si90aTgyZVI5UWs0NDRlUTlqZm1xUkcxbDYzTnhXNDMrcmg5WGkxOUJBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=`](https://miro.com/app/board/uXjVJGdP3aU=/?inviteKey=Z2duRnRITHMxUnNWWkh5S3ZtVEY0c0VaUGc4bVRGTTJuRjhuNWRQL3FHazNuMjJ5M0xjaU1XS0dLWFRGWmd1L2VnalNYUVJ5emJmTHJzbWNQaWhUZWl1Si90aTgyZVI5UWs0NDRlUTlqZm1xUkcxbDYzTnhXNDMrcmg5WGkxOUJBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=)
+
+
+Landing Page desplegada: [`https://upc-pre-202502-1asi0729-7391-nombre.github.io/Landing-page/`](https://upc-pre-202502-1asi0729-7391-nombre.github.io/Landing-page/)
+
