@@ -389,6 +389,65 @@ En esta fase inicial, el despliegue se simuló de forma local, aprovechando las 
 
 #### 5.2.1.1. Sprint Planning 1
 
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 1 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 05/09/2025 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 19:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Avalos Cordova, Diego Andres </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Cardenas Huaman, Mathias Andree<br>
+      Velarde Luyo, Piero Alberto<br>
+      Carranza Tesén, Joaquin Enrique<br>
+      Avalos Cordova, Diego Andres<br>
+      Zuniga Calle, Sebastian Gabriel
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+    <td> Al este ser nuestro primer sprint de desarrollo no existe un review summary del sprint </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+    <td> Ya que es nuestro primer sprint aún no identificamos ningun plan de mejora. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Goal </td>
+    <td> Desarrollar e implementar las secciones clave de la Landing Page para que los usuarios puedan ver y analizar las características principales de EcoSmart y entender los beneficios del servicio. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+    <td> El equipo ha establecido una capacidad de 8 Story Points para este Sprint, basada en la experiencia y la carga de trabajo estimada. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 8 </td>
+  </tr>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 1
 
 #### 5.2.1.3. Development Evidence for Sprint Review
