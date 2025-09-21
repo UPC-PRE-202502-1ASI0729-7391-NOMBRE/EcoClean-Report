@@ -53,6 +53,18 @@
 
 # Project Report Collaboration Insights
 
+| URL de la organización del proyecto |
+| ----------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE) |
+
+| URL del repositorio del reporte |
+| ------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Nombre-Report](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Nombre-Report) |
+
+| URL del repositorio de la landing page |
+| -------------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Landing-page](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Landing-page) |
+
 <br><br>
 
 # Contenido
@@ -175,8 +187,8 @@
 
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. |                     |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |                     |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Mathias Andree Cardenas Huaman**<br>Participé en la exposición del proyecto explicando objetivos, propuesta de valor y avances técnicos de manera clara y estructurada. Adapté mi lenguaje al público: técnico para docentes y más sencillo para compañeros y posibles usuarios. Además, realicé dos entrevistas al primer segmento objetivo, lo que me permitió practicar una comunicación directa, empática y comprensible con personas externas al equipo.<br><br> | **Mathias Andree Cardenas Huaman**<br>Logré transmitir ideas con claridad y adaptarme a distintos tipos de audiencia, fortaleciendo mis habilidades de expresión oral y empatía en la comunicación.<br><br> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Mathias Andree Cardenas Huaman**<br>Contribuí en la redacción del informe, presentando información técnica (backlog, user stories) y explicaciones accesibles para audiencias no especializadas. Usé un estilo claro y apoyado en tablas y ejemplos para facilitar la comprensión. Además, registramos versiones del informe para mantener orden y trazabilidad.<br><br> | **Mathias Andree Cardenas Huaman**<br>El documento refleja precisión técnica y claridad, logrando un material comprensible tanto para un público especializado como para uno general. Fortalecí mi capacidad de comunicar ideas de manera efectiva en formato escrito.<br><br> |
 
 </div>
 <br><br>
