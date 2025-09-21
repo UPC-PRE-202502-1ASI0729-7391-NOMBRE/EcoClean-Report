@@ -557,7 +557,6 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 8. ¿Qué tipo de información le sería más útil recibir (horarios, puntos de reciclaje, alertas)?  
 9. ¿Estaría dispuesto a colaborar reportando incidencias (tacho lleno, basura acumulada)?  
 10. ¿Qué lo motivaría a involucrarse activamente en una iniciativa de gestión inteligente de residuos?  
-
 ### 2.2.2. Registro de entrevistas
 
 ### Entrevistas del Segmento N°1: Municipalidades
@@ -568,6 +567,14 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 | Edad: 23 años |
 | Link de la entrevista (YouTube): [https://youtu.be/qL3hUyrXn1c](https://youtu.be/qL3hUyrXn1c) |
 | Jorge Chumpitaz, un empleado de la municipalidad de comas, responde algunas preguntas relacionado al manejo de recolección de basura en las calles, parques, etc de su distrito, comenta que no hay un sistema donde les avise cuando un lugar está lleno de basura o avise cuánta basura recolectaron en una ronda. Comenta que a la municipalidad le gustaría tener una app donde les avise cuando un tacho de basura se encuentra lleno para poder mandar al personal de limpieza a ese punto fijo, y que están abiertos a hacer pruebas con proyectos como EcoSmart para facilitar y mejorar el manejo de recolección de basura. Y esperan tener las calles, avenidas, parques, centros de salud, etc, más limpias y seguras para la vida de los pobladores en el distrito de comas. |
+
+|<img width="1861" height="527" alt="Captura de pantalla 2025-09-21 013306" src="https://github.com/user-attachments/assets/a6bf5a2d-cb67-4ff2-bd57-3d586f26a9e0" /> |
+|--------|
+| Entrevistado: Emmnuel Ñahuiña |
+| Género: Masculino |
+| Edad: 26 años |
+| Link de la entrevista: [[URL de la entrevista]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/EeSlP6nob51Llwue_1tPJ28BQlYmhgU-_zl5vJz-TdMClw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=S631l7) |
+| Emmanuel Ñahuiña señaló que la recolección de residuos se realiza con rutas programadas en turnos de mañana y noche, aunque enfrentan retrasos por fallas mecánicas, tráfico y disposición inadecuada de basura por parte de vecinos. Estas ineficiencias aumentan costos, generan quejas y afectan la imagen municipal. Destacó pilotos con geolocalización y campañas digitales, señalando que los trabajadores muestran resistencia inicial y los vecinos aceptan cambios cuando ven beneficios inmediatos. Los principales indicadores de eficiencia son puntualidad, toneladas recolectadas, reportes ciudadanos y satisfacción vecinal. Considera que una herramienta como EcoSmart optimizaría rutas, reduciría costos, daría transparencia y fomentaría reciclaje, aunque las barreras serían el presupuesto, la resistencia al cambio y la brecha tecnológica. Recalcó la necesidad de capacitación, soporte técnico y educación ciudadana para su implementación. |
 
 ### Entrevistas del Segmento N°2: Ciudadanos urbanos 
 | [![imagen-2025-09-19-231316201.png](https://i.postimg.cc/8PTdybmV/imagen-2025-09-19-231316201.png)](https://postimg.cc/c658CwzD) |
@@ -586,8 +593,45 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 | Link de la entrevista (YouTube): [https://youtu.be/nZILFH9AJQY](https://youtu.be/nZILFH9AJQY) |
 | Andrea Santur, de 19 años y estudiante de Ingeniería de Software, actualmente recidiendo en una casa, y explicó que en su hogar manejan los residuos de manera organizada con horarios definidos y separación en bolsas comunes y de reciclaje; sin embargo, ha observado problemas en espacios públicos como tachos mal gestionados y bolsas rotas por recicladores. Aunque no ha participado en iniciativas de reciclaje, está interesada en hacerlo y considera importante generar mayor conciencia social. Señaló que le gustaría ver mejoras en el servicio de recolección, como calles más limpias, recolección en todos los puntos y sectores exclusivos para desechar basura. |
 
+| [![Entrevista-Andre.png](https://i.postimg.cc/QMj25BbN/Entrevista.png)](https://postimg.cc/87nXgz9x) |
+|------|
+| Entrevistado: Andre Bernaola |
+| Género: Masculino |
+| Edad: 21 años |
+| Link de la entrevista (YouTube):  |
+| Andre Bernaola de 21 años es estudiante de la carrera de Ingeniería de Software, nos comentó que reside en una casa en el distrito de San Miguel. Mencionó que en su hogar tratan de manejar de manera organizada todos los residuos sólidos, no obstante, al momento de llevarlos a los puntos de recolección de los camiones de basura, en ciertos días de la semana, estos estaban abarrotados de bolsas debido, presumiblemente. a una gestión ineficiente de las rutas de los camiones de basura. Nos compartió que sí le interesaría una propuesta de software que mejore dicho proceso, al igual que detalle la ruta de los camiones y alertas de los mismos.|
+
 ### 2.2.3. Análisis de entrevistas
 
+A partir de las entrevistas realizadas a los segmentos de **municipalidades** y **ciudadanos urbanos**, se identificaron puntos en común que permiten entender mejor sus necesidades y expectativas frente al manejo de residuos. A continuación, presentamos el análisis segmentado con porcentajes de coincidencia según la muestra.  
+
+#### Segmento 1: Municipalidades  
+
+Las entrevistas con Jorge Chumpitaz (Municipalidad de Comas) y Emmanuel Ñahuiña (Municipalidad de Lima) nos dejaron ver lo siguiente:  
+
+- **Falta de sistemas tecnológicos:** El 100% mencionó que no cuentan con alertas en tiempo real sobre tachos llenos o incidencias.  
+- **Interés en innovación:** Ambos entrevistados (100%) mostraron apertura a proyectos como EcoSmart, siempre que se acompañen de capacitación y soporte.  
+- **Problemas operativos:** El 50% señaló retrasos frecuentes por tráfico o fallas mecánicas, mientras que el otro 50% resaltó la falta de información inmediata sobre puntos críticos.  
+- **Indicadores de gestión:** El 100% coincidió en que los principales son puntualidad en el recojo, toneladas recolectadas y satisfacción ciudadana.  
+- **Barreras de implementación:** El 50% habló de resistencia inicial al cambio por parte del personal, y el otro 50% mencionó el presupuesto como principal limitante.  
+
+#### Segmento 2: Ciudadanos Urbanos  
+
+Con las entrevistas a Alessandro Bravo, Andrea Santur y Andre Bernaola se identificaron estos patrones:  
+
+- **Manejo en el hogar:** El 67% organiza la basura en casa, aunque el 100% señaló que el verdadero problema está en la gestión municipal y los espacios públicos.  
+- **Problemas de recolección:** Todos (100%) coincidieron en que hay deficiencias: horarios incumplidos, acumulación en los puntos de recojo y tachos mal gestionados.  
+- **Reciclaje:** El 100% dijo no haber participado en iniciativas de reciclaje, pero el 67% expresó interés en hacerlo si existieran sistemas claros y accesibles.  
+- **Uso de tecnología:** El 100% consideró útil una aplicación con horarios, rutas y alertas.  
+- **Participación ciudadana:** El 67% estaría dispuesto a reportar incidencias, siempre que la herramienta sea fácil de usar y tenga resultados visibles.  
+- **Expectativas:** El 100% espera mejoras en limpieza pública, mayor organización y transparencia en el servicio.  
+
+#### Conclusiones Generales  
+
+- Tanto municipalidades como ciudadanos coinciden en que el mayor problema está en la **ineficiencia del sistema de recolección actual**, más que en la disposición final de los residuos.  
+- Existe una **alta disposición hacia soluciones digitales** en ambos segmentos (100%), aunque con diferentes motivaciones: las municipalidades buscan eficiencia y reducción de costos, mientras que los ciudadanos valoran limpieza y transparencia.  
+- Las principales barreras detectadas son la **resistencia al cambio en las municipalidades** y la **escasa costumbre de participación ciudadana organizada** en el caso de los vecinos.
+  
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
