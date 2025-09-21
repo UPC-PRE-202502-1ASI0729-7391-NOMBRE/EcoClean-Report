@@ -1044,6 +1044,9 @@ Los diagramas de componentes proporcionan una visión precisa de la arquitectura
 
 ### 4.8.1. Database Diagram
 
+<p align = "center"> <img  alt="Class Diagram" src="./images/commons/databasediagram.png"> </p>
+<br><br>
+
 <br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
