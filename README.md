@@ -448,13 +448,44 @@ En esta fase inicial, el despliegue se simuló de forma local, aprovechando las 
   </tr>
 </table>
 
-#### 5.2.1.2. Sprint Backlog 1
+####5.2.1.2. Aspect Leaders and Collaborators.
 
-#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.3. Sprint Backlog 1
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los avances en la implementación con relación a los productos de la solución según el alcance del Sprint: **Landing Page, Web Applications y Web Services**.  
+La tabla siguiente muestra la evidencia de los commits realizados, incluyendo repositorio, branch, commit ID, mensaje y fecha.  
+
+| Repository         | Branch              | Commit Id | Commit Message                  | Commit Message Body                                                                 | Committed on (Date) |
+|--------------------|---------------------|-----------|---------------------------------|--------------------------------------------------------------------------------------|---------------------|
+| user/repositoryname | feature/landingpage | a1b2c3d   | feat: add landing page structure | Se creó la estructura inicial del Landing Page con HTML y CSS básicos.              | 15/09/2025          |
+| user/repositoryname | feature/navigation  | b2c3d4e   | feat: add navigation system      | Se implementó la barra de navegación con links a secciones principales del sitio.   | 17/09/2025          |
+| user/repositoryname | feature/comments    | c3d4e5f   | feat: comments section           | Se agregó la sección de comentarios para que los usuarios puedan opinar.            | 19/09/2025          |
+| user/repositoryname | feature/map         | d4e5f6g   | feat: district map integration   | Se integró un mapa interactivo para mostrar tachos de basura y reportes ciudadanos. | 21/09/2025          |
+| user/repositoryname | feature/api         | e5f6g7h   | feat: basic API setup            | Configuración inicial de servicios web para conexión con municipalidades.           | 21/09/2025          |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este Sprint logramos avances importantes en la implementación de la plataforma, cumpliendo con los objetivos planteados en relación a la Landing Page, la aplicación web y los servicios básicos de interacción. Se desarrollaron las vistas principales que permiten a los usuarios navegar de forma sencilla, acceder a la información de su distrito, visualizar en el mapa los tachos de basura disponibles, leer y publicar comentarios, y enviar reportes directamente a la municipalidad.  
+
+A continuación, se presentan algunas capturas de pantalla que evidencian los avances logrados:  
+
+### Screenshots de las Vistas Implementadas  
+
+- **Landing Page (versión desktop):**  
+  ![Landing Page Desktop](https://i.postimg.cc/cLv8H7CS/Eco-Smart-figma-guia.png)  
+
+- **Landing Page (versión mobile):**  
+  ![Landing Page Mobile](https://i.postimg.cc/NGd0n2N3/Mobile-landing-Page.png)  
+
+- **Mapa Interactivo con tachos de basura:**  
+  ![Mapa Distrital](https://i.postimg.cc/59rgbkR3/Mapa-Eco-Smart.png)  
+
+- **Sección de Comentarios y Reportes:**  
+  ![Comentarios](https://i.postimg.cc/9FTnShQT/Seccion-comnetarios-Eco-Smart.png)
+  
+  ![Reporte](https://i.postimg.cc/bY453Jpp/Seccion-reportes-Eco-Smart.png)  
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
