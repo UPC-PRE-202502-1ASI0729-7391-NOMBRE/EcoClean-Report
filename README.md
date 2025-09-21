@@ -53,6 +53,18 @@
 
 # Project Report Collaboration Insights
 
+| URL de la organización del proyecto |
+| ----------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE) |
+
+| URL del repositorio del reporte |
+| ------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Nombre-Report](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Nombre-Report) |
+
+| URL del repositorio de la landing page |
+| -------------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Landing-page](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Landing-page) |
+
 <br><br>
 
 # Contenido
