@@ -1289,11 +1289,19 @@ La prioridad fue lograr una experiencia de usuario cohesiva desde el cliente, co
 | Joaquin Carranza   | Desarrollo completo de la Landing Page. |
 
 ---
+> Nota: No se han generado commits relacionados a endpoints o servicios, ya que no fueron parte del alcance del Sprint 1.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+Durante el Sprint 1, el landing page en su totalidad fue implementado por **Joaquin Carranza**, quien asumió todas las funciones de diseño, codificación, validación y despliegue de la solución.
 
-<br><br>
+| Integrante   | Acciones realizadas durante el Sprint 1 |
+|--------------|------------------------------------------|
+| Joaquín Carranza  | - Desarrollo de toda la interfaz HTML y maquetado CSS<br>- Implementación de validaciones en JavaScript<br>- Estructura de carpetas y componentes<br>- Subida al repositorio y despliegue |
+
+#### Evidencia de colaboración en GitHub (Sprint 1)
+
+<p align="center"><img width="auto" height="auto" src="images/commons/contribution.png">
 
 # Conclusiones
 
