@@ -326,6 +326,14 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 | Link de la entrevista (YouTube): [https://youtu.be/nZILFH9AJQY](https://youtu.be/nZILFH9AJQY) |
 | Andrea Santur, de 19 años y estudiante de Ingeniería de Software, actualmente recidiendo en una casa, y explicó que en su hogar manejan los residuos de manera organizada con horarios definidos y separación en bolsas comunes y de reciclaje; sin embargo, ha observado problemas en espacios públicos como tachos mal gestionados y bolsas rotas por recicladores. Aunque no ha participado en iniciativas de reciclaje, está interesada en hacerlo y considera importante generar mayor conciencia social. Señaló que le gustaría ver mejoras en el servicio de recolección, como calles más limpias, recolección en todos los puntos y sectores exclusivos para desechar basura. |
 
+| [![Entrevista-Andre.png](https://i.postimg.cc/QMj25BbN/Entrevista.png)](https://postimg.cc/87nXgz9x) |
+|------|
+| Entrevistado: Andre Bernaola |
+| Género: Masculino |
+| Edad: 21 años |
+| Link de la entrevista (YouTube):  |
+| Andre Bernaola de 21 años es estudiante de la carrera de Ingeniería de Software, nos comentó que reside en una casa en el distrito de San Miguel. Mencionó que en su hogar tratan de manejar de manera organizada todos los residuos sólidos, no obstante, al momento de llevarlos a los puntos de recolección de los camiones de basura, en ciertos días de la semana, estos estaban abarrotados de bolsas debido, presumiblemente. a una gestión ineficiente de las rutas de los camiones de basura. Nos compartió que sí le interesaría una propuesta de software que mejore dicho proceso, al igual que detalle la ruta de los camiones y alertas de los mismos.|
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
