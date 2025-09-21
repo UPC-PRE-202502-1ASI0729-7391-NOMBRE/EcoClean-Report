@@ -17,7 +17,7 @@
 
 <h3 align="center"> Docente: Mori Paiva, Hugo Allan </h3>
 
-<h3> Startup:  </h3>
+<h3> Startup: EcoClean </h3>
 
 <h3> Product: EcoSmart </h3>
 
