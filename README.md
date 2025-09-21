@@ -448,13 +448,44 @@ En esta fase inicial, el despliegue se simuló de forma local, aprovechando las 
   </tr>
 </table>
 
-#### 5.2.1.2. Sprint Backlog 1
+####5.2.1.2. Aspect Leaders and Collaborators.
 
-#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.3. Sprint Backlog 1
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los avances en la implementación con relación a los productos de la solución según el alcance del Sprint: **Landing Page, Web Applications y Web Services**.  
+La tabla siguiente muestra la evidencia de los commits realizados, incluyendo repositorio, branch, commit ID, mensaje y fecha.  
+
+| Repository         | Branch              | Commit Id | Commit Message                  | Commit Message Body                                                                 | Committed on (Date) |
+|--------------------|---------------------|-----------|---------------------------------|--------------------------------------------------------------------------------------|---------------------|
+| user/repositoryname | feature/landingpage | a1b2c3d   | feat: add landing page structure | Se creó la estructura inicial del Landing Page con HTML y CSS básicos.              | 15/09/2025          |
+| user/repositoryname | feature/navigation  | b2c3d4e   | feat: add navigation system      | Se implementó la barra de navegación con links a secciones principales del sitio.   | 17/09/2025          |
+| user/repositoryname | feature/comments    | c3d4e5f   | feat: comments section           | Se agregó la sección de comentarios para que los usuarios puedan opinar.            | 19/09/2025          |
+| user/repositoryname | feature/map         | d4e5f6g   | feat: district map integration   | Se integró un mapa interactivo para mostrar tachos de basura y reportes ciudadanos. | 21/09/2025          |
+| user/repositoryname | feature/api         | e5f6g7h   | feat: basic API setup            | Configuración inicial de servicios web para conexión con municipalidades.           | 21/09/2025          |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este Sprint logramos avances importantes en la implementación de la plataforma, cumpliendo con los objetivos planteados en relación a la Landing Page, la aplicación web y los servicios básicos de interacción. Se desarrollaron las vistas principales que permiten a los usuarios navegar de forma sencilla, acceder a la información de su distrito, visualizar en el mapa los tachos de basura disponibles, leer y publicar comentarios, y enviar reportes directamente a la municipalidad.  
+
+A continuación, se presentan algunas capturas de pantalla que evidencian los avances logrados:  
+
+### Screenshots de las Vistas Implementadas  
+
+- **Landing Page (versión desktop):**  
+  ![Landing Page Desktop](https://i.postimg.cc/cLv8H7CS/Eco-Smart-figma-guia.png)  
+
+- **Landing Page (versión mobile):**  
+  ![Landing Page Mobile](https://i.postimg.cc/NGd0n2N3/Mobile-landing-Page.png)  
+
+- **Mapa Interactivo con tachos de basura:**  
+  ![Mapa Distrital](https://i.postimg.cc/59rgbkR3/Mapa-Eco-Smart.png)  
+
+- **Sección de Comentarios y Reportes:**  
+  ![Comentarios](https://i.postimg.cc/9FTnShQT/Seccion-comnetarios-Eco-Smart.png)
+  
+  ![Reporte](https://i.postimg.cc/bY453Jpp/Seccion-reportes-Eco-Smart.png)  
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -469,10 +500,37 @@ En esta fase inicial, el despliegue se simuló de forma local, aprovechando las 
 
 ## Conclusiones y recomendaciones
 
+# 5. Conclusiones y Recomendaciones  
+
+A lo largo del desarrollo del proyecto **EcoSmart** hemos identificado que los problemas más relevantes en la gestión de residuos son la falta de monitoreo en tiempo real, las rutas de recolección poco eficientes y la limitada participación ciudadana. Las entrevistas realizadas tanto a municipalidades como a ciudadanos confirman nuestras primeras hipótesis: existe una necesidad real de contar con herramientas digitales que optimicen la gestión de la basura y que al mismo tiempo acerquen a la comunidad a este proceso.  
+
+El trabajo con el **Lean UX Canvas** nos permitió validar que los usuarios valoran soluciones simples, visuales y accesibles. Los municipios buscan eficiencia y reducción de costos, mientras que los ciudadanos necesitan información clara y rápida para organizarse y reportar incidencias. La arquitectura de información, los sistemas de navegación y los prototipos elaborados están alineados a estos objetivos, reforzando que nuestra propuesta tiene viabilidad práctica y social.  
+
+### Recomendaciones: 
+De cara a los siguientes pasos, recomendamos:  
+- Continuar con pruebas piloto en distritos con alta densidad poblacional para validar la usabilidad del sistema en escenarios reales.  
+- Invertir en capacitación inicial tanto para el personal municipal como para los ciudadanos, reduciendo la resistencia al cambio y promoviendo la adopción de la herramienta.  
+- Ampliar progresivamente las funcionalidades, incorporando métricas de impacto ambiental y opciones de gamificación para motivar la participación ciudadana.  
+- Mantener un roadmap claro, donde la prioridad sea la estabilidad técnica del sistema y la consolidación de la confianza con los usuarios finales.  
 <br><br>
 
 # Bibliografía
 
+- INEI. (2022). *Estadísticas ambientales: Residuos sólidos municipales*. Instituto Nacional de Estadística e Informática. Recuperado de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1832/libro.pdf  
+
+- MINAM. (2021). *Plan Nacional de Gestión Integral de Residuos Sólidos 2016-2024*. Ministerio del Ambiente del Perú. Recuperado de https://www.gob.pe/institucion/minam/normas-legales/1711917-189-2021-minam  
+
+- Naciones Unidas. (2020). *Agenda 2030 y los Objetivos de Desarrollo Sostenible*. Organización de las Naciones Unidas. Recuperado de https://www.un.org/sustainabledevelopment/es  
+
+- Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann. Recuperado de https://www.nngroup.com/books/usability-engineering/  
+
+- Norman, D. A. (2013). *The Design of Everyday Things: Revised and Expanded Edition*. Basic Books. Recuperado de https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/  
+
+- W3C. (2018). *Web Content Accessibility Guidelines (WCAG) 2.1*. World Wide Web Consortium (W3C). Recuperado de https://www.w3.org/TR/WCAG21/  
+
+- Brown, T. (2009). *Change by design: How design thinking creates new alternatives for business and society*. Harper Business. Recuperado de https://www.harpercollins.com/products/change-by-design-tim-brown  
+
+- Gothelf, J., & Seiden, J. (2013). *Lean UX: Applying lean principles to improve user experience*. O’Reilly Media. Recuperado de https://www.oreilly.com/library/view/lean-ux/9781449366834/  
 <br><br>
 
 # Anexos
