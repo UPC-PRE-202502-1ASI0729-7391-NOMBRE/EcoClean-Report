@@ -509,11 +509,11 @@ En este Sprint, se realizó el despliegue de la Landing Page y vistas de usuario
 <hr>
 
 #### Proceso del despligue realizado
-- Se creó un repositorio GitHub para el proyecto: [https://github.com/DevsConClase-PatitaSolidaria/LandingPage](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Landing-page)
-  <img width="auto" height="auto" src="assets/images/commons/landing_evidence.png">
+- Se creó un repositorio GitHub para el proyecto: [https://github.com/EcoClean-EcoSmart/LandingPage](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Landing-page)
+  <img width="auto" height="auto" src="images/commons/landing_evidence.png">
 
 - Se verificó el acceso público y funcionamiento responsive
-  <img width="auto" height="auto" src="assets/images/commons/landing_funcionamiento.png">
+  <img width="auto" height="auto" src="images/commons/landing_funcionamiento.png">
 
 <hr>
 
@@ -523,11 +523,11 @@ https://upc-pre-202502-1asi0729-7391-nombre.github.io/Landing-page/
 <hr>
 
 #### Capturas de Evidencia del Despliegue
-<img width="auto" height="auto" src="assets/images/commons/landing_funcionamiento.png">
-<img width="auto" height="auto" src="assets/images/commons/landing_2.png">
-<img width="auto" height="auto" src="assets/images/commons/landing_3.png">
-<img width="auto" height="auto" src="assets/images/commons/landing_4.png">
-<img width="auto" height="auto" src="assets/images/commons/landing_5.png">
+<img width="auto" height="auto" src="images/commons/landing_funcionamiento.png">
+<img width="auto" height="auto" src="images/commons/landing_2.png">
+<img width="auto" height="auto" src="images/commons/landing_3.png">
+<img width="auto" height="auto" src="images/commons/landing_4.png">
+<img width="auto" height="auto" src="images/commons/landing_5.png">
 
 <hr>
 
