@@ -1276,10 +1276,17 @@ En este Sprint, el enfoque principal ha sido el desarrollo completo de la Landin
 La prioridad fue lograr una experiencia de usuario cohesiva desde el cliente, con secciones bien estructuradas que incluyen: presentación de servicios, beneficios, equipo de trabajo, testimonios y formularios de contacto. En futuras iteraciones, se documentarán las rutas REST necesarias para la gestión de datos de sensores IoT y optimización de rutas de recolección, utilizando OpenAPI como herramienta de especificación para conectar la Landing Page con servicios backend y APIs de municipalidades.
 
 ---
-#### GitHub - Proyecto Web Services (planeado para Sprint 2)
+#### GitHub - Proyecto Frontend Web (planeado para Sprint 2)
 
 > URL estimada del repositorio de backend:  
 > `[https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/FrontEnd)`
+
+---
+#### Resumen de Acciones del Equipo
+
+| Integrante    | Acciones Realizadas                                                                               |
+|---------------|---------------------------------------------------------------------------------------------------|
+| Joaquin Carranza   | Desarrollo completo de la Landing Page. |
 
 ---
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
