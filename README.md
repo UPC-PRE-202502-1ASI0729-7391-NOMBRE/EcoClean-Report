@@ -1056,14 +1056,83 @@ Los diagramas de componentes proporcionan una visión precisa de la arquitectura
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
+A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambios de desarrollo de EcoSmart.
 
 ### 5.1.1. Software Development Environment Configuration
 
+El equipo configuró un entorno de desarrollo colaborativo utilizando diversas herramientas:
+
+- Project Management:
+  * Canva: <br>Elaboración de presentaciones visuales y material de apoyo para la comunicación de avances.
+  * Zoom: <br>Coordinación y reuniones virtules del equipo, utilizada también para realizar y grabar la exposición final.
+  * Uxpressia: <br>Herramienta en línea que ayuda en el proceso de mapeo (user personas).
+    
+- Requirements Management:
+  * Miro: <br>Desarrollo de sesiones de brainstorming, modelado de EventStorming y gestión de requerimientos funcionales.
+
+- Product UX/UI Design:
+  * Figma: <br>Diseño de interfaces gráficas, prototipos interactivos y mockups de la solución.
+
+- Software Development:
+  * HTML: <br>Sirve para definir la estructura del contenido de una página web.
+  * CSS: <br>Se utiliza para dar estilo y diseño visual a las páginas web.
+  * JavaScript: <br>Es un lenguaje de programación que añade interactividad y dinamismo al sitio web.
+
+-  Software Documentation:
+  * GitHub: <br>Almacenamiento y control de versiones de la documentación, garantizando trazabilidad y colaboración entre los miembros del equipo.
+
 ### 5.1.2. Source Code Management
+
+Para la gestión del código fuente, se empleó GitHub como repositorio central. Se adoptaron ramas específicas para cada funcionalidad (feature branches) y se utilizó la técnica de pull requests para integrar cambios al repositorio principal. Esto permitió asegurar calidad en el código, revisiones colaborativas y trazabilidad de cada contribución.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+* HTML
+
+  - Uso de indentación de 2 espacios por nivel de anidamiento.
+
+  - Etiquetas y atributos escritos en minúsculas.
+
+  - Cierre correcto de todas las etiquetas, incluso las opcionales.
+
+  - Inclusión de comentarios en secciones clave (<!-- -->) para identificar bloques de contenido.
+
+  - Uso semántico de etiquetas (header, nav, main, section, footer) para mejorar la accesibilidad y el SEO.
+
+
+* CSS
+
+  - Organización del código en bloques por componente o sección de la interfaz.
+
+  - Uso de clases en lugar de IDs para la mayoría de estilos, siguiendo buenas prácticas de escalabilidad.
+
+  - Nombres de clases en kebab-case (ejemplo: .main-container).
+
+  - Inclusión de comentarios para separar secciones de estilos.
+
+  - Aplicación de diseño responsive con media queries para compatibilidad en distintos dispositivos.
+
+
+* JavaScript
+
+  - Uso de camelCase para variables y funciones (ejemplo: getUserData).
+
+  - Declaración de variables con const y let, evitando var.
+
+  - Inclusión de comentarios descriptivos (//) en funciones críticas.
+
+  - Modularización del código para separar funciones por responsabilidad.
+
+  - Manejo de errores con bloques try...catch en operaciones sensibles.
+
+  - Nombrado en inglés de todas las variables y funciones para mantener consistencia.
+
 ### 5.1.4. Software Deployment Configuration
+
+En esta fase inicial, el despliegue se simuló de forma local, aprovechando las capacidades de los navegadores para ejecutar HTML, CSS y JavaScript sin necesidad de un servidor dedicado. La documentación de configuración y evidencias de ejecución fueron almacenadas en GitHub, lo que asegura que el proyecto pueda ser replicado por cualquier miembro del equipo.
+<br>
+[![imagen-2025-09-19-193921569.png](https://i.postimg.cc/Rh0RJb2L/imagen-2025-09-19-193921569.png)](https://postimg.cc/hzHxHMDX)<br>
+[![imagen-2025-09-19-193809492.png](https://i.postimg.cc/T3K44h7J/imagen-2025-09-19-193809492.png)](https://postimg.cc/K1yfKcy1)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -1071,13 +1140,103 @@ Los diagramas de componentes proporcionan una visión precisa de la arquitectura
 
 #### 5.2.1.1. Sprint Planning 1
 
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 1 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 05/09/2025 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 19:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Avalos Cordova, Diego Andres </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Cardenas Huaman, Mathias Andree<br>
+      Velarde Luyo, Piero Alberto<br>
+      Carranza Tesén, Joaquin Enrique<br>
+      Avalos Cordova, Diego Andres<br>
+      Zuniga Calle, Sebastian Gabriel
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+    <td> Al este ser nuestro primer sprint de desarrollo no existe un review summary del sprint </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+    <td> Ya que es nuestro primer sprint aún no identificamos ningun plan de mejora. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Goal </td>
+    <td> Desarrollar e implementar las secciones clave de la Landing Page para que los usuarios puedan ver y analizar las características principales de EcoSmart y entender los beneficios del servicio. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+    <td> El equipo ha establecido una capacidad de 8 Story Points para este Sprint, basada en la experiencia y la carga de trabajo estimada. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 8 </td>
+  </tr>
+</table>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
 #### 5.2.1.3. Sprint Backlog 1
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
+En esta sección se presentan los avances en la implementación con relación a los productos de la solución según el alcance del Sprint: **Landing Page, Web Applications y Web Services**.  
+La tabla siguiente muestra la evidencia de los commits realizados, incluyendo repositorio, branch, commit ID, mensaje y fecha.  
+
+| Repository         | Branch              | Commit Id | Commit Message                  | Commit Message Body                                                                 | Committed on (Date) |
+|--------------------|---------------------|-----------|---------------------------------|--------------------------------------------------------------------------------------|---------------------|
+| user/repositoryname | feature/landingpage | a1b2c3d   | feat: add landing page structure | Se creó la estructura inicial del Landing Page con HTML y CSS básicos.              | 15/09/2025          |
+| user/repositoryname | feature/navigation  | b2c3d4e   | feat: add navigation system      | Se implementó la barra de navegación con links a secciones principales del sitio.   | 17/09/2025          |
+| user/repositoryname | feature/comments    | c3d4e5f   | feat: comments section           | Se agregó la sección de comentarios para que los usuarios puedan opinar.            | 19/09/2025          |
+| user/repositoryname | feature/map         | d4e5f6g   | feat: district map integration   | Se integró un mapa interactivo para mostrar tachos de basura y reportes ciudadanos. | 21/09/2025          |
+| user/repositoryname | feature/api         | e5f6g7h   | feat: basic API setup            | Configuración inicial de servicios web para conexión con municipalidades.           | 21/09/2025          |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este Sprint logramos avances importantes en la implementación de la plataforma, cumpliendo con los objetivos planteados en relación a la Landing Page, la aplicación web y los servicios básicos de interacción. Se desarrollaron las vistas principales que permiten a los usuarios navegar de forma sencilla, acceder a la información de su distrito, visualizar en el mapa los tachos de basura disponibles, leer y publicar comentarios, y enviar reportes directamente a la municipalidad.  
+
+A continuación, se presentan algunas capturas de pantalla que evidencian los avances logrados:  
+
+### Screenshots de las Vistas Implementadas  
+
+- **Landing Page (versión desktop):**  
+  ![Landing Page Desktop](https://i.postimg.cc/cLv8H7CS/Eco-Smart-figma-guia.png)  
+
+- **Landing Page (versión mobile):**  
+  ![Landing Page Mobile](https://i.postimg.cc/NGd0n2N3/Mobile-landing-Page.png)  
+
+- **Mapa Interactivo con tachos de basura:**  
+  ![Mapa Distrital](https://i.postimg.cc/59rgbkR3/Mapa-Eco-Smart.png)  
+
+- **Sección de Comentarios y Reportes:**  
+  ![Comentarios](https://i.postimg.cc/9FTnShQT/Seccion-comnetarios-Eco-Smart.png)
+  
+  ![Reporte](https://i.postimg.cc/bY453Jpp/Seccion-reportes-Eco-Smart.png)  
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1085,24 +1244,71 @@ Los diagramas de componentes proporcionan una visión precisa de la arquitectura
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-## 5.3. Validation Interviews 
-
-### 5.3.1. Diseño de entrevistas
-### 5.3.2. Registro de entrevistas
-### 5.3.3. Evaluaciones según heurísticas
-
-## 5.4. Video About-The-Product
-
 <br><br>
 
 # Conclusiones
 
 ## Conclusiones y recomendaciones
 
+# 5. Conclusiones y Recomendaciones  
+
+A lo largo del desarrollo del proyecto **EcoSmart** hemos identificado que los problemas más relevantes en la gestión de residuos son la falta de monitoreo en tiempo real, las rutas de recolección poco eficientes y la limitada participación ciudadana. Las entrevistas realizadas tanto a municipalidades como a ciudadanos confirman nuestras primeras hipótesis: existe una necesidad real de contar con herramientas digitales que optimicen la gestión de la basura y que al mismo tiempo acerquen a la comunidad a este proceso.  
+
+El trabajo con el **Lean UX Canvas** nos permitió validar que los usuarios valoran soluciones simples, visuales y accesibles. Los municipios buscan eficiencia y reducción de costos, mientras que los ciudadanos necesitan información clara y rápida para organizarse y reportar incidencias. La arquitectura de información, los sistemas de navegación y los prototipos elaborados están alineados a estos objetivos, reforzando que nuestra propuesta tiene viabilidad práctica y social.  
+
+### Recomendaciones: 
+De cara a los siguientes pasos, recomendamos:  
+- Continuar con pruebas piloto en distritos con alta densidad poblacional para validar la usabilidad del sistema en escenarios reales.  
+- Invertir en capacitación inicial tanto para el personal municipal como para los ciudadanos, reduciendo la resistencia al cambio y promoviendo la adopción de la herramienta.  
+- Ampliar progresivamente las funcionalidades, incorporando métricas de impacto ambiental y opciones de gamificación para motivar la participación ciudadana.  
+- Mantener un roadmap claro, donde la prioridad sea la estabilidad técnica del sistema y la consolidación de la confianza con los usuarios finales.
+
 <br><br>
 
 # Bibliografía
 
+- INEI. (2022). *Estadísticas ambientales: Residuos sólidos municipales*. Instituto Nacional de Estadística e Informática. Recuperado de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1832/libro.pdf  
+
+- MINAM. (2021). *Plan Nacional de Gestión Integral de Residuos Sólidos 2016-2024*. Ministerio del Ambiente del Perú. Recuperado de https://www.gob.pe/institucion/minam/normas-legales/1711917-189-2021-minam  
+
+- Naciones Unidas. (2020). *Agenda 2030 y los Objetivos de Desarrollo Sostenible*. Organización de las Naciones Unidas. Recuperado de https://www.un.org/sustainabledevelopment/es  
+
+- Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann. Recuperado de https://www.nngroup.com/books/usability-engineering/  
+
+- Norman, D. A. (2013). *The Design of Everyday Things: Revised and Expanded Edition*. Basic Books. Recuperado de https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/  
+
+- W3C. (2018). *Web Content Accessibility Guidelines (WCAG) 2.1*. World Wide Web Consortium (W3C). Recuperado de https://www.w3.org/TR/WCAG21/  
+
+- Brown, T. (2009). *Change by design: How design thinking creates new alternatives for business and society*. Harper Business. Recuperado de https://www.harpercollins.com/products/change-by-design-tim-brown  
+
+- Gothelf, J., & Seiden, J. (2013). *Lean UX: Applying lean principles to improve user experience*. O’Reilly Media. Recuperado de https://www.oreilly.com/library/view/lean-ux/9781449366834/  
 <br><br>
 
 # Anexos
+
+Organización: [`https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE`](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE)
+
+Reporte: [`https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Nombre-Report`](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Nombre-Report)
+
+
+Entrevistas: 
+
+Segmento Municipalidad
+
+[`Entrevista 1`](https://youtu.be/qL3hUyrXn1c)
+/ [`Entrevista 2`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/EeSlP6nob51Llwue_1tPJ28BQlYmhgU-_zl5vJz-TdMClw?)
+
+Segmento Ciudadanos
+
+[`Entrevista 1`](https://youtu.be/36lqm5R-UhA)
+/ [`Entrevista 2`](https://youtu.be/nZILFH9AJQY)
+/ [`Entrevista 3`](https://drive.google.com/file/d/1JbdaEvg0dT-YWBs-Ws36s-8sRLnnS3L3/view?usp=drive_link)
+
+
+Wireframes y Mock-Ups: [`https://www.figma.com/design/Wv1NTnR06A4ZERLNnyBYW0/EcoSmart-figma-guia?node-id=5001-5730`](https://www.figma.com/design/Wv1NTnR06A4ZERLNnyBYW0/EcoSmart-figma-guia?node-id=5001-5730)
+
+Modelo C4: [`https://miro.com/app/board/uXjVJGdP3aU=/?inviteKey=Z2duRnRITHMxUnNWWkh5S3ZtVEY0c0VaUGc4bVRGTTJuRjhuNWRQL3FHazNuMjJ5M0xjaU1XS0dLWFRGWmd1L2VnalNYUVJ5emJmTHJzbWNQaWhUZWl1Si90aTgyZVI5UWs0NDRlUTlqZm1xUkcxbDYzTnhXNDMrcmg5WGkxOUJBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=`](https://miro.com/app/board/uXjVJGdP3aU=/?inviteKey=Z2duRnRITHMxUnNWWkh5S3ZtVEY0c0VaUGc4bVRGTTJuRjhuNWRQL3FHazNuMjJ5M0xjaU1XS0dLWFRGWmd1L2VnalNYUVJ5emJmTHJzbWNQaWhUZWl1Si90aTgyZVI5UWs0NDRlUTlqZm1xUkcxbDYzTnhXNDMrcmg5WGkxOUJBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=)
+
+
+Landing Page desplegada: [`https://upc-pre-202502-1asi0729-7391-nombre.github.io/Landing-page/`](https://upc-pre-202502-1asi0729-7391-nombre.github.io/Landing-page/)
+
