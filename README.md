@@ -1271,7 +1271,17 @@ A continuación, se presentan algunas capturas de pantalla que evidencian los av
   ![Reporte](https://i.postimg.cc/bY453Jpp/Seccion-reportes-Eco-Smart.png)  
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+En este Sprint, el enfoque principal ha sido el desarrollo completo de la Landing Page para EcoSmart Waste Solutions, con especial atención en la interfaz de usuario y la experiencia visual. Dado que aún no se ha implementado un backend ni servicios web, la prioridad fue crear una presentación atractiva y funcional que comunique efectivamente los servicios de gestión inteligente de residuos mediante componentes de Angular Material y un diseño responsive. No se cuenta con endpoints documentados ni documentación OpenAPI en esta fase, ya que toda la información de equipo, servicios y testimonios está integrada directamente en el frontend.
 
+La prioridad fue lograr una experiencia de usuario cohesiva desde el cliente, con secciones bien estructuradas que incluyen: presentación de servicios, beneficios, equipo de trabajo, testimonios y formularios de contacto. En futuras iteraciones, se documentarán las rutas REST necesarias para la gestión de datos de sensores IoT y optimización de rutas de recolección, utilizando OpenAPI como herramienta de especificación para conectar la Landing Page con servicios backend y APIs de municipalidades.
+
+---
+#### GitHub - Proyecto Web Services (planeado para Sprint 2)
+
+> URL estimada del repositorio de backend:  
+> `[https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/FrontEnd)`
+
+---
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
