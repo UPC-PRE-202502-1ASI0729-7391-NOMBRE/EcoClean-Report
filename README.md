@@ -50,9 +50,12 @@
 | TB1 | 12/09/25 | Joaquin Carranza | Entrevistas, Diagrama de base de datos y Landing Page.  |
 | TB1 | 14/09/25 | Andree Cardenas | Parte final del Capítulo II |
 | TB1 | 15/09/25 | Andree Cardenas | Realización completa del Capítulo III |
+| TB1 | 15/09/25 | Sebastian Zuniga | Modelado C4 Capitulo IV |
+| TB1 | 15/09/25 | Sebastian Zuniga | Modelado Diagrama de clases Capitulo IV |
 | TB1 | 11/09/25 | Diego Avalos | Capitulo I antecedentes y problematicas |
 | TB1 | 11/09/25 | Diego Avalos | Capitulo II Competidores y entrevistas |
 | TB1 | 11/09/25 | Diego Avalos | Capitulo IV Landing Page Wireframe |
+| TB1 | 11/09/25 | Sebastian Zuniga | Sprint Backlog Capitulo V |
 
 
 </div>
