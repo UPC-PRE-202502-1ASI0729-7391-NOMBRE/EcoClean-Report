@@ -607,7 +607,7 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 | Entrevistado: Andre Bernaola |
 | Género: Masculino |
 | Edad: 21 años |
-| Link de la entrevista (YouTube): [https://drive.google.com/file/d/1JbdaEvg0dT-YWBs-Ws36s-8sRLnnS3L3/view?usp=drive_link] (https://drive.google.com/file/d/1JbdaEvg0dT-YWBs-Ws36s-8sRLnnS3L3/view?usp=drive_link) | 
+| Link de la entrevista (YouTube): (https://drive.google.com/file/d/1JbdaEvg0dT-YWBs-Ws36s-8sRLnnS3L3/view?usp=drive_link) | 
 | Andre Bernaola de 21 años es estudiante de la carrera de Ingeniería de Software, nos comentó que reside en una casa en el distrito de San Miguel. Mencionó que en su hogar tratan de manejar de manera organizada todos los residuos sólidos, no obstante, al momento de llevarlos a los puntos de recolección de los camiones de basura, en ciertos días de la semana, estos estaban abarrotados de bolsas debido, presumiblemente. a una gestión ineficiente de las rutas de los camiones de basura. Nos compartió que sí le interesaría una propuesta de software que mejore dicho proceso, al igual que detalle la ruta de los camiones y alertas de los mismos.|
 
 ### 2.2.3. Análisis de entrevistas
