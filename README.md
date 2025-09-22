@@ -56,6 +56,8 @@
 | TB1 | 11/09/25 | Diego Avalos | Capitulo II Competidores y entrevistas |
 | TB1 | 11/09/25 | Diego Avalos | Capitulo IV Landing Page Wireframe |
 | TB1 | 11/09/25 | Sebastian Zuniga | Sprint Backlog Capitulo V |
+| TB1 | 15/09/25 | Piero Velarde | Capitulo II Needfinding |
+| TB1 | 15/09/25 | Piero Velarde | Capitulo IV Landing Page Mock-Up |
 
 
 </div>
