@@ -257,46 +257,54 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 
 ### 2.2.1. Diseño de entrevistas
 
-**Segmento 1: Municipios y funcionarios públicos**  
-*Datos generales:*  
+## Segmento 1: Municipios y Funcionarios Públicos
+
+### Datos generales:
 - Nombre y cargo  
 - Edad  
 - Distrito o municipio  
 - Tiempo de experiencia en gestión ambiental  
 
-*Preguntas:*  
-1. ¿Cómo se gestiona actualmente la recolección de residuos en su distrito?  
-2. ¿Qué problemas frecuentes enfrentan con el sistema actual de recolección?  
-3. ¿Qué impacto económico considera que tienen esas ineficiencias en el municipio?  
-4. ¿Han intentado aplicar alguna innovación o cambio tecnológico en este proceso?  
-5. ¿Qué tan receptivos cree que son los trabajadores y vecinos ante nuevas soluciones?  
-6. ¿Cuáles son los indicadores principales que utilizan para medir la eficiencia del servicio?  
-7. ¿Qué beneficios esperaría de una herramienta digital como EcoSmart?  
-8. ¿Cuáles serían las principales barreras para implementar un sistema nuevo?  
-9. ¿Cómo evalúa la aceptación de la ciudadanía frente a cambios en la gestión de residuos?  
-10. ¿Qué tipo de soporte o acompañamiento considera necesario para usar una nueva tecnología?  
+### Preguntas:
 
----
+1. ¿Cómo funciona actualmente el proceso de recolección de residuos en su distrito (planificación de rutas, horarios, monitoreo)?  
+2. ¿Cuáles son los principales problemas operativos o logísticos que enfrentan con el sistema actual?  
+3. ¿De qué manera afectan estas ineficiencias al presupuesto municipal y a la calidad del servicio?  
+4. ¿Qué indicadores utilizan actualmente para evaluar la eficiencia y efectividad del servicio de limpieza pública?
+5. ¿Han implementado previamente soluciones tecnológicas o sistemas de monitoreo para mejorar la gestión de residuos? Si es así, ¿qué resultados obtuvieron?  
+6. ¿Qué tan abiertos cree que estarían los equipos municipales (operarios, choferes, gestores) a usar herramientas tecnológicas en su trabajo diario?  
+7. ¿Qué tipo de datos o reportes en tiempo real serían más útiles para la toma de decisiones (por ejemplo, nivel de llenado, consumo de combustible, emisiones, etc.)?
+8. Si tuvieran acceso a una plataforma como EcoSmart, que muestra el nivel de llenado de los tachos en tiempo real y sugiere rutas óptimas, ¿cómo cree que cambiaría la gestión del servicio?  
+9. ¿Qué funcionalidades considera prioritarias en una herramienta de este tipo (alertas automáticas, reportes, panel de control, métricas ambientales, etc.)?  
+10. ¿Qué beneficios específicos esperaría obtener a corto y mediano plazo al implementar un sistema como EcoSmart?  
+11. ¿Cuáles cree que serían las principales barreras para adoptar esta solución (presupuesto, capacitación, resistencia al cambio, etc.)?  
+12. ¿Qué tipo de soporte o acompañamiento (capacitación, mantenimiento, asistencia técnica) necesitarían para implementar exitosamente esta herramienta?
+13. ¿Cómo cree que reaccionaría la ciudadanía ante la implementación de un sistema de gestión inteligente de residuos?  
+14. ¿Qué estrategias de comunicación o participación ciudadana considera necesarias para asegurar el éxito de la solución?
 
-**Segmento 2: Ciudadanos urbanos**  
-*Datos generales:*  
+## Segmento 2: Ciudadanos Urbanos
+
+### Datos generales:
 - Nombre  
 - Edad  
 - Distrito de residencia  
 - Ocupación  
 - Tipo de vivienda (casa, departamento, condominio)  
 
-*Preguntas:*  
-1. ¿Cómo maneja los residuos en su hogar actualmente?  
-2. ¿Qué problemas ha tenido con el servicio de recolección en su distrito?  
-3. ¿Con qué frecuencia percibe que los tachos públicos están llenos o mal gestionados?  
-4. ¿Ha participado en iniciativas de reciclaje o separación de residuos?  
-5. ¿Qué mejoras le gustaría ver en el servicio de recolección de basura?  
-6. ¿Qué tan dispuesto estaría a usar una aplicación que informe sobre horarios o rutas de recolección?  
-7. ¿Qué características le generarían más confianza en una plataforma como EcoSmart?  
-8. ¿Qué tipo de información le sería más útil recibir (horarios, puntos de reciclaje, alertas)?  
-9. ¿Estaría dispuesto a colaborar reportando incidencias (tacho lleno, basura acumulada)?  
-10. ¿Qué lo motivaría a involucrarse activamente en una iniciativa de gestión inteligente de residuos?  
+### Preguntas:
+
+1. ¿Cómo suele manejar los residuos en su hogar (separación, reciclaje, frecuencia de disposición)?  
+2. ¿Qué problemas ha experimentado con el servicio de recolección en su zona (horarios, frecuencia, limpieza)?  
+3. ¿Con qué frecuencia observa tachos públicos llenos, rebalsados o en mal estado?  
+4. ¿Ha participado alguna vez en programas municipales de reciclaje o gestión de residuos?
+5. ¿Qué mejoras considera prioritarias en el servicio de recolección de basura en su distrito?  
+6. ¿Qué tipo de información le gustaría recibir sobre la gestión de residuos (horarios de recolección, puntos limpios, campañas de reciclaje, etc.)?  
+7. ¿Qué tan útil le parecería una aplicación que le informe en tiempo real sobre rutas de recolección, nivel de llenado de tachos o puntos cercanos de reciclaje?
+8. Si existiera una aplicación como EcoSmart, ¿qué funciones le parecerían más valiosas? (por ejemplo: alertas de recolección, reporte de incidencias, mapa de tachos inteligentes, estadísticas ambientales)  
+9. ¿Qué características le generarían mayor confianza para usar la aplicación (interfaz sencilla, respaldo municipal, seguridad de datos, etc.)?  
+10. ¿Estaría dispuesto a colaborar reportando incidencias como tachos llenos o puntos con basura acumulada desde la aplicación?  
+11. ¿Qué lo motivaría a descargar y usar una aplicación de gestión inteligente de residuos de forma frecuente?  
+12. ¿Qué aspectos mejorarían su experiencia como ciudadano en relación con el manejo de residuos si existiera una solución digital como esta?
 
 ### 2.2.2. Registro de entrevistas
 
