@@ -176,6 +176,15 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+    - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -1351,6 +1360,23 @@ Durante el Sprint 1, el landing page en su totalidad fue implementado por **Joaq
 #### Evidencia de colaboración en GitHub (Sprint 1)
 
 <p align="center"><img width="auto" height="auto" src="images/commons/contributors.png">
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 # Conclusiones
 
