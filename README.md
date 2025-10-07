@@ -259,13 +259,13 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 
 ## Segmento 1: Municipios y Funcionarios Públicos
 
-### Datos generales:
+## Datos generales:
 - Nombre y cargo  
 - Edad  
 - Distrito o municipio  
 - Tiempo de experiencia en gestión ambiental  
 
-### Preguntas:
+## Preguntas:
 
 1. ¿Cómo funciona actualmente el proceso de recolección de residuos en su distrito (planificación de rutas, horarios, monitoreo)?  
 2. ¿Cuáles son los principales problemas operativos o logísticos que enfrentan con el sistema actual?  
@@ -284,14 +284,14 @@ En esta parte del informe se presentará el diseño, la aplicación y el anális
 
 ## Segmento 2: Ciudadanos Urbanos
 
-### Datos generales:
+## Datos generales:
 - Nombre  
 - Edad  
 - Distrito de residencia  
 - Ocupación  
 - Tipo de vivienda (casa, departamento, condominio)  
 
-### Preguntas:
+## Preguntas:
 
 1. ¿Cómo suele manejar los residuos en su hogar (separación, reciclaje, frecuencia de disposición)?  
 2. ¿Qué problemas ha experimentado con el servicio de recolección en su zona (horarios, frecuencia, limpieza)?  
