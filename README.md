@@ -1501,10 +1501,10 @@ Después ingresamos al servicio de Vercel para poder ingresar con nuestra cuenta
 
 <img src="images/commons/vercel.jpg"/>
 
-<img src="images/commons/vercel-deploy.jpg"/>
-
 Paso 3:
 Luego procederemos a iniciar sesión, para este caso iniciamos sesión con nuestra cuenta de GitHub.
+
+<img src="images/commons/vercel-login.jpg"/>
 
 <img src="images/commons/vercel-github.jpg"/>
 
