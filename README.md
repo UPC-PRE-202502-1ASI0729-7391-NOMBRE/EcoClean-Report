@@ -1398,10 +1398,6 @@ Esta matriz permite identificar quién lidera cada aspecto y quiénes colaboran,
 En el Sprint 2, el objetivo principal fue **desarrollar, desplegar e integrar la aplicación web con una API simulada**, así como desplegar la **Landing Page** y conectar ambas plataformas, asegurando la navegación y funcionalidad básicas.  
 El Sprint incluyó tareas de desarrollo frontend, integración con la API fake, pruebas y despliegue en un entorno de prueba.  
 
----
-
-##### User Stories y Tasks – Sprint 2
-
 | id   | Title                                    | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To      | Status(To-do / InProcess / ToReview / Done) |
 | ---- | ---------------------------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------- | ------------------------------------------ |
 | US18 | Despliegue de la Landing Page             | TS05 | Despliegue en servidor de la Landing Page               | Subir la Landing Page al servidor de prueba y verificar que se visualice correctamente en diferentes navegadores. | 6                 | Joaquin     | Done                                       |
