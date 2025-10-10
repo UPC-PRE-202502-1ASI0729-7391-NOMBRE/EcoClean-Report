@@ -1395,6 +1395,24 @@ Esta matriz permite identificar quién lidera cada aspecto y quiénes colaboran,
 
 #### 5.2.2.3. Sprint Backlog 2.
 
+En el Sprint 2, el objetivo principal fue **desarrollar, desplegar e integrar la aplicación web con una API simulada**, así como desplegar la **Landing Page** y conectar ambas plataformas, asegurando la navegación y funcionalidad básicas.  
+El Sprint incluyó tareas de desarrollo frontend, integración con la API fake, pruebas y despliegue en un entorno de prueba.  
+
+---
+
+##### User Stories y Tasks – Sprint 2
+
+| id   | Title                                    | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To      | Status(To-do / InProcess / ToReview / Done) |
+| ---- | ---------------------------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------- | ------------------------------------------ |
+| US18 | Despliegue de la Landing Page             | TS05 | Despliegue en servidor de la Landing Page               | Subir la Landing Page al servidor de prueba y verificar que se visualice correctamente en diferentes navegadores. | 6                 | Joaquin     | Done                                       |
+| US19 | Desarrollo de formulario de contacto      | TS06 | Formulario de contacto en Landing Page (HTML, CSS, JS)  | Implementación de formulario funcional que envíe datos de prueba a la API fake.                              | 4                 | Joaquin          | Done                                       |
+| US20 | Integración de la API fake                | TS07 | Conectar la Web App con la API simulada                 | Configuración de endpoints y simulación de datos para la integración con la app web.                          | 8                 | Piero        | Done                                       |
+| US20 | Integración de la API fake                | TS08 | Pruebas de integración con la API                        | Realizar pruebas de consumo de endpoints, validando respuestas y errores.                                     | 4                 | Piero            | InProcess                                  |
+| US21 | Sección de features dinámicos             | TS09 | Mostrar datos de la API en la Web App                   | Conectar secciones de la app para mostrar información dinámica obtenida de la API simulada.                  | 6                 | Andree           | InProcess                                  |
+| US22 | Navegación entre Landing Page y Web App   | TS10 | Configuración de enlaces y rutas                         | Asegurar la correcta navegación desde la Landing Page a la Web App y viceversa.                               | 3                 | Diego            | ToReview                                   |
+| US23 | Deploy final de la Web Application       | TS11 | Subir la Web App al servidor de prueba                  | Desplegar la Web Application con la API integrada, probando funcionalidad completa.                           | 6                 | Piero/Diego | To-do                                     |
+| US24 | Revisión de responsive y compatibilidad  | TS12 | Optimización de UI                                      | Ajustar diseño responsive en Landing Page y Web App, verificando compatibilidad en dispositivos y navegadores. | 5                 | Piero/Gabriel    | To-do                                     |
+
 #### 5.2.2.4. Development Evidence for Sprint Review.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
