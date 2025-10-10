@@ -58,6 +58,9 @@
 | TB1 | 11/09/25 | Sebastian Zuniga | Sprint Backlog Capitulo V |
 | TB1 | 15/09/25 | Piero Velarde | Capitulo II Needfinding |
 | TB1 | 15/09/25 | Piero Velarde | Capitulo IV Landing Page Mock-Up |
+| TP1 | 05/10/25 | Diego Avalos | Capitulo IV Sprint 2 |
+| TP1 | 08/10/25 | Diego Avalos | Capitulo IV Sprint 2 Services Documentation Evidence |
+| TP1 | 10/10/25 | Diego Avalos | Capitulo IV Sprint 2 Execution Evidence|
 
 
 </div>
