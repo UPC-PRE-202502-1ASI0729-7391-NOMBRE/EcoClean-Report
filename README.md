@@ -233,8 +233,7 @@
 <p>
   <b>EcoSmart Waste Solutions</b> es una startup tecnológica enfocada en la 
   <b>gestión inteligente de residuos urbanos</b>. Su propósito es optimizar 
-  el proceso de recolección de basura en distritos y municipios mediante el uso 
-  de <b>sensores IoT</b> instalados en tachos inteligentes, los cuales envían 
+  el proceso de recolección de basura en distritos y municipios, mediante una app web en la cual los ciudadanos pueden enviar 
   información en tiempo real sobre el nivel de llenado de los contenedores.
 </p>
 
