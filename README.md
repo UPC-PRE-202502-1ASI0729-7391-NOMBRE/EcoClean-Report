@@ -1516,12 +1516,12 @@ Una vez dentro del servicio, creamos un nuevo proyecto dentro de Vercel y lo con
 Paso 5:
 Al finalizar de configurar nuestro proyecto dentro de Vercel, el servicio nos informará cuando se hara realizado satisfactoriamente el despliegue de nuestra aplicación web, a su vez, no proporcionará los enlaces del despliegue.
 
-<img src="assets/deployment/vercel-deploy.jpg"/>
+<img src="images/commons/vercel-deploy.jpg"/>
 
 Paso 6:
 Finalmente accederemos a nuestra aplicación web mediante el enlace proporcionado por Vercel.
 
-<img src="assets/deployment/deploy-web.png"/>
+<img src="images/commons/deploy-web.png"/>
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
