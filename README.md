@@ -1355,6 +1355,20 @@ Durante el Sprint 1, el landing page en su totalidad fue implementado por **Joaq
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2.
 
+| Sprint # | Sprint 2 |
+|----------|----------|
+| **Date** | 08/10/2025 |
+| **Time** | 19:00 horas (GMT-5) |
+| **Location** | Virtual (Google Meet) |
+| **Prepared By** | Avalos Cordova, Diego Andres |
+| **Attendees (to planning meeting)** | Cardenas Huaman, Mathias Andree<br>Velarde Luyo, Piero Alberto<br>Carranza Tesén, Joaquin Enrique<br>Avalos Cordova, Diego Andres<br>Zuniga Calle, Sebastian Gabriel |
+| **Sprint 2 Review Summary** | Durante este sprint se logró desarrollar la aplicación web usando una API simulada, desplegar la aplicación web en un entorno de prueba, desplegar la Landing Page y conectarla correctamente con la app web, asegurando la navegación y funcionalidad básicas. |
+| **Sprint 2 Retrospective Summary** | El equipo identificó la importancia de mejorar la coordinación entre el desarrollo de la app y el despliegue de la Landing Page, así como la necesidad de documentar los endpoints de la API fake para futuros sprints. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 2 Goal** | Desarrollar, desplegar e integrar la aplicación web con una API simulada, así como desplegar la Landing Page y conectar ambas plataformas, permitiendo a los usuarios interactuar con las funcionalidades básicas de EcoSmart desde la web. |
+| **Sprint 2 Velocity** | El equipo ha establecido una capacidad de 10 Story Points para este Sprint, considerando la complejidad del despliegue y la integración de la app web y la Landing Page. |
+| **Sum of Story Points** | 10 |
+
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 
 #### 5.2.2.3. Sprint Backlog 2.
