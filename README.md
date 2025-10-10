@@ -1309,6 +1309,7 @@ La prioridad fue lograr una experiencia de usuario cohesiva desde el cliente, co
 
 ---
 > Nota: No se han generado commits relacionados a endpoints o servicios, ya que no fueron parte del alcance del Sprint 1.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 En este Sprint, se realizó el despliegue de la Landing Page y vistas de usuario de EcoSmart utilizando GitHub Pages como herramienta para ello. Esto permitió hacer accesible el producto (landing page) desde cualquier navegador, facilitando las pruebas funcionales, demostraciones al equipo y feedback en tiempo real.
