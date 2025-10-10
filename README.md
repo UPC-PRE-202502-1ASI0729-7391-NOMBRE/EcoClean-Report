@@ -1535,6 +1535,10 @@ Finalmente accederemos a nuestra aplicación web mediante el enlace proporcionad
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
+A continuación podremos visualizar la evidencia de colaboración de los integrantes mediante el insight proporcionado por GitHub.
+
+![Sprint 2 Insights](images/commons/sprint-2-insights.png)
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
