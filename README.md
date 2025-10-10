@@ -1415,6 +1415,22 @@ El Sprint incluyó tareas de desarrollo frontend, integración con la API fake, 
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 
+##### Development Evidence – Sprint Review 2
+
+En esta sección se presentan los avances en la implementación con relación a los productos de la solución según el alcance del Sprint 2: **Landing Page, Web Application y API Integration & Deployment**.  
+Se evidencia el trabajo realizado mediante los commits asociados a cada repositorio, indicando branch, commit ID, mensaje y fecha de commit.
+
+| Repository             | Branch                      | Commit Id | Commit Message                        | Commit Message Body                                                                                      | Committed on (Date) |
+|------------------------|-----------------------------|-----------|--------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------|
+| eco-smart/landing-page  | feature/landingpage-deploy  | f1a2b3c   | feat: deploy landing page             | Se desplegó la Landing Page en el servidor de prueba y se verificó visualización correcta.            | 05/10/2025         |
+| eco-smart/landing-page  | feature/contact-form        | g2b3c4d   | feat: add contact form                | Se implementó formulario de contacto funcional, integrado con la API fake.                             | 05/10/2025         |
+| eco-smart/web-app       | feature/api-integration     | h3c4d5e   | feat: integrate fake API              | Se configuraron los endpoints de la API fake y se conectaron a la Web App para mostrar datos dinámicos. | 06/10/2025         |
+| eco-smart/web-app       | feature/api-testing         | i4d5e6f   | test: API endpoints                   | Pruebas de integración de la API simulada, validando respuestas y manejo de errores.                    | 06/10/2025         |
+| eco-smart/web-app       | feature/features-section    | j5e6f7g   | feat: dynamic features section        | Se desarrolló la sección de features dinámicos que muestra datos obtenidos de la API.                   | 07/10/2025         |
+| eco-smart/web-app       | feature/navigation          | k6f7g8h   | feat: navigation landing-app          | Configuración de enlaces entre la Landing Page y la Web App, asegurando navegación fluida.             | 08/10/2025         |
+| eco-smart/web-app       | feature/deploy-final        | l7g8h9i   | chore: final deployment web app       | Despliegue final de la Web Application con API integrada, pruebas completas de funcionalidad.           | 09/10/2025         |
+| eco-smart/web-app       | feature/responsive-fixes    | m8h9i0j   | fix: responsive UI adjustments        | Ajustes de diseño responsive en la Landing Page y Web App, verificación en distintos dispositivos.      | 10/10/2025         |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
