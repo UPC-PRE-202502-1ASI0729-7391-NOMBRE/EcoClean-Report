@@ -1462,6 +1462,68 @@ Entre los logros destacan:
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+En esta sección presentaremos la evidencia de los despliegues realizados para los distintos productos que hemos desarrollado para este sprint. En el presente sprint se incluye el despliegue de nuestra landing page al igual que la primera versión de nuestra aplicación web.
+
+**Landing Page Deployment**
+
+Para el despliegue de nuestra landing page se utilizó GitHub Pages y se logró siguiendo los siguientes pasos:
+
+Paso 1: 
+Primero creamos un nuevo repositorio en GitHub con el nombre `Landing-page` dentro del directorio de nuestro proyecto, luego agregamos todo el contenido de nuestra landing page en el repositorio.
+
+<img src="assets/deployment/repository-landing.png"/>
+
+Paso 2:
+Después ingresamos a la pestaña de `Settings` y posteriormente a la sección de `Pages`, procederemos a seleccionar la rama que deseamos desplegar, en este caso es la rama `main`, para el despliegue de la landing page.
+
+<img src="assets/deployment/settings.png"/>
+
+Paso 3:
+Luego procederemos a verificar que el despliegue realizado haya sido exitoso, esto lo visualizaremos en la sección de `Deployments` y se nos proporciona un enlace para acceder a la landing page.
+
+<img src="assets/deployment/deploy.png"/>
+
+Paso 4:
+Finalmente accederemos a nuestra landing page mediante el enlace proporcionado por Github Pages.
+
+<img src="assets/deployment/landing.png"/>
+
+**Web App Deployment**
+
+Para el despliegue de nuestra aplicación web se utilizó el servicio Vercel y se logró siguiendo los siguientes pasos:
+
+Paso 1: 
+Primero creamos un nuevo repositorio en GitHub con el nombre `EcoClean-Web-Frontend` dentro del directorio de nuestro proyecto, luego agregamos todo el contenido de nuestra aplicación web en el repositorio.
+
+<img src="assets/deployment/repository-web.png"/>
+
+Paso 2:
+Después ingresamos al servicio de Vercel para poder ingresar con nuestra cuenta.
+
+<img src="assets/deployment/vercel.jpg"/>
+
+<img src="assets/deployment/vercel-deploy.jpg"/>
+
+Paso 3:
+Luego procederemos a iniciar sesión, para este caso iniciamos sesión con nuestra cuenta de GitHub.
+
+<img src="assets/deployment/vercel-github.jpg"/>
+
+Paso 4:
+Una vez dentro del servicio, creamos un nuevo proyecto dentro de Vercel y lo conectamos con nuestro repositorio preveiamente mencionado.
+
+<img src="assets/deployment/dashboard.jpg"/>
+
+Paso 5:
+Al finalizar de configurar nuestro proyecto dentro de Vercel, el servicio nos informará cuando se hara realizado satisfactoriamente el despliegue de nuestra aplicación web, a su vez, no proporcionará los enlaces del despliegue.
+
+<img src="assets/deployment/vercel-deploy.jpg"/>
+
+Paso 6:
+Finalmente accederemos a nuestra aplicación web mediante el enlace proporcionado por Vercel.
+
+<img src="assets/deployment/deploy-web.png"/>
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 # Conclusiones
