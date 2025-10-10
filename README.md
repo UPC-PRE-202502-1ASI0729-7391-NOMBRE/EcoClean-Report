@@ -1371,6 +1371,28 @@ Durante el Sprint 1, el landing page en su totalidad fue implementado por **Joaq
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 
+En el Sprint 2, el equipo trabajó en los principales aspectos relacionados con el desarrollo de la solución: **Landing Page**, **Web Application** y **API Integration & Deployment**. Para asegurar una coordinación eficiente y una distribución clara de responsabilidades, se elaboró la matriz de Liderazgo y Colaboración (LACX).  
+
+Esta matriz permite identificar quién lidera cada aspecto y quiénes colaboran, promoviendo una comunicación efectiva y una ejecución organizada de las tareas del sprint.
+
+---
+
+##### Leadership-and-Collaboration Matrix (LACX) – Sprint 2
+
+| Team Member (Last Name, First Name) | GitHub Username      | Landing Page | Web Application | API Integration & Deployment |
+|-------------------------------------|--------------------|--------------|----------------|-----------------------------|
+| Carranza Tesen, Joaquin Enrique     | thepima            | **L**        | C              | C                           |
+| Avalos Cordova, Diego Andres        | DiegoAndresAvalos  | C            | **L**          | C                           |
+| Velarde Luyo, Piero Alberto         | P1er0VL            | C            | C              | **L**                       |
+| Cardenas Huaman, Mathias Andree     | AndS56             | C            | C              | C                           |
+| Zuniga Calle, Sebastian Gabriel     | sezunii            | C            | C              | C                           |
+
+---
+### Notas sobre la organización
+- Cada aspecto tiene asignado un **líder (L)** responsable de la coordinación y supervisión.  
+- Los demás miembros son **colaboradores (C)**, apoyando en la implementación y pruebas según sus habilidades.  
+- La matriz asegura que cada aspecto crítico del Sprint 2 esté cubierto de manera eficiente y que la comunicación dentro del equipo sea clara.
+
 #### 5.2.2.3. Sprint Backlog 2.
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
