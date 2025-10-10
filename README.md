@@ -1459,6 +1459,16 @@ Entre los logros destacan:
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+Para este sprint logrado desplegar una aplicación web, la cual consume un servicio Json-Server para, de esta manera, simular un servicio de Backend. A continuación se muestra la documentación de la API.
+
+| **Endpoint Name** | **Implemented Actions** | **Call Syntax**                          | **Parameters Specification** | **Call Example**                                                   | **Response Explanation**                              |
+|-------------------|-------------------------|------------------------------------------|------------------------------|--------------------------------------------------------------------|-------------------------------------------------------|
+| /user          | GET, POST               | `return http.get(this.resourceEndpoint)` | id, firstName, lastName, email, document, phone, password               | `getAll() { return http.get('http://localhost:3000/user'); }`   | Devuelve un array con todos los usuarios.             |
+| /posts        | GET, POST, PUT, DELETE  | `return http.get(this.resourceEndpoint)` | id, author, district, message, rating, imageURL, createdAt       | `getAll() { return http.get('http://localhost:3000/posts'); }` | Devuelve un array con todos los posts. |
+| /municipalities        | GET, POST               | `return http.get(this.resourceEndpoint)` | id, name, district, representatives, avatar         | `getAll() { return http.get('http://localhost:3000/municipalities'); }` | Devuelve un array con todas las municipalidades.            |
+| /conversations        | GET, POST               | `return http.get(this.resourceEndpoint)` | id, municipalityId, citizenName, subject, lastMessagePreview, lastMessageAt         | `getAll() { return http.get('http://localhost:3000/conversations'); }` | Devuelve un array con todas las conversaciones.            |
+| /messages        | GET, POST               | `return http.get(this.resourceEndpoint)` | id, conversationId, sender, text, timestamp         | `getAll() { return http.get('http://localhost:3000/messages'); }` | Devuelve un array con todas las conversaciones.            |
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 En esta sección presentaremos la evidencia de los despliegues realizados para los distintos productos que hemos desarrollado para este sprint. En el presente sprint se incluye el despliegue de nuestra landing page al igual que la primera versión de nuestra aplicación web.
