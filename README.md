@@ -61,7 +61,8 @@
 | TP1 | 05/10/25 | Diego Avalos | Capitulo IV Sprint 2 |
 | TP1 | 08/10/25 | Diego Avalos | Capitulo IV Sprint 2 Services Documentation Evidence |
 | TP1 | 10/10/25 | Diego Avalos | Capitulo IV Sprint 2 Execution Evidence|
-| TP1 | 10/10/25 | Joaquin Caranza | Landing Page|
+| TP1 | 10/10/25 | Joaquin Caranza | Landing Page |
+| TP1 | 10/10/25 | Andree Cardenas | Desarrollo del messages del fronted |
 
 
 </div>
