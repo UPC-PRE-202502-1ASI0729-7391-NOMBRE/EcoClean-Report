@@ -433,16 +433,7 @@ Debe transmitir confianza, simplicidad y modernidad. El diseño tiene que ser in
 
 #### 1.2.2.4. Lean UX Canvas
 
-| **Sección** | **Descripción** |
-|-------------|-----------------|
-| **Business Problem** | Los municipios siguen gastando demasiado en la recolección de basura porque todavía trabajan con rutas fijas y sin datos en tiempo real. Esto genera recorridos innecesarios, mayor consumo de combustible, más emisiones y vecinos insatisfechos al ver tachos desbordados en sus calles. |
-| **Business Outcomes** | - Reducir los costos de operación en un 30%.<br>- Optimizar al menos un 40% de las rutas de recolección en el primer año.<br>- Bajar en un 25% las emisiones de CO₂ relacionadas a la recolección.<br>- Mejorar la percepción ciudadana sobre limpieza pública en un 20%. |
-| **Users and Customers** | - Funcionarios municipales que gestionan los residuos.<br>- Operarios y choferes de camiones recolectores.<br>- Empresas de limpieza pública.<br>- Vecinos que esperan calles más limpias y ordenadas. |
-| **User Benefits** | - Los municipios pueden tomar decisiones más rápidas gracias a datos en tiempo real.<br>- Los operarios cuentan con rutas claras y menos trabajo innecesario.<br>- Los vecinos disfrutan de espacios más limpios y sin acumulación de basura. |
-| **Solutions (Ideas)** | - Sensores IoT en tachos inteligentes para medir el nivel de llenado.<br>- Plataforma central con paneles de control y reportes.<br>- Algoritmos que optimicen rutas en tiempo real.<br>- Alertas automáticas para operarios y gestores.<br>- Métricas de ahorro y reducción de emisiones. |
-| **Hypotheses** | Creemos que si instalamos sensores en los tachos y aplicamos algoritmos de optimización, los municipios podrán reducir kilómetros recorridos, consumo de combustible y emisiones. Sabremos que esto funciona cuando los reportes del piloto reflejen esas reducciones de manera clara y constante. |
-| **What’s the most important thing we need to learn first?** | Necesitamos confirmar que la información que brindan los sensores realmente se traduce en decisiones prácticas y en rutas que los operarios estén dispuestos a seguir. Lo más importante es comprobar que las rutas optimizadas reducen kilómetros recorridos y consumo de combustible sin complicar la operación diaria. |
-| **What’s the least amount of work we need to do to learn the next most important thing?** | Probar con un piloto reducido en un distrito pequeño: instalar entre 10 y 20 sensores, correr el sistema durante unas semanas y comparar los resultados de las rutas optimizadas frente a las rutas tradicionales. Mediremos kilómetros recorridos, consumo de combustible, cantidad de tachos desbordados y la opinión de los operarios sobre la facilidad de uso. |
+<p align = "center"> <img  alt="Lean UX Canvas" src="./images/commons/lean_ux_canvas.png"> </p>
 
 # 1.3. Segmentos Objetivo
 
