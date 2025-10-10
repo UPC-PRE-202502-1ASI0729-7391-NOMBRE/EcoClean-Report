@@ -1427,6 +1427,26 @@ Se evidencia el trabajo realizado mediante los commits asociados a cada reposito
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+En el Sprint 2, el equipo logró avanzar significativamente en la implementación de la solución. Se desarrollaron y desplegaron las principales funcionalidades de la **Web Application** y se integraron con la **Landing Page** y la **API fake**.  
+Entre los logros destacan:
+
+#### Screenshots de la aplicación
+
+#### 1. Pantalla de Inicio de Sesión
+<img src="https://i.postimg.cc/sDG90FVy/inicio-sesion-Eco-Smart.png" alt="Login Screen" width="900"/>  
+
+#### 2. Pantalla de Registro de Usuario
+<img src="https://i.postimg.cc/pX5Y1NPq/registro-Eco-Smart.png" alt="Register Screen" width="900"/>  
+
+#### 3. Vista de Tendencias por Distrito
+<img src="https://i.postimg.cc/7Zv1FB6y/tendencia-Eco-Smart.png" alt="District Trends" width="900"/>  
+
+#### 4. Mapa 
+<img src="https://i.postimg.cc/P5Gbg6xr/mapa-Eco-Smart.png" alt="Map" width="900"/>  
+
+#### 5. Mensaje Directo entre Usuarios
+<img src="https://i.postimg.cc/QxKknLXM/mensaje-directo-Eco-Smart.png" alt="Direct Message" width="900"/>  
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
