@@ -1415,8 +1415,6 @@ El Sprint incluyó tareas de desarrollo frontend, integración con la API fake, 
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 
-##### Development Evidence – Sprint Review 2
-
 En esta sección se presentan los avances en la implementación con relación a los productos de la solución según el alcance del Sprint 2: **Landing Page, Web Application y API Integration & Deployment**.  
 Se evidencia el trabajo realizado mediante los commits asociados a cada repositorio, indicando branch, commit ID, mensaje y fecha de commit.
 
