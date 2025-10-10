@@ -1458,18 +1458,36 @@ Entre los logros destacan:
 
 ## Conclusiones y recomendaciones
 
-# 5. Conclusiones y Recomendaciones  
+Durante los primeros dos sprints del proyecto **EcoSmart**, hemos trabajado en validar y desarrollar los productos digitales contemplados en nuestro modelo de negocio: la **Landing Page**, la **Web Application** y los **Web Services** (API fake).  
 
-A lo largo del desarrollo del proyecto **EcoSmart** hemos identificado que los problemas más relevantes en la gestión de residuos son la falta de monitoreo en tiempo real, las rutas de recolección poco eficientes y la limitada participación ciudadana. Las entrevistas realizadas tanto a municipalidades como a ciudadanos confirman nuestras primeras hipótesis: existe una necesidad real de contar con herramientas digitales que optimicen la gestión de la basura y que al mismo tiempo acerquen a la comunidad a este proceso.  
+### Conclusiones
 
-El trabajo con el **Lean UX Canvas** nos permitió validar que los usuarios valoran soluciones simples, visuales y accesibles. Los municipios buscan eficiencia y reducción de costos, mientras que los ciudadanos necesitan información clara y rápida para organizarse y reportar incidencias. La arquitectura de información, los sistemas de navegación y los prototipos elaborados están alineados a estos objetivos, reforzando que nuestra propuesta tiene viabilidad práctica y social.  
+1. **Resultados frente a los Problem Statements:**
+   - La falta de monitoreo en tiempo real y rutas de recolección poco eficientes se abordó mediante la visualización de **tendencias por distrito** y el **mapa interactivo** en la Web App.  
+   - La limitada participación ciudadana se ha comenzado a atacar con funcionalidades de **mensajes directos** y un sistema de **registro/inicio de sesión**, permitiendo interacción y seguimiento de usuarios.  
 
-### Recomendaciones: 
-De cara a los siguientes pasos, recomendamos:  
-- Continuar con pruebas piloto en distritos con alta densidad poblacional para validar la usabilidad del sistema en escenarios reales.  
-- Invertir en capacitación inicial tanto para el personal municipal como para los ciudadanos, reduciendo la resistencia al cambio y promoviendo la adopción de la herramienta.  
-- Ampliar progresivamente las funcionalidades, incorporando métricas de impacto ambiental y opciones de gamificación para motivar la participación ciudadana.  
-- Mantener un roadmap claro, donde la prioridad sea la estabilidad técnica del sistema y la consolidación de la confianza con los usuarios finales.
+2. **Validación de Assumptions:**
+   - Asumimos que los usuarios valoran interfaces simples, visuales y fáciles de usar; las pruebas de navegación en los sprints iniciales confirman que la Landing Page y la Web App cumplen con esta expectativa.  
+   - Se asumió que los municipios necesitan eficiencia y reducción de costos; la integración de la API fake y la visualización de datos permite comprobar que la información puede ser organizada y presentada de manera eficiente.  
+
+3. **Resultados frente a Hypotheses Statements:**
+   - Hipótesis: “Los ciudadanos usarán la aplicación si pueden acceder a información clara de tendencias y reportes de residuos”.  
+   - Resultado: la funcionalidad de tendencias por distrito y mensajes directos valida parcialmente esta hipótesis, y se continuará mejorando en los siguientes sprints.  
+
+4. **Criterios de éxito:**
+   - La Landing Page es **responsive y funcional**.  
+   - La Web App integra correctamente la API simulada y permite navegación básica entre secciones.  
+   - Los endpoints documentados con **OpenAPI** facilitan la integración y pruebas futuras.  
+   - Se han generado evidencias de desarrollo, ejecución y despliegue, cumpliendo con los estándares de trazabilidad del equipo.  
+
+### Recomendaciones
+
+- **Pruebas piloto con usuarios reales:** evaluar usabilidad de la Landing Page y Web App, incluyendo mapas, tendencias y mensajería.  
+- **Integración de la API real:** reemplazar la API fake, documentando todos los endpoints y probando su funcionamiento completo.  
+- **Optimización UX/UI:** mejorar flujos de registro, inicio de sesión y mensajes directos, incorporando retroalimentación de usuarios.  
+- **Capacitación y adopción:** orientar a usuarios finales y personal municipal para reducir resistencia al cambio.  
+- **Expansión de funcionalidades:** incluir métricas de impacto ambiental, gamificación y opciones de participación ciudadana.  
+- **Mantener la documentación y roadmap actualizados:** asegurar continuidad en el desarrollo y priorizar estabilidad técnica y confiabilidad.  
 
 <br><br>
 
