@@ -83,6 +83,10 @@
 | -------------------------------------- |
 | [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Landing-page](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Landing-page) |
 
+| URL del repositorio del Frontend |
+| -------------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Web-Frontend](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Web-Frontend) |
+
 <br><br>
 
 # Contenido
