@@ -1817,6 +1817,47 @@ A continuación, se muestra la evidencia de colaboración utilizando **GitHub In
 
 ### 5.3.1. Diseño de entrevistas
 
+**Segmento 1: Municipios y Funcionarios Públicos**
+1. ¿Cuál considera que es el desafío logístico y presupuestario más grande que enfrenta actualmente su distrito en la gestión de residuos, y cómo cree que la tecnología podría ayudar a mitigarlo?
+
+2. En el contexto de la sostenibilidad urbana, ¿cómo visualiza que una gestión de residuos optimizada e inteligente impactaría la calidad de vida y la percepción de servicio en su municipio?
+
+3. Desde la perspectiva de un funcionario, ¿qué tipo de información o métrica de rendimiento es crucial para tomar decisiones efectivas sobre la asignación de recursos en la recolección y tratamiento de residuos?
+
+4. ¿Qué factores serían decisivos para que su equipo considere la adopción de una nueva plataforma web para la gestión de servicios esenciales, como lo es la limpieza urbana?
+
+5. ¿Cómo mediría el retorno de la inversión (ROI) de una solución que promete reducir los costos operativos de la logística de residuos, y qué porcentaje de ahorro se consideraría significativo?
+
+6. Más allá de la eficiencia en las rutas, ¿qué aspectos de la aplicación podrían mejorar la transparencia y la rendición de cuentas ante la ciudadanía respecto al servicio de recolección?
+
+7. Considerando la infraestructura tecnológica existente en su distrito, ¿qué tan importante es que una solución como EcoClean pueda integrarse con otros sistemas o escalarse fácilmente a medida que crecen las necesidades urbanas?
+
+8. ¿Cómo podría un sistema de monitoreo y análisis en tiempo real mejorar la capacidad de su municipio para responder y gestionar situaciones inesperadas o picos de residuos?
+
+9. ¿De qué manera una plataforma centralizada podría mejorar la comunicación y coordinación entre los diferentes departamentos que intervienen en la gestión de residuos?
+
+10. ¿Cuáles son sus mayores reservas o posibles barreras que ve en la implementación de una solución innovadora que dependa de sensores y análisis de datos en un entorno municipal?
+
+**Segmento 2: Ciudadanos Urbanos**
+1. ¿Cuál es su mayor frustración actual con el sistema de recolección de residuos en su barrio y cómo podría una herramienta digital hacer este proceso más sencillo y predecible para usted?
+
+2. ¿De qué forma se sentiría más motivado a interactuar con una aplicación proporcionada por el municipio para informar sobre problemas o acceder a información sobre el servicio de limpieza?
+
+3. Si una aplicación pudiera ofrecerle información en tiempo real, ¿qué dato sería más valioso para su rutina diaria: el momento exacto de la recolección, o la ubicación de puntos de reciclaje específicos?
+
+4. ¿Qué nivel de transparencia y detalle esperaría de la aplicación respecto a cómo su distrito está gestionando y reciclando los residuos que usted produce?
+
+5. ¿Qué tipo de notificación o alerta le gustaría recibir de una aplicación municipal para mejorar su gestión de residuos?
+
+6. ¿Qué funcionalidades de la aplicación le ayudarían a sentirse más conectado con el impacto ambiental positivo de sus hábitos de descarte?
+
+7. ¿Qué haría que usted confiara en la precisión de la información proporcionada por una aplicación que se basa en sensores y análisis de datos para reportar el estado de los contenedores o el servicio?
+
+8. ¿Qué elementos de diseño o gamificación lo animarían a utilizar consistentemente la aplicación en su vida cotidiana?
+
+9. Dejando de lado lo que ya sabe, ¿cómo podría una aplicación digital simplificar las dudas sobre la separación y disposición correcta de residuos no comunes o materiales especiales?
+
+10. En una sola frase, ¿cuál es el principal valor que espera obtener de una aplicación que le conecta con la gestión inteligente de residuos de su ciudad?
 
 ### 5.3.2. Registro de entrevistas
 
