@@ -797,8 +797,6 @@ Estos commits incluyen la creación de servicios, controladores, requests y resp
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-## 5.2.3.7. Software Deployment Evidence for Sprint Review
-
 Durante el Sprint 3 se completó el despliegue funcional de los tres componentes principales del ecosistema **EcoClean**: **Web Application (Frontend)**, **Web Services (Backend)** y **Base de Datos**, asegurando un entorno completamente operativo para pruebas, validaciones y revisión del producto.
 
 El despliegue se realizó utilizando servicios cloud gratuitos y optimizados para desarrollo ágil:
