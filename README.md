@@ -68,9 +68,14 @@
 | TP1 | 10/10/25 | Piero Velarde | Capitulo V  Software Deployment Evidence for Sprint Review |
 | TB2 | 15/11/25 | Andree Cardenas | Capitulo V Sprint 3 |
 | TB2 | 12/11/25 | Andree Cardenas | Desarrollo del Backend |
-| TB2 | 10/10/25 | Piero Velarde |  |
-| TB2 | 10/10/25 | Joaquin Carranza | |
-| TB2 | 12/10/25 | Diego Avalos | Desarrollo del Backend |
+| TB2 | 16/11/25 | Andree Cardenas | Actualización de las conclusiones | 
+| TB2 | 10/11/25 | Piero Velarde | Despliegue de MySQL |
+| TB2 | 13/11/25 | Piero Velarde | Despliegue de la nueva version del Frontend
+| TB2 | 14/11/25 | Joaquin Carranza | Entrevistas |
+| TB2 | 14/11/25 | Joaquin Carranza | Capitulo V Sprint 3 |
+| TB2 | 12/11/25 | Diego Avalos | Desarrollo del Backend |
+| TB2 | 12/11/25 | Diego Avalos | Despliegue del Backend |
+| TB2 | 12/11/25 | Diego Avalos | Capitulo V Sprint 3 |
 
 </div>
 
