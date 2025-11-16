@@ -707,22 +707,19 @@ En este Sprint se avanzó en la construcción inicial del sistema EcoClean, logr
 A continuación, se presentan los screenshots correspondientes a las principales vistas del sistema implementadas durante el Sprint 3:
 
 ### **Frontend – Vista 1: Pantalla Inicial / Login**
-[Enlace d la foto](https://...)
+![Imagen/login](https://i.postimg.cc/BbZPb16W/Eco-Smart-New-Frontend-Deploy.jpg)
 
 ### **Frontend – Vista 2: Dashboard / Navegación Principal**
-[Enlace d la foto](https://...)
+![Imagen/Principal](https://i.postimg.cc/sX4Z3JVf/Eco-Smart-Perfil.jpg)
 
 ---
 
-### **Backend – Documentación Swagger (Endpoints del Sprint 3)**
+### **Backend – Documentación Swagger**
 En esta vista se muestran los endpoints creados en el backend utilizando Spring Boot, documentados mediante Swagger:
 
-[Enlace d la foto](https://...)
+![Imagen/Swagger](https://i.postimg.cc/hv4Qv7jR/Eco-Smart-Backend-Deploy.jpg)
 
 ---
-
-Estos elementos representan el avance visual y funcional logrado durante este sprint, evidenciando el progreso tanto en la interfaz de usuario como en la construcción del API Backend.
-
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
