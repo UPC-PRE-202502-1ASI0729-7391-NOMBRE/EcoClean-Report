@@ -809,8 +809,6 @@ El despliegue se realizó utilizando servicios cloud gratuitos y optimizados par
 
 Estos despliegues permiten que cualquier miembro del equipo pueda acceder a la aplicación en un entorno público y funcional, replicando el comportamiento productivo.
 
----
-
 ## Entorno de Despliegue
 
 ### **Frontend**
@@ -821,8 +819,6 @@ Estos despliegues permiten que cualquier miembro del equipo pueda acceder a la a
 - **Evicencia del despliegue**
 ![Imagen/Frontend-eviencia](https://i.postimg.cc/SNF1jS7s/Eco-Smart-Frontend-Despliegue-Evidencia.jpg)
 
----
-
 ### **Backend**
 - **Plataforma:** Render.com  
 - **Tecnología:** Spring Boot + Java  
@@ -832,7 +828,6 @@ Estos despliegues permiten que cualquier miembro del equipo pueda acceder a la a
 - **Despliegue:** Auto-build desde la rama `main`  
 - **Evicencia del despliegue** 
 ![Imagen/Backend-evidencia](https://i.postimg.cc/28QcZs2r/Eco-Smart-Backend-Despligue-Evidencia.jpg)
----
 
 ### **Base de Datos**
 - **Proveedor:** Railway  
