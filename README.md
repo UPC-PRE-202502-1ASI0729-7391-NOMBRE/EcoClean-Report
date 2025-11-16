@@ -650,9 +650,32 @@ A continuación podremos visualizar la evidencia de colaboración de los integra
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
+Para el Sprint 3, el equipo se enfocó en dos aspectos principales: el desarrollo del panel de administrador (Web Application) y la creación del backend (API Integration & Deployment). El equipo se ha reorganizado de la siguiente manera:
+
+| Team Member (Last Name, First Name) | GitHub Username | Web Application (Admin) | API Integration & Deployment |
+| :--- | :--- | :--- | :--- |
+| Carranza Tesen, Joaquin Enrique | thepima | C | C |
+| Avalos Cordova, Diego Andres | DiegoAndresAvalos | C | **L** |
+| Velarde Luyo, Piero Alberto | P1er0VL | C | C |
+| Cardenas Huaman, Mathias Andree | AndS56 | **L** | C |
+
+### Notas sobre la organización
+- Cada aspecto tiene asignado un líder (L) responsable de la coordinación y supervisión.
+- Los demás miembros son colaboradores (C), apoyando en la implementación y pruebas según sus habilidades.
+- La matriz asegura que cada aspecto crítico del Sprint 2 esté cubierto de manera eficiente y que la comunicación dentro del equipo sea clara.
 
 #### 5.2.3.3. Sprint Backlog 3
-
+| Sprint # | Sprint 3 | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **User Story** | | **Work-Item / Task** | | | | | **Status** |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | (To-do / In-Process / To-Review / Done) |
+| US05 | Panel de control municipal | TS13 | Implementar Login de administrador | Crear la vista de inicio de sesión para el panel administrativo. | 4 | Mathias Cardenas | Done |
+| US05 | Panel de control municipal | TS14 | Crear navegación y sidebar del panel | Estructurar el layout principal del dashboard administrativo con su menú lateral. | 6 | Mathias Cardenas | Done |
+| US-Admin1 | Gestión de Roles | TS15 | Crear endpoint `POST /api/auth/login` | Desarrollar el endpoint de autenticación que retorna un token. | 5 | Diego Avalos | Done |
+| US-Admin1 | Gestión de Roles | TS16 | Crear endpoints `GET /api/users` y `PUT /api/users/{id}/role` | Desarrollar los servicios para listar usuarios y actualizar sus roles. | 8 | Diego Avalos | Done |
+| US-Admin1 | Gestión de Roles | TS17 | Implementar vista "Asignación de roles" | Desarrollar el frontend que consume los endpoints de usuarios y permite cambiar roles. | 6 | Mathias Cardenas | Done |
+| US-Admin2 | Gestión de Municipios | TS18 | Crear endpoints CRUD para `/api/municipalities` | Desarrollar los servicios para Registrar, Listar y Actualizar municipios. | 8 | Diego Avalos | Done |
+| US-Admin2 | Gestión de Municipios | TS19 | Implementar vista "Gestión de Municipios" | Desarrollar el frontend para listar y registrar nuevos municipios en la plataforma. | 6 | Piero Velarde | Done |
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
