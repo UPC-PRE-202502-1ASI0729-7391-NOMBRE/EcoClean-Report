@@ -771,7 +771,7 @@ Repositorio Backend:
 
 ---
 
-### 📝 Commits relacionados con la documentación de servicios
+### Commits relacionados con la documentación de servicios
 
 | Commit ID | Autor | Mensaje |
 |-----------|--------|---------|
@@ -787,7 +787,7 @@ Estos commits incluyen la creación de servicios, controladores, requests y resp
 
 ---
 
-### ✔ Resumen General del Avance en Documentación
+### Resumen General del Avance en Documentación
 
 - Se habilitó Swagger para visualizar endpoints.  
 - Se documentó la estructura base del backend.  
@@ -797,6 +797,69 @@ Estos commits incluyen la creación de servicios, controladores, requests y resp
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 3 se completó el despliegue funcional de los tres componentes principales del ecosistema **EcoClean**: **Web Application (Frontend)**, **Web Services (Backend)** y **Base de Datos**, asegurando un entorno completamente operativo para pruebas, validaciones y revisión del producto.
+
+El despliegue se realizó utilizando servicios cloud gratuitos y optimizados para desarrollo ágil:
+
+- **Frontend** desplegado en **Vercel**
+- **Backend (API en Spring Boot)** desplegado en **Render**
+- **Base de datos MySQL** desplegada en **Railway**
+
+Estos despliegues permiten que cualquier miembro del equipo pueda acceder a la aplicación en un entorno público y funcional, replicando el comportamiento productivo.
+
+---
+
+## Entorno de Despliegue
+
+### **Frontend**
+- **Plataforma:** Vercel  
+- **Framework:** React / TypeScript   
+- **Tipo de despliegue:** Automático desde la rama principal  
+- **Integración:** Conexión directa hacia el backend desplegado en Render
+- **Evicencia del despliegue**
+![Imagen/Frontend-eviencia](https://i.postimg.cc/SNF1jS7s/Eco-Smart-Frontend-Despliegue-Evidencia.jpg)
+
+---
+
+### **Backend**
+- **Plataforma:** Render.com  
+- **Tecnología:** Spring Boot + Java  
+- **Modo:** Web Service  
+- **URL pública de API:** *(coloca tu URL de Render aquí)*  
+- **Documentación:** Swagger habilitado  
+- **Despliegue:** Auto-build desde la rama `main`  
+- **Evicencia del despliegue** 
+![Imagen/Backend-evidencia](https://i.postimg.cc/28QcZs2r/Eco-Smart-Backend-Despligue-Evidencia.jpg)
+---
+
+### **Base de Datos**
+- **Proveedor:** Railway  
+- **Motor:** MySQL  
+- **Conexión externa:** Vía JDBC  
+- **Uso:** Persistencia de entidades del dominio EcoClean  
+- **Acceso:** Conexión segura mediante credenciales autogeneradas
+- **Evicencia**  
+![Imagen/MySQL](https://i.postimg.cc/vHrqVJ3M/Eco-Smart-My-SQL-Evicencia.jpg)
+
+---
+
+## Verificación del Despliegue
+
+Se realizaron pruebas internas utilizando:
+
+- **Postman** para validar endpoints del backend  
+- **Swagger UI** para inspección de documentación  
+- **Railway Dashboard** para monitorear tablas y persistencia  
+- **Vercel Preview** para verificar la carga y navegación del frontend  
+
+Los resultados confirmaron:
+
+- Conectividad correcta entre Vercel ↔ Render ↔ Railway  
+- Persistencia real de datos en MySQL remota  
+- Funcionamiento estable del backend en entorno Render  
+- Frontend renderizando datos dinámicos del backend  
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
