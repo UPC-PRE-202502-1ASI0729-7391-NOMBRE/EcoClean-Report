@@ -971,7 +971,7 @@ Los errores fueron puntuados tomando en cuenta la siguiente escala de severidad:
 - **Problema:**  
   Cuando el usuario ingresa un correo duplicado o una contraseña débil, el sistema no muestra un mensaje claro sobre qué campo falló ni cómo corregirlo. Solo aparece un mensaje genérico de error.  
 - **Recomendación:**  
-  Mostrar mensajes específicos debajo de cada campo erróneo (ej. "Este correo ya está registrado", "La contraseña debe tener al menos 8 caracteres"). Incluir validación en tiempo real con iconos visuales (✅ / ❌).
+  Mostrar mensajes específicos debajo de cada campo erróneo (ej. "Este correo ya está registrado", "La contraseña debe tener al menos 8 caracteres"). Incluir validación en tiempo real con iconos visuales.
 
 ---
 
