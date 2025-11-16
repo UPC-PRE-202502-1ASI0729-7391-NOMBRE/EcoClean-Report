@@ -6,32 +6,33 @@
 <br>
 
 <div align="center">
-  <img width=140 src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png"/>
+  <img width=200 src="images/commons/upcLogo.png"/>
 </div>
 
 <br>
 
-<h1 align="center"> TB1 Report </h1>
+<h1 align="center"> TP1 Report </h1>
 
 <h3 align="center"> Desarrollo de Aplicaciones Open Source - 7391 </h3>
 
 <h3 align="center"> Docente: Mori Paiva, Hugo Allan </h3>
 
-<h3> Startup:  </h3>
+<h3> Startup: EcoClean </h3>
 
-<h3> Product:  </h3>
+<h3> Product: EcoSmart</h3>
 
 <h3> Team Members: </h3>
 
 <div align="center">
 
+
 | Member                           |    Code    |
 | :------------------------------- | :--------: |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Mathias Andree Cardenas Huaman | U202316353 |
+| Diego Andres Avalos Cordova    | U202313922 |
+| Joaquin Enrique Carranza Tesén | U20191B935 |
+| Piero Alberto Velarde Luyo | U20211A620 |
+| Sebastian Gabriel Zuñiga Calle | U20221b479 |
 
 </div>
 
@@ -45,12 +46,53 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
+| TB1 | 11/09/25 | Andree Cardenas | CapÍtulo I y su descripción |
+| TB1 | 12/09/25 | Joaquin Carranza | Entrevistas, Diagrama de base de datos y Landing Page.  |
+| TB1 | 14/09/25 | Andree Cardenas | Parte final del Capítulo II |
+| TB1 | 15/09/25 | Andree Cardenas | Realización completa del Capítulo III |
+| TB1 | 15/09/25 | Sebastian Zuniga | Modelado C4 Capitulo IV |
+| TB1 | 15/09/25 | Sebastian Zuniga | Modelado Diagrama de clases Capitulo IV |
+| TB1 | 11/09/25 | Diego Avalos | Capitulo I antecedentes y problematicas |
+| TB1 | 11/09/25 | Diego Avalos | Capitulo II Competidores y entrevistas |
+| TB1 | 11/09/25 | Diego Avalos | Capitulo IV Landing Page Wireframe |
+| TB1 | 11/09/25 | Sebastian Zuniga | Sprint Backlog Capitulo V |
+| TB1 | 15/09/25 | Piero Velarde | Capitulo II Needfinding |
+| TB1 | 15/09/25 | Piero Velarde | Capitulo IV Landing Page Mock-Up |
+| TP1 | 05/10/25 | Diego Avalos | Capitulo V Sprint 2 |
+| TP1 | 08/10/25 | Diego Avalos | Capitulo V Sprint 2 Services Documentation Evidence |
+| TP1 | 10/10/25 | Diego Avalos | Capitulo V Sprint 2 Execution Evidence|
+| TP1 | 10/10/25 | Joaquin Caranza | Landing Page |
+| TP1 | 10/10/25 | Andree Cardenas | Desarrollo del messages del fronted |
+| TP1 | 09/10/25 | Andree Cardenas | Mejora del impact mapping y Mejora del Product Backlog |
+| TP1 | 10/10/25 | Piero Velarde | Mejora del Lean UX Canvas |
+| TP1 | 10/10/25 | Piero Velarde | Capitulo V Services Documentation Evidence for Sprint Review |
+| TP1 | 10/10/25 | Piero Velarde | Capitulo V  Software Deployment Evidence for Sprint Review |
+| TB2 | 10/10/25 | Andree Cardenas |  |
+| TB2 | 10/10/25 | Piero Velarde |  |
+| TB2 | 10/10/25 | Joaquin Carranza | |
+| TB2 | 10/10/25 | Diego Avalos |  |
 
 </div>
 
 <br><br>
 
 # Project Report Collaboration Insights
+
+| URL de la organización del proyecto |
+| ----------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE) |
+
+| URL del repositorio del reporte |
+| ------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Report](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Report) |
+
+| URL del repositorio de la landing page |
+| -------------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Landing-page](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/Landing-page) |
+
+| URL del repositorio del Frontend |
+| -------------------------------------- |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Web-Frontend](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Web-Frontend) |
 
 <br><br>
 
@@ -65,73 +107,6 @@
 ### [Contenido](#contenido)
 
 ### [Student Outcome](#student-outcome-1)
-
-### [Capítulo I: Introducción](#capítulo-i-introducción-1)
-
-- [1.1. Startup Profile](#11-startup-profile)
-  - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
-  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-- [1.2. Solution Profile](#12-solution-profile)
-  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-  - [1.2.2 Lean UX Process](#122-lean-ux-process)
-    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
-### [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
-
-- [2.1. Competidores](#21-competidores)
-  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-- [2.2. Entrevistas](#22-entrevistas)
-  - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-  - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-- [2.3. Needfinding](#23-needfinding)
-  - [2.3.1. User Personas](#231-user-personas)
-  - [2.3.2. User Task Matrix](#232-user-task-matrix)
-  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-- [2.4. Big Picture Event Storming.](#24-big-picture-event-storming)
-- [2.5. Ubiquitous Language](#25-ubiquitous-language)
-  
-### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
-
-- [3.1. User Stories](#31-user-stories)
-- [3.2. Impact Mapping](#32-impact-mapping)
-- [3.3. Product Backlog](#33-product-backlog)
-
-### [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
-
-- [4.1. Style Guidelines](#41-style-guidelines)
-  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-- [4.2. Information Architecture](#42-information-architecture)
-  - [4.2.1. Organization Systems](#421-organization-systems)
-  - [4.2.2. Labeling Systems](#422-labeling-systems)
-  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-  - [4.2.4. Searching Systems](#424-searching-systems)
-  - [4.2.5. Navigation Systems](#425-navigation-systems)
-- [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-  - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-  - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-- [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-- [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-  - [4.6.1. Design-Level Event Storming](#461-design-level-event-storming)
-  - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
-  - [4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
-  - [4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
-- [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-  - [4.7.1. Class Diagrams](#471-class-diagrams)
-- [4.8. Database Design](#48-database-design)
-  - [4.8.1. Database Diagram](#481-database-diagram)
 
 ### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment-1)
 
@@ -150,6 +125,29 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+    - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
+    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-The-Product](#54-video-about-the-product)
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -165,142 +163,15 @@
 
 <div align="center">
 
+*ABET – EAC - Student Outcome 3*
+
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
-|  |                     |              |
-|  |                     |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Mathias Andree Cardenas Huaman**<br>TB1:Participé en la exposición del proyecto explicando objetivos, propuesta de valor y avances técnicos de manera clara y estructurada. Adapté mi lenguaje al público: técnico para docentes y más sencillo para compañeros y posibles usuarios. Además, realicé dos entrevistas al primer segmento objetivo, lo que me permitió practicar una comunicación directa, empática y comprensible con personas externas al equipo.<br><br> TP:Durante el desarrollo de EcoSmart Waste Solutions, expuse los avances del capítulo 3 y del módulo de mensajería con los municipios ante el equipo y representantes municipales. Se adaptó el lenguaje y el nivel técnico según la audiencia, usando recursos visuales y ejemplos prácticos para explicar la arquitectura del sistema y los beneficios de la solución. <br><br>**Joaquin Enrique Carranza Tesén**<br>TB1: Durante el proyecto demostré mi capacidad de comunicarme oralmente de manera efectiva con distintos tipos de audiencia. En las entrevistas con usuarios, adapté mi lenguaje para que fuera claro y entendible, facilitando la obtención de información relevante. Al presentar el diagrama de base de datos, utilicé un lenguaje más técnico dirigido a mis compañeros y docentes, asegurándome de explicar la lógica detrás de las relaciones y estructuras planteadas. Finalmente, en la exposición de la landing page desarrollada y desplegada, empleé una comunicación enfocada en destacar las funcionalidades, el proceso de implementación y los beneficios de la solución, ajustando el nivel de detalle según el público. Esto me permitió transmitir ideas de manera clara, ordenada y efectiva en diferentes contextos.<br><br>TP1: Durante el desarrollo de la landing page, me aseguré de comunicar oralmente con efectividad a diferentes rangos de audiencia, tanto con mis compañeros del equipo técnico como con los docentes y posibles usuarios. Adapté mi lenguaje según el público: utilicé términos técnicos cuando conversaba con el equipo de desarrollo para coordinar mejoras y resolver problemas, y una explicación más clara y accesible cuando presenté los avances a los docentes o al público no especializado. Esto permitió que todos comprendieran el propósito de las mejoras y los resultados obtenidos.<br><br> **Diego Andrés Avalos Córdova**<br>TB1: Durante esta primera entrega participé activamente en la exposición del proyecto, explicando los fundamentos de la arquitectura de información, los sistemas de navegación y la propuesta de interacción de la aplicación. En cada intervención busqué transmitir los conceptos de forma ordenada y sencilla para que tanto docentes como compañeros comprendieran la lógica detrás de nuestras decisiones de diseño. Además, al presentar apartados como el Web Style Guide, Information Architecture, Navigation Systems y entrevistas, adapté mi lenguaje según la audiencia, manteniendo un balance entre lo técnico y lo práctico. Esto me permitió reforzar mi capacidad de comunicarme oralmente con distintos grupos y demostrar claridad en la exposición de ideas.<br>TP1: En Sprint 2 participé explicando la implementación y despliegue de la Landing Page y la Web Application, incluyendo funcionalidades como tendencias por distrito, mapa interactivo, mensajes directos, registro e inicio de sesión. También presenté la documentación de endpoints de la API y la integración con la Web App. Mostré capturas de pantalla y videos de navegación para evidenciar la interacción del usuario. Esto reforzó mi habilidad de comunicar de manera efectiva avances complejos y decisiones de diseño ante distintos públicos.<br><br> **Sebastian Gabriel Zuñiga Calle**<br>TB1: Durante la exposición del proyecto presenté las secciones de Software Configuration Management (entorno de desarrollo, gestión del código fuente, convenciones de estilo y despliegue) y la implementación de la Landing Page y servicios en Sprint 1. Expliqué de manera clara los apartados de Sprint Planning, Sprint Backlog, evidencias de desarrollo y despliegue, así como los resultados de la colaboración del equipo. Adapté el lenguaje técnico al nivel de los docentes para resaltar la rigurosidad del proceso seguido, mientras que con mis compañeros utilicé un enfoque más práctico para que comprendieran cómo cada fase aportaba valor al avance del proyecto. Esto me permitió comunicar ideas de forma ordenada y efectiva, tanto en el plano técnico como organizativo.<br><br> **Piero Alberto Velarde Luyo**<br>TB1: Mi responsabilidad en esta entrega fue la de crear diversos documentos visuales y representaciones de la experiencia de usuario, como User Personas, User Task Matrix, User Journey Map, Empathy Map, y los wireframes de la landing page. Comencé diseñando los User Personas, basándome en datos y entrevistas para representar a distintos segmentos de nuestra audiencia. Con esta información, elaboré una User Task Matrix que visualizaba las tareas principales de los usuarios y su relación con las funcionalidades de la plataforma. Además, desarrollé el User Journey Map, mapeando cada paso del usuario desde su primer contacto hasta la conversión, lo cual fue clave para tomar decisiones más centradas en el usuario.<br><br> TP1: Para el desarrollo de este sprint de EcoSmart Waste Solution realicé cambios necesarios con respecto al sprint anterior, todo esto para evidenciar una mejora contínua. A su vez ayudé con el despliegue de la aplicación web junto con el desarrollo y conexión con la fakeAPI| **Mathias Andree Cardenas Huaman**<br>TB1:Logré transmitir ideas con claridad y adaptarme a distintos tipos de audiencia, fortaleciendo mis habilidades de expresión oral y empatía en la comunicación.<br><br> TP: La exposición permitió comunicar ideas con claridad y adaptar el mensaje a distintos públicos. Se fortalecieron habilidades para explicar aspectos técnicos de forma comprensible, favoreciendo la colaboración y validación del proyecto entre desarrolladores y autoridades.<br><br>**Joaquin Enrique Carranza Tesén**<br>TB1: En síntesis, la elaboración de entrevistas, el diseño del diagrama de base de datos y el desarrollo de la landing page reflejaron la importancia de una comunicación oral clara y adaptada al contexto. La capacidad de ajustar el lenguaje según la audiencia permitió no solo transmitir información técnica, sino también garantizar la comprensión y la participación activa de los involucrados. De este modo, se evidencia que la comunicación efectiva constituye una competencia fundamental en el ámbito académico y profesional, al favorecer el intercambio de ideas y el cumplimiento exitoso de los objetivos del proyecto.<br><br>TP1: Mi capacidad de comunicación oral fue clave para transmitir ideas de manera clara y efectiva, facilitando el trabajo en equipo y asegurando que las decisiones sobre la landing page fueran comprendidas y validadas por todos los involucrados.<br><br> **Diego Andrés Avalos Córdova**<br>TB1: La experiencia de explicar la arquitectura de información, los sistemas de navegación y la lógica de los prototipos reforzó la importancia de expresarse con claridad frente a distintos públicos. Adaptar el lenguaje a contextos técnicos y no técnicos me permitió transmitir de forma más efectiva nuestras ideas y decisiones. Este proceso evidenció que la comunicación oral no solo es necesaria para presentar resultados, sino también para generar confianza, asegurar comprensión y fomentar la colaboración dentro y fuera del equipo.<br>TP1: La presentación de los avances del Sprint 1 y 2, incluyendo la implementación y despliegue de la Landing Page y Web App, la integración de funcionalidades como tendencias, mapas, mensajes y registro/inicio de sesión, así como la documentación de endpoints y videos de navegación, me permitió reforzar mis habilidades de comunicación oral en contextos técnicos y prácticos, demostrando que puedo explicar decisiones de diseño y funcionalidades complejas de forma clara y comprensible.<br><br> **Sebastián Gabriel Zúñiga Calle**<br>TB1: Mi participación fortaleció mis habilidades de comunicación oral, al presentar contenidos técnicos y de gestión de manera clara, estructurada y comprensible para diferentes tipos de audiencia.<br><br> **Piero Alberto Velarde Luyo**<br>TB1: Mi participación me permitió demostrar la capacidad de comunicar de manera efectiva mis ideas y hallazgos al resto de mis compañeros. Aprendí a adaptar mi estilo de comunicación y logré que cada parte del equipo comprendiera la importancia de los elementos desarrollados para la experiencia de usuario.<br><br>TP1: Mi participación durante este sprint permitió que pudiese mostrar una mejora en la capacidad de comunicar de manera efectiva mis ideas con mi equipo para las mejoras de este avance. Aprendí a hacerle entender a mi equipo la importancia de realizar las mejoras debidas a elementos desarrollados.<br><br> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Mathias Andree Cardenas Huaman**<br>TB1:Contribuí en la redacción del informe, presentando información técnica (backlog, user stories) y explicaciones accesibles para audiencias no especializadas. Usé un estilo claro y apoyado en tablas y ejemplos para facilitar la comprensión. Además, registramos versiones del informe para mantener orden y trazabilidad.<br><br> TP: Se elaboró y corrigió el capítulo 3 del documento técnico, incluyendo historias de usuario y requerimientos, además del apartado de mensajería. Se usó un lenguaje claro, estructurado y adaptable tanto para personal técnico como para gestores municipales.<br><br> **Joaquin Enrique Carranza Tesén**<br>TB1: A lo largo del proyecto demostré mi capacidad de comunicarme por escrito de manera efectiva con distintos rangos de audiencia. Durante las entrevistas elaboré cuestionarios y resúmenes claros y comprensibles para los participantes, lo que facilitó obtener información relevante. En el diagrama de base de datos, empleé una redacción técnica precisa, dirigida a mis compañeros y docentes, con el fin de sustentar la lógica de las relaciones planteadas. Finalmente, en la documentación y el despliegue de la landing page utilicé un estilo más estructurado y formal, destacando procesos, funcionalidades y beneficios, lo que permitió transmitir el trabajo realizado de forma clara y ordenada.<br><br>TP1: Durante el desarrollo de la landing page, también me comuniqué por escrito de manera efectiva con diferentes rangos de audiencia. Elaboré documentos técnicos y reportes de avances dirigidos al equipo de desarrollo, donde utilicé un lenguaje más especializado para detallar los cambios y mejoras implementadas. Además, redacté mensajes y descripciones más simples y claras al presentar los resultados a los docentes o en la documentación final del proyecto, asegurando que cualquier persona, sin importar su nivel técnico, pudiera entender el proceso y los objetivos alcanzados.<br><br> **Diego Andrés Avalos Córdova**<br>TB1: Mi aporte principal estuvo en la elaboración de gran parte del documento de entrega, donde redacté secciones como General Style Guidelines, Web Style Guide, Information Architecture, Labeling Systems, Navigation Systems y entrevistas. Procuré usar un estilo accesible y coherente, combinando explicaciones técnicas con un lenguaje sencillo para que cualquier lector, sin importar su nivel de conocimiento, pudiera comprender el contenido. También cuidé la estructura del informe para mantener un orden lógico y claro, reforzando la trazabilidad del trabajo realizado.<br>TP1: Durante Sprint 2 amplié la documentación incorporando el despliegue de la Landing Page y Web Application, la integración con API fake, funcionalidades de tendencias, mapas, mensajes directos, registro e inicio de sesión, capturas de pantalla y videos de navegación. Redacté de manera clara y comprensible para públicos técnicos y no técnicos, asegurando la trazabilidad de avances y la comprensión de los entregables. Esto fortaleció mi capacidad de comunicación escrita y garantizó que el trabajo fuera útil y entendible para todos los involucrados.<br><br> **Sebastian Gabriel Zuñiga Calle**<br>TB1: Contribuí activamente en la documentación técnica del proyecto, redactando apartados sobre los diagramas de arquitectura (contexto, contenedores, componentes y clases) y la sección de planificación ágil (Sprint Planning 1 y Sprint Backlog 1). Utilicé un estilo formal y estructurado, con explicaciones precisas para docentes y un lenguaje claro y accesible para que la documentación fuera comprensible y trazable.<br><br> **Piero Alberto Velarde Luyo**<br>TB1: Fui responsable de documentar los entregables visuales como los User Personas, User Journey Map, User Task Matrix, y Empathy Map. Me aseguré de utilizar un lenguaje accesible para todos los niveles de conocimiento. Además, me encargué de plasmar los resúmenes y conclusiones de nuestras decisiones de diseño de manera estructurada y fácil de seguir, para garantizar que los puntos clave fueran comprendidos por todas las partes involucradas.<br>TP1: Fui responsable de aplicar las mejoras necesarias de distintos puntos en nuestro informe, al igual de documentar la evidencia del despliegue de nuestra aplicación web y landing page, a su vez, aporté con respecto al despliegue de nuestra aplicación web al igual que nuestra FakeAPI, junto con la respectiva conexión de estps.<br><br> | **Mathias Andree Cardenas Huaman**<br>TB1:El documento refleja precisión técnica y claridad, logrando un material comprensible tanto para un público especializado como para uno general. Fortalecí mi capacidad de comunicar ideas de manera efectiva en formato escrito.<br><br>TP: La redacción permitió transmitir información técnica de manera precisa y accesible. Se logró coherencia entre el contenido y los objetivos del proyecto, fortaleciendo la comunicación escrita como herramienta clave para documentar y coordinar el desarrollo del sistema.<br><br>**Joaquin Enrique Carranza Tesén**<br>TB1: En conclusión, la redacción aplicada en las diferentes etapas del proyecto mostró la importancia de adaptar el lenguaje escrito al público objetivo. El uso de un estilo comprensible en las entrevistas, técnico en la documentación y formal en la exposición de resultados permitió comunicar información de manera clara y pertinente. Esto confirma que la comunicación escrita es una herramienta esencial para garantizar la coherencia del trabajo y la comprensión entre audiencias diversas en el ámbito académico y profesional.<br><br>TP1: La comunicación escrita efectiva me permitió mantener una coordinación clara dentro del equipo y presentar información comprensible para audiencias con distintos niveles de conocimiento, fortaleciendo la transparencia y la comprensión del trabajo realizado en la landing page.<br><br> **Diego Andrés Avalos Córdova**<br>TB1: Haber redactado buena parte del informe me permitió mejorar mi capacidad de comunicación escrita, no solo para explicar conceptos técnicos, sino también para transmitirlos de manera comprensible y ordenada. Adaptar el nivel de detalle según la sección y el lector demostró que la escritura es clave para estructurar ideas, documentar avances y garantizar que el trabajo sea útil tanto para audiencias técnicas como generales.<br>TP1: Incorporar en la documentación los avances del Sprint 2, incluyendo implementación, despliegue, funcionalidades de la app web, integración de API y evidencia visual, me permitió reforzar mi capacidad de comunicar de manera escrita información técnica compleja de forma clara, comprensible y organizada, asegurando que cualquier lector pueda entender los entregables y el progreso del proyecto.<br><br> **Sebastian Gabriel Zuñiga Calle**<br>TB1: La elaboración de documentación técnica y de planificación fortaleció mi capacidad de comunicarme por escrito con diferentes niveles de audiencia, combinando precisión conceptual y claridad expositiva. Esto evidenció la importancia de la redacción estructurada para garantizar la comprensión, la coordinación del equipo y la calidad del proyecto.<br><br> **Piero Alberto Velarde Luyo**<br>TB1: A través de este proceso, pude mejorar mis habilidades de comunicación escrita, adaptando el nivel de complejidad según el tipo de audiencia. Esto me permitió expresar las ideas de forma que fueran comprensibles, precisas y relevantes para todos los involucrados en el proyecto, favoreciendo la toma de decisiones informada y efectiva a lo largo del ciclo de desarrollo.<br>TP1: Este proceso me permitió perfeccionar aún más la capacidad de adecuar la comunicación escrita al momento de evidenciar el proceso de despliegue de nuestra aplicación web y landing page , a su vez aseguré que la información de la mejora contínua realizada al informe fuera siempre clara, precisa y pertinente. Al lograr que todos los involucrados entendieran el mensaje, se promovió una toma de decisiones más efectiva a lo largo de este sprint. |
 
 </div>
 <br><br>
-
-## Capítulo I: Introducción
-
-## 1.1. StartUp Profile
-
-### 1.1.1. Description de la StartUp
-
-### 1.1.2. Perfiles de integrantes del equipo
-
-## 1.2. Solution Profile
-
-### 1.2.1. Antecedentes y problemática
-
-### 1.2.2. Lean UX Process
-
-#### 1.2.2.1. Lean UX Problem Statements
-
-#### 1.2.2.2. Lean UX Assumptions
-
-#### 1.2.2.3. Lean UX Hypothesis Statements
-
-#### 1.2.2.4. Lean UX Canvas
-
-# 1.3. Segmentos Objetivo
-
-<br><br>
-
-# Capítulo II: Requirements Elicitation & Analysis
-
-## 2.1. Competidores
-
-### 2.1.1. Análisis competitivo
-
-### 2.1.2. Estrategias y tácticas frente a competidores
-
-## 2.2. Entrevistas
-
-### 2.2.1. Diseño de entrevistas
-
-### 2.2.2. Registro de entrevistas
-
-### 2.2.3. Análisis de entrevistas
-
-## 2.3. Needfinding
-
-### 2.3.1. User Personas
-
-### 2.3.2. User Task Matrix
-
-### 2.3.3. User Journey Mapping
-
-### 2.3.4. Empathy Mapping
-
-### 2.3.5. As-is Scenario Mapping
-
-## 2.4. Ubiquitous Language
-
-<br><br>
-
-# Capítulo III: Requirements Specification
-
-## 3.1. To-Be Scenario Mapping
-
-## 3.2. User Stories
-
-## 3.3. Impact Mapping
-
-## 3.4. Product Backlog
-
-<br><br>
-
-# Capítulo IV: Product Design
-
-## 4.1. Style Guidelines.
-
-### 4.1.1. General Style Guidelines
-
-### 4.1.2. Web Style Guidelines
-
-## 4.2. Information Architecture
-
-### 4.2.1. Organization Systems
-
-### 4.2.2. Labeling Systems
-
-### 4.2.3. SEO Tags and Meta Tags
-
-### 4.2.4. Searching Systems
-
-### 4.2.5. Navigation Systems
-
-## 4.3. Landing Page UI Design
-
-### 4.3.1. Landing Page Wireframe
-
-### 4.3.2. Landing Page Mock-up
-
-## 4.4. Web Applications UX/UI Design
-
-### 4.4.1. Web Applications Wireframes
-
-### 4.4.2. Web Applications Wireflow Diagrams
-
-### 4.4.3. Web Applications Mock-ups
-
-### 4.4.4. Web Applications User Flow Diagrams
-
-## 4.5. Web Applications Prototyping
-
-## 4.6. Domain-Driven Software Architecture
-
-### 4.6.1. Software Architecture Context Diagram
-
-### 4.6.2. Software Architecture Container Diagrams
-
-### 4.6.3. Software Architecture Components Diagrams
-
-## 4.7. Software Object-Oriented Design
-
-### 4.7.1. Class Diagrams
-
-### 4.7.2. Class Dictionary
-
-## 4.8. Database Design
-
-### 4.8.1. Database Diagram
-
-<br><br>
-
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
@@ -375,7 +246,6 @@ Para la gestión del código fuente, se empleó GitHub como repositorio central.
 
   - Nombrado en inglés de todas las variables y funciones para mantener consistencia.
 
-
 ### 5.1.4. Software Deployment Configuration
 
 En esta fase inicial, el despliegue se simuló de forma local, aprovechando las capacidades de los navegadores para ejecutar HTML, CSS y JavaScript sin necesidad de un servidor dedicado. La documentación de configuración y evidencias de ejecución fueron almacenadas en GitHub, lo que asegura que el proyecto pueda ser replicado por cualquier miembro del equipo.
@@ -448,7 +318,30 @@ En esta fase inicial, el despliegue se simuló de forma local, aprovechando las 
   </tr>
 </table>
 
-####5.2.1.2. Aspect Leaders and Collaborators.
+#### 5.2.1.2. Aspect Leaders and Collaborators.
+
+En este Sprint se trabajaron los principales aspectos relacionados con el desarrollo de la solución: **Landing Page**, **Web Applications** y **Web Services**. Con el fin de asegurar una comunicación clara y una adecuada distribución de responsabilidades, se elaboró la matriz de Liderazgo y Colaboración (LACX).  
+
+Este artefacto permite identificar a los miembros del equipo que lideran cada aspecto y aquellos que colaboran en su implementación, asegurando que las tareas del Sprint estén alineadas con las fortalezas y responsabilidades de cada integrante.  
+
+---
+
+## Leadership-and-Collaboration Matrix (LACX)
+
+| Team Member (Last Name, First Name) | GitHub Username      | Landing Page | Web Applications | Web Services |
+|-------------------------------------|----------------------|--------------|------------------|--------------|
+| Cardenas Huaman, Mathias Andree     | AndS56               | **L**        | C                | C            |
+| Zuniga Calle, Sebastian Gabriel     | sezunii              | C            | **L**            | C            |
+| Avalos Cordova, Diego Andres        | DiegoAndresAvalos    | C            | C                | **L**        |
+| Carranza Tesen, Joaquin Enrique     | thepima              | C            | C                | C            |
+| Velarde Luyo, Piero Alberto         | P1er0VL              | C            | C                | C            |
+
+---
+
+### Notas sobre la organización
+- Cada aspecto cuenta con **un líder principal (L)**, responsable de la planificación, coordinación y toma de decisiones.  
+- Los demás miembros se registran como **colaboradores (C)**, apoyando en tareas específicas.  
+- Esta organización guarda coherencia con la asignación de **tasks en el Sprint**, garantizando que cada aspecto del alcance esté cubierto y gestionado eficientemente.  
 
 #### 5.2.1.3. Sprint Backlog 1
 
@@ -460,10 +353,6 @@ En esta fase inicial, el despliegue se simuló de forma local, aprovechando las 
 | US17 | Descripcion de equipo de expertos | TS04 | Descripcion del equipo de expertos (HTML, CSS y JS).| Implementación de la sección de expertos, con diseño responsive en HTML, CSS y JS.| 4 | Gabriel | Done
 
 Este enfoque asegura que el equipo se concentre en las partes esenciales de la Landing Page, permitiendo que los usuarios exploren la plataforma de manera efectiva.
-
-#### 5.2.1.3. Development Evidence for Sprint Review
-
-#### 5.2.1.3. Development Evidence for Sprint Review
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -501,6 +390,25 @@ A continuación, se presentan algunas capturas de pantalla que evidencian los av
   ![Reporte](https://i.postimg.cc/bY453Jpp/Seccion-reportes-Eco-Smart.png)  
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+En este Sprint, el enfoque principal ha sido el desarrollo completo de la Landing Page para EcoSmart Waste Solutions, con especial atención en la interfaz de usuario y la experiencia visual. Dado que aún no se ha implementado un backend ni servicios web, la prioridad fue crear una presentación atractiva y funcional que comunique efectivamente los servicios de gestión inteligente de residuos mediante componentes de Angular Material y un diseño responsive. No se cuenta con endpoints documentados ni documentación OpenAPI en esta fase, ya que toda la información de equipo, servicios y testimonios está integrada directamente en el frontend.
+
+La prioridad fue lograr una experiencia de usuario cohesiva desde el cliente, con secciones bien estructuradas que incluyen: presentación de servicios, beneficios, equipo de trabajo, testimonios y formularios de contacto. En futuras iteraciones, se documentarán las rutas REST necesarias para la gestión de datos de sensores IoT y optimización de rutas de recolección, utilizando OpenAPI como herramienta de especificación para conectar la Landing Page con servicios backend y APIs de municipalidades.
+
+---
+#### GitHub - Proyecto Frontend Web (planeado para Sprint 2)
+
+> URL estimada del repositorio de backend:  
+> `[https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/FrontEnd)`
+
+---
+#### Resumen de Acciones del Equipo
+
+| Integrante    | Acciones Realizadas                                                                               |
+|---------------|---------------------------------------------------------------------------------------------------|
+| Joaquin Carranza   | Desarrollo completo de la Landing Page. |
+
+---
+> Nota: No se han generado commits relacionados a endpoints o servicios, ya que no fueron parte del alcance del Sprint 1.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -535,25 +443,269 @@ https://upc-pre-202502-1asi0729-7391-nombre.github.io/Landing-page/
 - Joaquin Carranza: configuración del repositorio, estructura del proyecto.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+Durante el Sprint 1, el landing page en su totalidad fue implementado por **Joaquin Carranza**, quien asumió todas las funciones de diseño, codificación, validación y despliegue de la solución.
 
-<br><br>
+| Integrante   | Acciones realizadas durante el Sprint 1 |
+|--------------|------------------------------------------|
+| Joaquín Carranza  | - Desarrollo de toda la interfaz HTML y maquetado CSS<br>- Implementación de validaciones en JavaScript<br>- Estructura de carpetas y componentes<br>- Subida al repositorio y despliegue |
+
+#### Evidencia de colaboración en GitHub (Sprint 1)
+
+<p align="center"><img width="auto" height="auto" src="images/commons/contributors.png">
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
+
+| Sprint # | Sprint 2 |
+|----------|----------|
+| **Date** | 08/10/2025 |
+| **Time** | 19:00 horas (GMT-5) |
+| **Location** | Virtual (Google Meet) |
+| **Prepared By** | Avalos Cordova, Diego Andres |
+| **Attendees (to planning meeting)** | Cardenas Huaman, Mathias Andree<br>Velarde Luyo, Piero Alberto<br>Carranza Tesén, Joaquin Enrique<br>Avalos Cordova, Diego Andres<br>Zuniga Calle, Sebastian Gabriel |
+| **Sprint 2 Review Summary** | Durante este sprint se logró desarrollar la aplicación web usando una API simulada, desplegar la aplicación web en un entorno de prueba, desplegar la Landing Page y conectarla correctamente con la app web, asegurando la navegación y funcionalidad básicas. |
+| **Sprint 2 Retrospective Summary** | El equipo identificó la importancia de mejorar la coordinación entre el desarrollo de la app y el despliegue de la Landing Page, así como la necesidad de documentar los endpoints de la API fake para futuros sprints. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 2 Goal** | Desarrollar, desplegar e integrar la aplicación web con una API simulada, así como desplegar la Landing Page y conectar ambas plataformas, permitiendo a los usuarios interactuar con las funcionalidades básicas de EcoSmart desde la web. |
+| **Sprint 2 Velocity** | El equipo ha establecido una capacidad de 10 Story Points para este Sprint, considerando la complejidad del despliegue y la integración de la app web y la Landing Page. |
+| **Sum of Story Points** | 10 |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+En el Sprint 2, el equipo trabajó en los principales aspectos relacionados con el desarrollo de la solución: **Landing Page**, **Web Application** y **API Integration & Deployment**. Para asegurar una coordinación eficiente y una distribución clara de responsabilidades, se elaboró la matriz de Liderazgo y Colaboración (LACX).  
+
+Esta matriz permite identificar quién lidera cada aspecto y quiénes colaboran, promoviendo una comunicación efectiva y una ejecución organizada de las tareas del sprint.
+
+---
+
+##### Leadership-and-Collaboration Matrix (LACX) – Sprint 2
+
+| Team Member (Last Name, First Name) | GitHub Username      | Landing Page | Web Application | API Integration & Deployment |
+|-------------------------------------|--------------------|--------------|----------------|-----------------------------|
+| Carranza Tesen, Joaquin Enrique     | thepima            | **L**        | C              | C                           |
+| Avalos Cordova, Diego Andres        | DiegoAndresAvalos  | C            | **L**          | C                           |
+| Velarde Luyo, Piero Alberto         | P1er0VL            | C            | C              | **L**                       |
+| Cardenas Huaman, Mathias Andree     | AndS56             | C            | C              | C                           |
+| Zuniga Calle, Sebastian Gabriel     | sezunii            | C            | C              | C                           |
+
+---
+### Notas sobre la organización
+- Cada aspecto tiene asignado un **líder (L)** responsable de la coordinación y supervisión.  
+- Los demás miembros son **colaboradores (C)**, apoyando en la implementación y pruebas según sus habilidades.  
+- La matriz asegura que cada aspecto crítico del Sprint 2 esté cubierto de manera eficiente y que la comunicación dentro del equipo sea clara.
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+En el Sprint 2, el objetivo principal fue **desarrollar, desplegar e integrar la aplicación web con una API simulada**, así como desplegar la **Landing Page** y conectar ambas plataformas, asegurando la navegación y funcionalidad básicas.  
+El Sprint incluyó tareas de desarrollo frontend, integración con la API fake, pruebas y despliegue en un entorno de prueba.  
+
+| id   | Title                                    | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To      | Status(To-do / InProcess / ToReview / Done) |
+| ---- | ---------------------------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------- | ------------------------------------------ |
+| US18 | Despliegue de la Landing Page             | TS05 | Despliegue en servidor de la Landing Page               | Subir la Landing Page al servidor de prueba y verificar que se visualice correctamente en diferentes navegadores. | 1                 | Joaquin     | Done                                       |
+| US19 | Desarrollo de formulario de contacto      | TS06 | Formulario de contacto en Landing Page (HTML, CSS, JS)  | Implementación de formulario funcional que envíe datos de prueba a la API fake.                              | 4                 | Joaquin          | Done                                       |
+| US20 | Integración de la API fake                | TS07 | Conectar la Web App con la API simulada                 | Configuración de endpoints y simulación de datos para la integración con la app web.                          | 2                 | Piero        | Done                                       |
+| US20 | Integración de la API fake                | TS08 | Pruebas de integración con la API                        | Realizar pruebas de consumo de endpoints, validando respuestas y errores.                                     | 2                 | Piero            | InProcess                                  |
+| US21 | Sección de features dinámicos             | TS09 | Mostrar datos de la API en la Web App                   | Conectar secciones de la app para mostrar información dinámica obtenida de la API simulada.                  | 3                 | Andree           | InProcess                                  |
+| US22 | Navegación entre Landing Page y Web App   | TS10 | Configuración de enlaces y rutas                         | Asegurar la correcta navegación desde la Landing Page a la Web App y viceversa.                               | 1                 | Joaquin            | ToReview                                   |
+| US23 | Deploy final de la Web Application       | TS11 | Subir la Web App al servidor de prueba                  | Desplegar la Web Application con la API integrada, probando funcionalidad completa.                           | 2                 | Piero/Diego | To-do                                     |
+| US24 | Revisión de responsive y compatibilidad  | TS12 | Optimización de UI                                      | Ajustar diseño responsive en Landing Page y Web App, verificando compatibilidad en dispositivos y navegadores. | 5                 | Piero/Gabriel    | To-do                                     |
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+En esta sección se presentan los avances en la implementación con relación a los productos de la solución según el alcance del Sprint 2: **Landing Page, Web Application y API Integration & Deployment**.  
+Se evidencia el trabajo realizado mediante los commits asociados a cada repositorio, indicando branch, commit ID, mensaje y fecha de commit.
+
+| Repository             | Branch                      | Commit Id | Commit Message                        | Commit Message Body                                                                                      | Committed on (Date) |
+|------------------------|-----------------------------|-----------|--------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------|
+| eco-smart/landing-page  | feature/landingpage-deploy  | f1a2b3c   | feat: deploy landing page             | Se desplegó la Landing Page en el servidor de prueba y se verificó visualización correcta.            | 05/10/2025         |
+| eco-smart/landing-page  | feature/contact-form        | g2b3c4d   | feat: add contact form                | Se implementó formulario de contacto funcional, integrado con la API fake.                             | 05/10/2025         |
+| eco-smart/web-app       | feature/api-integration     | h3c4d5e   | feat: integrate fake API              | Se configuraron los endpoints de la API fake y se conectaron a la Web App para mostrar datos dinámicos. | 06/10/2025         |
+| eco-smart/web-app       | feature/api-testing         | i4d5e6f   | test: API endpoints                   | Pruebas de integración de la API simulada, validando respuestas y manejo de errores.                    | 06/10/2025         |
+| eco-smart/web-app       | feature/features-section    | j5e6f7g   | feat: dynamic features section        | Se desarrolló la sección de features dinámicos que muestra datos obtenidos de la API.                   | 07/10/2025         |
+| eco-smart/web-app       | feature/navigation          | k6f7g8h   | feat: navigation landing-app          | Configuración de enlaces entre la Landing Page y la Web App, asegurando navegación fluida.             | 08/10/2025         |
+| eco-smart/web-app       | feature/deploy-final        | l7g8h9i   | chore: final deployment web app       | Despliegue final de la Web Application con API integrada, pruebas completas de funcionalidad.           | 09/10/2025         |
+| eco-smart/web-app       | feature/responsive-fixes    | m8h9i0j   | fix: responsive UI adjustments        | Ajustes de diseño responsive en la Landing Page y Web App, verificación en distintos dispositivos.      | 10/10/2025         |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+En el Sprint 2, el equipo logró avanzar significativamente en la implementación de la solución. Se desarrollaron y desplegaron las principales funcionalidades de la **Web Application** y se integraron con la **Landing Page** y la **API fake**.  
+Entre los logros destacan:
+
+#### Screenshots de la aplicación
+
+#### 1. Pantalla de Inicio de Sesión
+<img src="https://i.postimg.cc/sDG90FVy/inicio-sesion-Eco-Smart.png" alt="Login Screen" width="900"/>  
+
+#### 2. Pantalla de Registro de Usuario
+<img src="https://i.postimg.cc/pX5Y1NPq/registro-Eco-Smart.png" alt="Register Screen" width="900"/>  
+
+#### 3. Vista de Tendencias por Distrito
+<img src="https://i.postimg.cc/7Zv1FB6y/tendencia-Eco-Smart.png" alt="District Trends" width="900"/>  
+
+#### 4. Mapa 
+<img src="https://i.postimg.cc/P5Gbg6xr/mapa-Eco-Smart.png" alt="Map" width="900"/>  
+
+#### 5. Mensaje Directo entre Usuarios
+<img src="https://i.postimg.cc/QxKknLXM/mensaje-directo-Eco-Smart.png" alt="Direct Message" width="900"/>  
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Para este sprint logrado desplegar una aplicación web, la cual consume un servicio Json-Server para, de esta manera, simular un servicio de Backend. A continuación se muestra la documentación de la API.
+
+| **Endpoint Name** | **Implemented Actions** | **Call Syntax**                          | **Parameters Specification** | **Call Example**                                                   | **Response Explanation**                              |
+|-------------------|-------------------------|------------------------------------------|------------------------------|--------------------------------------------------------------------|-------------------------------------------------------|
+| /user          | GET, POST               | `return http.get(this.resourceEndpoint)` | id, firstName, lastName, email, document, phone, password               | `getAll() { return http.get('http://localhost:3000/user'); }`   | Devuelve un array con todos los usuarios.             |
+| /posts        | GET, POST, PUT, DELETE  | `return http.get(this.resourceEndpoint)` | id, author, district, message, rating, imageURL, createdAt       | `getAll() { return http.get('http://localhost:3000/posts'); }` | Devuelve un array con todos los posts. |
+| /municipalities        | GET, POST               | `return http.get(this.resourceEndpoint)` | id, name, district, representatives, avatar         | `getAll() { return http.get('http://localhost:3000/municipalities'); }` | Devuelve un array con todas las municipalidades.            |
+| /conversations        | GET, POST               | `return http.get(this.resourceEndpoint)` | id, municipalityId, citizenName, subject, lastMessagePreview, lastMessageAt         | `getAll() { return http.get('http://localhost:3000/conversations'); }` | Devuelve un array con todas las conversaciones.            |
+| /messages        | GET, POST               | `return http.get(this.resourceEndpoint)` | id, conversationId, sender, text, timestamp         | `getAll() { return http.get('http://localhost:3000/messages'); }` | Devuelve un array con todas las conversaciones.            |
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+En esta sección presentaremos la evidencia de los despliegues realizados para los distintos productos que hemos desarrollado para este sprint. En el presente sprint se incluye el despliegue de nuestra landing page al igual que la primera versión de nuestra aplicación web.
+
+**Landing Page Deployment**
+
+Para el despliegue de nuestra landing page se utilizó GitHub Pages y se logró siguiendo los siguientes pasos:
+
+Paso 1: 
+Primero creamos un nuevo repositorio en GitHub con el nombre `Landing-page` dentro del directorio de nuestro proyecto, luego agregamos todo el contenido de nuestra landing page en el repositorio.
+
+<img src="images/commons/repository-landing.png"/>
+
+Paso 2:
+Después ingresamos a la pestaña de `Settings` y posteriormente a la sección de `Pages`, procederemos a seleccionar la rama que deseamos desplegar, en este caso es la rama `main`, para el despliegue de la landing page.
+
+<img src="images/commons/settings.png"/>
+
+Paso 3:
+Luego procederemos a verificar que el despliegue realizado haya sido exitoso, esto lo visualizaremos en la sección de `Deployments` y se nos proporciona un enlace para acceder a la landing page.
+
+<img src="images/commons/deploy.png"/>
+
+Paso 4:
+Finalmente accederemos a nuestra landing page mediante el enlace proporcionado por Github Pages.
+
+<img src="images/commons/landing.png"/>
+
+**Web App Deployment**
+
+Para el despliegue de nuestra aplicación web se utilizó el servicio Vercel y se logró siguiendo los siguientes pasos:
+
+Paso 1: 
+Primero creamos un nuevo repositorio en GitHub con el nombre `EcoClean-Web-Frontend` dentro del directorio de nuestro proyecto, luego agregamos todo el contenido de nuestra aplicación web en el repositorio.
+
+<img src="images/commons/repository-web.png"/>
+
+Paso 2:
+Después ingresamos al servicio de Vercel para poder ingresar con nuestra cuenta.
+
+<img src="images/commons/vercel.jpg"/>
+
+Paso 3:
+Luego procederemos a iniciar sesión, para este caso iniciamos sesión con nuestra cuenta de GitHub.
+
+<img src="images/commons/vercel-login.jpg"/>
+
+<img src="images/commons/vercel-github.jpg"/>
+
+Paso 4:
+Una vez dentro del servicio, creamos un nuevo proyecto dentro de Vercel y lo conectamos con nuestro repositorio preveiamente mencionado.
+
+<img src="images/commons/dashboard.jpg"/>
+
+Paso 5:
+Al finalizar de configurar nuestro proyecto dentro de Vercel, el servicio nos informará cuando se hara realizado satisfactoriamente el despliegue de nuestra aplicación web, a su vez, no proporcionará los enlaces del despliegue.
+
+<img src="images/commons/vercel-deploy.jpg"/>
+
+Paso 6:
+Finalmente accederemos a nuestra aplicación web mediante el enlace proporcionado por Vercel.
+
+<img src="images/commons/deploy-web.png"/>
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+A continuación podremos visualizar la evidencia de colaboración de los integrantes mediante el insight proporcionado por GitHub.
+
+![Sprint 2 Insights](images/commons/sprint-2-insights.png)
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+
+#### 5.2.3.3. Sprint Backlog 3
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de entrevistas
+
+
+### 5.3.2. Registro de entrevistas
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+
+## 5.4. Video About-The-Product
+
+
 
 # Conclusiones
 
 ## Conclusiones y recomendaciones
 
-# 5. Conclusiones y Recomendaciones  
+Durante los primeros dos sprints del proyecto **EcoSmart**, hemos trabajado en validar y desarrollar los productos digitales contemplados en nuestro modelo de negocio: la **Landing Page**, la **Web Application** y los **Web Services** (API fake).  
 
-A lo largo del desarrollo del proyecto **EcoSmart** hemos identificado que los problemas más relevantes en la gestión de residuos son la falta de monitoreo en tiempo real, las rutas de recolección poco eficientes y la limitada participación ciudadana. Las entrevistas realizadas tanto a municipalidades como a ciudadanos confirman nuestras primeras hipótesis: existe una necesidad real de contar con herramientas digitales que optimicen la gestión de la basura y que al mismo tiempo acerquen a la comunidad a este proceso.  
+### Conclusiones
 
-El trabajo con el **Lean UX Canvas** nos permitió validar que los usuarios valoran soluciones simples, visuales y accesibles. Los municipios buscan eficiencia y reducción de costos, mientras que los ciudadanos necesitan información clara y rápida para organizarse y reportar incidencias. La arquitectura de información, los sistemas de navegación y los prototipos elaborados están alineados a estos objetivos, reforzando que nuestra propuesta tiene viabilidad práctica y social.  
+1. **Resultados frente a los Problem Statements:**
+   - La falta de monitoreo en tiempo real y rutas de recolección poco eficientes se abordó mediante la visualización de **tendencias por distrito** y el **mapa interactivo** en la Web App.  
+   - La limitada participación ciudadana se ha comenzado a atacar con funcionalidades de **mensajes directos** y un sistema de **registro/inicio de sesión**, permitiendo interacción y seguimiento de usuarios.  
 
-### Recomendaciones: 
-De cara a los siguientes pasos, recomendamos:  
-- Continuar con pruebas piloto en distritos con alta densidad poblacional para validar la usabilidad del sistema en escenarios reales.  
-- Invertir en capacitación inicial tanto para el personal municipal como para los ciudadanos, reduciendo la resistencia al cambio y promoviendo la adopción de la herramienta.  
-- Ampliar progresivamente las funcionalidades, incorporando métricas de impacto ambiental y opciones de gamificación para motivar la participación ciudadana.  
-- Mantener un roadmap claro, donde la prioridad sea la estabilidad técnica del sistema y la consolidación de la confianza con los usuarios finales.  
+2. **Validación de Assumptions:**
+   - Asumimos que los usuarios valoran interfaces simples, visuales y fáciles de usar; las pruebas de navegación en los sprints iniciales confirman que la Landing Page y la Web App cumplen con esta expectativa.  
+   - Se asumió que los municipios necesitan eficiencia y reducción de costos; la integración de la API fake y la visualización de datos permite comprobar que la información puede ser organizada y presentada de manera eficiente.  
+
+3. **Resultados frente a Hypotheses Statements:**
+   - Hipótesis: “Los ciudadanos usarán la aplicación si pueden acceder a información clara de tendencias y reportes de residuos”.  
+   - Resultado: la funcionalidad de tendencias por distrito y mensajes directos valida parcialmente esta hipótesis, y se continuará mejorando en los siguientes sprints.  
+
+4. **Criterios de éxito:**
+   - La Landing Page es **responsive y funcional**.  
+   - La Web App integra correctamente la API simulada y permite navegación básica entre secciones.  
+   - Los endpoints documentados con **OpenAPI** facilitan la integración y pruebas futuras.  
+   - Se han generado evidencias de desarrollo, ejecución y despliegue, cumpliendo con los estándares de trazabilidad del equipo.  
+
+### Recomendaciones
+
+- **Pruebas piloto con usuarios reales:** evaluar usabilidad de la Landing Page y Web App, incluyendo mapas, tendencias y mensajería.  
+- **Integración de la API real:** reemplazar la API fake, documentando todos los endpoints y probando su funcionamiento completo.  
+- **Optimización UX/UI:** mejorar flujos de registro, inicio de sesión y mensajes directos, incorporando retroalimentación de usuarios.  
+- **Capacitación y adopción:** orientar a usuarios finales y personal municipal para reducir resistencia al cambio.  
+- **Expansión de funcionalidades:** incluir métricas de impacto ambiental, gamificación y opciones de participación ciudadana.  
+- **Mantener la documentación y roadmap actualizados:** asegurar continuidad en el desarrollo y priorizar estabilidad técnica y confiabilidad.  
+
 <br><br>
 
 # Bibliografía
