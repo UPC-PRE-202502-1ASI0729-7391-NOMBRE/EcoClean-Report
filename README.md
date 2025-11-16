@@ -630,9 +630,9 @@ A continuación podremos visualizar la evidencia de colaboración de los integra
 
 ![Sprint 2 Insights](images/commons/sprint-2-insights.png)
 
-### 5.2.3. Sprint 3
+## 5.2.3. Sprint 3
 
-#### 5.2.3.1. Sprint Planning 3
+### 5.2.3.1. Sprint Planning 3
 
 | Sprint # | Sprint 3 |
 |--------- |----------|
@@ -648,7 +648,7 @@ A continuación podremos visualizar la evidencia de colaboración de los integra
 | **Sprint 3 Velocity** | El equipo ha establecido una capacidad de **16 Story Points** para este Sprint. |
 | **Sum of Story Points** | **16** |
 
-#### 5.2.3.2. Aspect Leaders and Collaborators
+### 5.2.3.2. Aspect Leaders and Collaborators
 
 Para el Sprint 3, el equipo se enfocó en dos aspectos principales: el desarrollo del panel de administrador (Web Application) y la creación del backend (API Integration & Deployment). El equipo se ha reorganizado de la siguiente manera:
 
@@ -664,7 +664,7 @@ Para el Sprint 3, el equipo se enfocó en dos aspectos principales: el desarroll
 - Los demás miembros son colaboradores (C), apoyando en la implementación y pruebas según sus habilidades.
 - La matriz asegura que cada aspecto crítico del Sprint 2 esté cubierto de manera eficiente y que la comunicación dentro del equipo sea clara.
 
-#### 5.2.3.3. Sprint Backlog 3
+### 5.2.3.3. Sprint Backlog 3
 | Sprint # | Sprint 3 | | | | | | |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **User Story** | | **Work-Item / Task** | | | | | **Status** |
@@ -677,7 +677,7 @@ Para el Sprint 3, el equipo se enfocó en dos aspectos principales: el desarroll
 | US-Admin2 | Gestión de Municipios | TS18 | Crear endpoints CRUD para `/api/municipalities` | Desarrollar los servicios para Registrar, Listar y Actualizar municipios. | 8 | Diego Avalos | Done |
 | US-Admin2 | Gestión de Municipios | TS19 | Implementar vista "Gestión de Municipios" | Desarrollar el frontend para listar y registrar nuevos municipios en la plataforma. | 6 | Piero Velarde | Done |
 
-#### 5.2.3.4. Development Evidence for Sprint Review
+### 5.2.3.4. Development Evidence for Sprint Review
 
 Durante el tercer sprint del proyecto *EcoClean*, se desarrollaron funcionalidades esenciales en los módulos de **Backend Platform**, **WebApp Frontend** y **Reportes**. 
 Entre los avances se incluyen la creación de servicios y entidades del backend, la documentación del sprint y mejoras visuales en el frontend. 
@@ -700,7 +700,7 @@ A continuación se presenta la evidencia unificada de commits realizados:
 | EcoClean-WebApp-Frontend   | main   | a5b2f47   | Thepima | authored | UI review, design validation and integration support                                       | 2024-11-10           |
 
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
+### 5.2.3.5. Execution Evidence for Sprint Review
 
 En este Sprint se avanzó en la construcción inicial del sistema EcoClean, logrando implementar las primeras vistas funcionales del frontend y los endpoints base del backend. Estos avances permiten mostrar el flujo inicial del sistema y validar la estructura técnica que se utilizará en los próximos sprints.
 
@@ -721,7 +721,7 @@ En esta vista se muestran los endpoints creados en el backend utilizando Spring 
 
 ---
 
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 3 se documentaron los endpoints iniciales del módulo **EcoSmart Backend**, utilizando OpenAPI/Swagger como herramienta principal para la especificación y visualización de los servicios. La documentación generada permite validar las acciones soportadas por cada endpoint, incluyendo métodos HTTP, sintaxis de llamada, parámetros y formato de respuesta.
 
@@ -795,7 +795,7 @@ Estos commits incluyen la creación de servicios, controladores, requests y resp
 - Se verificó la correcta respuesta de ejemplos desde Postman.  
 - Se preparó la base para la ampliación del API en próximos sprints.
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Durante el Sprint 3 se completó el despliegue funcional de los tres componentes principales del ecosistema **EcoClean**: **Web Application (Frontend)**, **Web Services (Backend)** y **Base de Datos**, asegurando un entorno completamente operativo para pruebas, validaciones y revisión del producto.
 
@@ -854,7 +854,7 @@ Los resultados confirmaron:
 - Funcionamiento estable del backend en entorno Render  
 - Frontend renderizando datos dinámicos del backend  
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint
+### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 3, el equipo de EcoClean trabajó de manera colaborativa para avanzar en el desarrollo del **Frontend**, **Backend** y **Reportes**, asegurando que cada integrante aporte a uno o más componentes del proyecto. A continuación, se presenta un resumen de las actividades realizadas por cada miembro del equipo.
 
