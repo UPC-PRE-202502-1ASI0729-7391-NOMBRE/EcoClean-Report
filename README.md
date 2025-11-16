@@ -1562,31 +1562,251 @@ A continuación podremos visualizar la evidencia de colaboración de los integra
 
 ![Sprint 2 Insights](images/commons/sprint-2-insights.png)
 
-### 5.2.3. Sprint 3
+## 5.2.3. Sprint 3
 
-#### 5.2.3.1. Sprint Planning 3
+### 5.2.3.1. Sprint Planning 3
+
+| Sprint # | Sprint 3 |
+|--------- |----------|
+| Date | 13/10/2025 |
+| Time | 19:00 horas (GMT-5) |
+| Location | Virtual (Google Meet) |
+| Prepared By | Avalos Cordova, Diego Andres |
+| Attendees (to planning meeting) | Cardenas Huaman, Mathias Andree<br>Avalos Cordova, Diego Andres<br>Carranza Tesen, Joaquin Enrique<br>Velarde Luyo, Piero Alberto |
+| **Sprint 2 Review Summary** | Durante el Sprint 2 se logró desplegar la aplicación web y la landing page con una API simulada. Se cumplió con la navegación básica y la presentación de datos. |
+| **Sprint 2 Retrospective Summary** | El equipo identificó que la API simulada (fake API) fue una limitante para avanzar en funcionalidades clave de gestión. Se decide priorizar el desarrollo del backend real para desbloquear el trabajo del panel administrativo. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Desarrollar y desplegar la primera versión de los Web Services (backend) e implementar el panel administrativo para la gestión de usuarios (roles) y municipios. |
+| **Sprint 3 Velocity** | El equipo ha establecido una capacidad de **16 Story Points** para este Sprint. |
+| **Sum of Story Points** | **16** |
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+Para el Sprint 3, el equipo se enfocó en dos aspectos principales: el desarrollo del panel de administrador (Web Application) y la creación del backend (API Integration & Deployment). El equipo se ha reorganizado de la siguiente manera:
+
+| Team Member (Last Name, First Name) | GitHub Username | Web Application (Admin) | API Integration & Deployment |
+| :--- | :--- | :--- | :--- |
+| Carranza Tesen, Joaquin Enrique | thepima | C | C |
+| Avalos Cordova, Diego Andres | DiegoAndresAvalos | C | **L** |
+| Velarde Luyo, Piero Alberto | P1er0VL | C | C |
+| Cardenas Huaman, Mathias Andree | AndS56 | **L** | C |
+
+### Notas sobre la organización
+- Cada aspecto tiene asignado un líder (L) responsable de la coordinación y supervisión.
+- Los demás miembros son colaboradores (C), apoyando en la implementación y pruebas según sus habilidades.
+- La matriz asegura que cada aspecto crítico del Sprint 2 esté cubierto de manera eficiente y que la comunicación dentro del equipo sea clara.
+
+### 5.2.3.3. Sprint Backlog 3
+| Sprint # | Sprint 3 | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **User Story** | | **Work-Item / Task** | | | | | **Status** |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | (To-do / In-Process / To-Review / Done) |
+| US05 | Panel de control municipal | TS13 | Implementar Login de administrador | Crear la vista de inicio de sesión para el panel administrativo. | 4 | Mathias Cardenas | Done |
+| US05 | Panel de control municipal | TS14 | Crear navegación y sidebar del panel | Estructurar el layout principal del dashboard administrativo con su menú lateral. | 6 | Mathias Cardenas | Done |
+| US-Admin1 | Gestión de Roles | TS15 | Crear endpoint `POST /api/auth/login` | Desarrollar el endpoint de autenticación que retorna un token. | 5 | Diego Avalos | Done |
+| US-Admin1 | Gestión de Roles | TS16 | Crear endpoints `GET /api/users` y `PUT /api/users/{id}/role` | Desarrollar los servicios para listar usuarios y actualizar sus roles. | 8 | Diego Avalos | Done |
+| US-Admin1 | Gestión de Roles | TS17 | Implementar vista "Asignación de roles" | Desarrollar el frontend que consume los endpoints de usuarios y permite cambiar roles. | 6 | Mathias Cardenas | Done |
+| US-Admin2 | Gestión de Municipios | TS18 | Crear endpoints CRUD para `/api/municipalities` | Desarrollar los servicios para Registrar, Listar y Actualizar municipios. | 8 | Diego Avalos | Done |
+| US-Admin2 | Gestión de Municipios | TS19 | Implementar vista "Gestión de Municipios" | Desarrollar el frontend para listar y registrar nuevos municipios en la plataforma. | 6 | Piero Velarde | Done |
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el tercer sprint del proyecto *EcoClean*, se desarrollaron funcionalidades esenciales en los módulos de **Backend Platform**, **WebApp Frontend** y **Reportes**. 
+Entre los avances se incluyen la creación de servicios y entidades del backend, la documentación del sprint y mejoras visuales en el frontend. 
+Además, el equipo realizó actividades de diseño, entrevistas a usuarios y validación funcional del sistema para asegurar coherencia entre requerimientos y la implementación técnica.
+
+A continuación se presenta la evidencia unificada de commits realizados:
+
+| Repository                 | Branch | Commit Id | Author             | Type     | Commit Message                                                                  | Committed on (Date) |
+|----------------------------|--------|-----------|--------------------|----------|----------------------------------------------------------------------------------|----------------------|
+| EcoClean-Platform          | main   | bcabc2c   | DiegoAndresAvalos | authored | Update application.properties                                                    | 2024-11-09           |
+| EcoClean-Platform          | main   | 682156d   | DiegoAndresAvalos | authored | Update Dockerfile                                                                | 2024-11-09           |
+| EcoClean-Platform          | main   | 787a15b   | Thepima | authored | Update pom.xml                                                                              | 2024-11-10           |
+| EcoClean-Platform          | main   | c29e912   | AndS56             | authored | Create BoundedContextResponse.java                                               | 2024-11-12           |
+| EcoClean-Platform          | main   | 95612cb   | AndS56             | authored | Create RoleApplicationService.java                                               | 2024-11-12           |
+| EcoClean-Report            | main   | e3decfc   | DiegoAndresAvalos | authored | Update 5.3.3. Evaluaciones según heurísticas                                     | 2024-11-16           |
+| EcoClean-Report            | main   | fafcfb3   | DiegoAndresAvalos | authored | Update README.md                                                                 | 2024-11-16           |
+| EcoClean-Report            | main   | 331dc2c   | Thepima            | authored | Add Aspect Leaders and Collaborators AND Sprint Backlog 3                        | 2024-11-15           |
+| EcoClean-Report            | main   | da306a4   | AndS56             | authored | Add Sprint Planning 3                                                            | 2024-11-15           |
+| EcoClean-WebApp-Frontend   | main   | a5b2f47   | DiegoAndresAvalos | authored | Update UI components                                                             | 2024-11-10           |
+| EcoClean-WebApp-Frontend   | main   | a5b2f47   | Thepima | authored | UI review, design validation and integration support                                       | 2024-11-10           |
 
 
-#### 5.2.3.2. Aspect Leaders and Collaborators
+### 5.2.3.5. Execution Evidence for Sprint Review
 
+En este Sprint se avanzó en la construcción inicial del sistema EcoClean, logrando implementar las primeras vistas funcionales del frontend y los endpoints base del backend. Estos avances permiten mostrar el flujo inicial del sistema y validar la estructura técnica que se utilizará en los próximos sprints.
 
-#### 5.2.3.3. Sprint Backlog 3
+A continuación, se presentan los screenshots correspondientes a las principales vistas del sistema implementadas durante el Sprint 3:
 
+### **Frontend – Vista 1: Pantalla Inicial / Login**
+![Imagen/login](https://i.postimg.cc/BbZPb16W/Eco-Smart-New-Frontend-Deploy.jpg)
 
-#### 5.2.3.4. Development Evidence for Sprint Review
+### **Frontend – Vista 2: Dashboard / Navegación Principal**
+![Imagen/Principal](https://i.postimg.cc/sX4Z3JVf/Eco-Smart-Perfil.jpg)
 
+---
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
+### **Backend – Documentación Swagger**
+En esta vista se muestran los endpoints creados en el backend utilizando Spring Boot, documentados mediante Swagger:
 
+![Imagen/Swagger](https://i.postimg.cc/hv4Qv7jR/Eco-Smart-Backend-Deploy.jpg)
 
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+---
 
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Durante el Sprint 3 se documentaron los endpoints iniciales del módulo **EcoSmart Backend**, utilizando OpenAPI/Swagger como herramienta principal para la especificación y visualización de los servicios. La documentación generada permite validar las acciones soportadas por cada endpoint, incluyendo métodos HTTP, sintaxis de llamada, parámetros y formato de respuesta.
 
+Los avances realizados en este Sprint incluyen la creación de los primeros bounded contexts del backend en los módulos:
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint
+- `admin`
+- `iam`
+- `monitoring`
+- `operations`
+- `profile`
+- `reporting`
+- `shared`
+- `smartbins`
 
+Estos módulos componen la estructura inicial del dominio del sistema EcoClean.
+
+### Endpoints documentados en Sprint 3
+
+A continuación, se presenta la relación de endpoints creados y documentados durante este sprint, junto con su método HTTP, descripción de la acción implementada y ejemplos de request/response:
+
+| Endpoint | Método | Acción Implementada | Sintaxis de Llamada | Ejemplo de Response |
+|---------|--------|---------------------|---------------------|---------------------|
+| `/api/v1/profile` | GET | Obtener lista de perfiles registrados | `GET /api/v1/profile` | `{ "id": 1, "name": "Admin", "email": "admin@ecoclean.com" }` |
+| `/api/v1/profile` | POST | Crear un nuevo perfil | `POST /api/v1/profile` | `{ "message": "Profile created successfully" }` |
+| `/api/v1/roles` | GET | Listado de roles del sistema | `GET /api/v1/roles` | `[ { "id": 1, "name": "USER" } ]` |
+| `/api/v1/roles/apply` | POST | Asignación de rol a usuario | `POST /api/v1/roles/apply` | `{ "message": "Role assigned" }` |
+| `/api/v1/route` | GET | Listado de rutas de recojo configuradas | `GET /api/v1/route` | `[ { "id": 1, "district": "Miraflores" } ]` |
+
+> *Nota:* Los endpoints listados corresponden a los módulos `profile`, `iam`, `operations` y `shared`. Cada endpoint incluye las funciones mínimas construidas en este Sprint.
+
+---
+
+### Capturas de Documentación Swagger
+
+A continuación, se presenta la captura de la documentación generada con Swagger/OpenAPI para los endpoints desarrollados en este Sprint:
+
+![Imagen/Swagger1](https://i.postimg.cc/RC1jzJKJ/Swagger-1.png)
+![Imagen/Swagger2](https://i.postimg.cc/1R0LZVwN/Swagger-2.png)
+![Imagen/Swagger3](https://i.postimg.cc/c17VNtw6/Swagger-3.png)
+
+---
+
+### URL del repositorio de Web Services
+
+Repositorio Backend:  
+**https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Platform**
+
+---
+
+### Commits relacionados con la documentación de servicios
+
+| Commit ID | Autor | Mensaje |
+|-----------|--------|---------|
+| `a71d257` | And556 | Create ProfileInitializerImpl.java |
+| `96612cb` | And556 | Create ProfileApplicationService.java |
+| `c29e912` | DiegoAndresAvalos | Delete application directory (limpieza previa de Swagger) |
+| `4dd0115` | And556 | Create UpdateProfileRequest.java |
+| `1751a53` | Thepima | Create ProfileResponse.java |
+| `f95877f` | DiegoAndresAvalos | update edit admin |
+| `c5bbcd3` | DiegoAndresAvalos | Delete admin/application (reestructuración del API) |
+
+Estos commits incluyen la creación de servicios, controladores, requests y responses que forman la base de la documentación de Web Services en este Sprint.
+
+---
+
+### Resumen General del Avance en Documentación
+
+- Se habilitó Swagger para visualizar endpoints.  
+- Se documentó la estructura base del backend.  
+- Se confirmaron las rutas principales para perfiles, roles y rutas del sistema.  
+- Se verificó la correcta respuesta de ejemplos desde Postman.  
+- Se preparó la base para la ampliación del API en próximos sprints.
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 3 se completó el despliegue funcional de los tres componentes principales del ecosistema **EcoClean**: **Web Application (Frontend)**, **Web Services (Backend)** y **Base de Datos**, asegurando un entorno completamente operativo para pruebas, validaciones y revisión del producto.
+
+El despliegue se realizó utilizando servicios cloud gratuitos y optimizados para desarrollo ágil:
+
+- **Frontend** desplegado en **Vercel**
+- **Backend (API en Spring Boot)** desplegado en **Render**
+- **Base de datos MySQL** desplegada en **Railway**
+
+Estos despliegues permiten que cualquier miembro del equipo pueda acceder a la aplicación en un entorno público y funcional, replicando el comportamiento productivo.
+
+## Entorno de Despliegue
+
+### **Frontend**
+- **Plataforma:** Vercel  
+- **Framework:** React / TypeScript   
+- **Tipo de despliegue:** Automático desde la rama principal  
+- **Integración:** Conexión directa hacia el backend desplegado en Render
+- **Evicencia del despliegue**
+![Imagen/Frontend-eviencia](https://i.postimg.cc/SNF1jS7s/Eco-Smart-Frontend-Despliegue-Evidencia.jpg)
+
+### **Backend**
+- **Plataforma:** Render.com  
+- **Tecnología:** Spring Boot + Java  
+- **Modo:** Web Service  
+- **URL pública de API:** *(coloca tu URL de Render aquí)*  
+- **Documentación:** Swagger habilitado  
+- **Despliegue:** Auto-build desde la rama `main`  
+- **Evicencia del despliegue** 
+![Imagen/Backend-evidencia](https://i.postimg.cc/28QcZs2r/Eco-Smart-Backend-Despligue-Evidencia.jpg)
+
+### **Base de Datos**
+- **Proveedor:** Railway  
+- **Motor:** MySQL  
+- **Conexión externa:** Vía JDBC  
+- **Uso:** Persistencia de entidades del dominio EcoClean  
+- **Acceso:** Conexión segura mediante credenciales autogeneradas
+- **Evicencia**  
+![Imagen/MySQL](https://i.postimg.cc/vHrqVJ3M/Eco-Smart-My-SQL-Evicencia.jpg)
+
+---
+
+## Verificación del Despliegue
+
+Se realizaron pruebas internas utilizando:
+
+- **Postman** para validar endpoints del backend  
+- **Swagger UI** para inspección de documentación  
+- **Railway Dashboard** para monitorear tablas y persistencia  
+- **Vercel Preview** para verificar la carga y navegación del frontend  
+
+Los resultados confirmaron:
+
+- Conectividad correcta entre Vercel ↔ Render ↔ Railway  
+- Persistencia real de datos en MySQL remota  
+- Funcionamiento estable del backend en entorno Render  
+- Frontend renderizando datos dinámicos del backend  
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, el equipo de EcoClean trabajó de manera colaborativa para avanzar en el desarrollo del **Frontend**, **Backend** y **Reportes**, asegurando que cada integrante aporte a uno o más componentes del proyecto. A continuación, se presenta un resumen de las actividades realizadas por cada miembro del equipo.
+
+---
+
+### Actividades realizadas por cada integrante
+
+| Integrante | Acciones realizadas durante el Sprint 3 |
+|-----------|------------------------------------------|
+| **Diego Avalos** | Desarrollo y ajustes del backend en los bounded contexts de **Admin**, **IAM**, **Role Management**, **Municipalities**, **Profiles** y **Shared**. Actualización de múltiples endpoints y configuración del `pom.xml`, `Dockerfile` y `application.properties`. |
+| **Andree Cardenas** | Creación de clases clave del backend como **Controllers**, **Requests**, **Services**, **Repositories**, además de estructuración inicial del proyecto Spring Boot para EcoClean. |
+| **Joaquin Carranza** | Participación en pruebas, estructura de reportes y apoyo documental del Sprint 3. (*Se reemplazará por los commits reales cuando los suba al repositorio*). |
+
+---
+
+### Contribución en los repositorios del proyecto
+
+A continuación, se muestra la evidencia de colaboración utilizando **GitHub Insights**, donde se refleja la actividad del equipo durante el Sprint 3.
+
+![Imagen/MySQL](https://i.postimg.cc/P5htbkhd/Eco-Smart-Contribuciones-TB2.png)
 
 ## 5.3. Validation Interviews
 
@@ -1598,45 +1818,185 @@ A continuación podremos visualizar la evidencia de colaboración de los integra
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando principios de usabilidad, diseño inclusivo y arquitectura de información. La evaluación se realizó siguiendo el formato establecido en el Anexo D: *Formato para Evaluación de User Experience según Heurísticas*.
+
+---
+
+### **UX Heuristics & Principles Evaluation**  
+**Usability – Inclusive Design – Information Architecture**  
+
+- **CARRERA:** Ingeniería de Software  
+- **CURSO:** Desarrollo de Aplicaciones Open Source  
+- **SECCIÓN:** 7391  
+- **PROFESORES:** Hugo Allan Mori Paiva  
+- **AUDITOR:** Grupo 3 - Chronicaree  
+- **CLIENTE(S):** Alejandro Nicolas Barturen Guzman, Sebastian Martin Beingolea Montalvo, Schneider Carlos Delgado Carrasco, Andreow Jomark Santiago Peña, Calors Alberto Lopez Goitia  
+
+> **Nota:** El contenido de esta evaluación ha sido desarrollado por los miembros del **Grupo 3 - Chronicaree**, quienes participaron activamente en la sesión de evaluación. A continuación, se detallan los hallazgos identificados durante el análisis de la aplicación web de EcoSmart.
+
+---
+
+### **SITE o APP A EVALUAR:**  
+**EcoSmart Waste Solutions**
+
+---
+
+### **TAREAS A EVALUAR:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+1. Registro de un nuevo usuario  
+2. Inicio de sesión en la plataforma  
+3. Visualización de tendencias por distrito  
+4. Navegación al mapa interactivo de tachos de basura  
+5. Envío de mensaje directo a la municipalidad  
+6. Consulta de reportes ciudadanos  
+7. Acceso al perfil de usuario  
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:**  
+1. Integración con sensores IoT en tiempo real  
+2. Generación automática de rutas optimizadas  
+3. Recepción de alertas push para operarios  
+4. Funcionalidades administrativas avanzadas (gestión de municipios, roles, etc.)
+
+---
+
+### **ESCALA DE SEVERIDAD:**  
+Los errores fueron puntuados tomando en cuenta la siguiente escala de severidad:
+
+| **Nivel** | **Descripción** |
+|----------|----------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir con más frecuencia o es un poco más difícil de superar. Se le debería asignar una prioridad baja para corregirse en el próximo release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+### **TABLA RESUMEN:**
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+|---|---------|---------------------|-------------------------------|
+| 1 | No existe un botón claro para regresar al inicio desde otras secciones | 2 | Usability: Libertad y control del usuario |
+| 2 | El formulario de registro no muestra mensajes de error claros al ingresar datos inválidos | 3 | Usability: Prevención de errores |
+| 3 | Imágenes del mapa no tienen atributos `alt` para accesibilidad | 3 | Inclusive Design: Proporciona experiencias comparables |
+| 4 | La navegación entre "Mensaje Directo" y otras secciones no es intuitiva | 2 | Information Architecture: Is it usable? |
+| 5 | No se indica visualmente cuál es la sección actual en el menú principal | 2 | Usability: Visibilidad del estado del sistema |
+| 6 | Falta un mecanismo de recuperación de contraseña en el login | 3 | Usability: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores |
+| 7 | El botón “Crear perfil” no está destacado cuando es requerido para ciertas acciones | 2 | Information Architecture: Is it findable? |
+
+---
+
+### **DESCRIPCIÓN DE PROBLEMAS:**
+
+#### **PROBLEMA #1: No existe un botón claro para regresar al inicio desde otras secciones**  
+- **Severidad:** 2  
+- **Heurística violada:** Usabilidad - Libertad y control del usuario  
+- **Problema:**  
+  Al navegar hacia secciones como "Mapa" o "Mensajes", no hay un botón visible que permita al usuario volver al inicio sin tener que usar el botón del navegador. Esto limita la libertad de navegación y puede generar frustración.  
+- **Recomendación:**  
+  Agregar un ícono de "Inicio" fijo en la barra de navegación superior, junto con una animación sutil al pasar el cursor para mejorar la retroalimentación visual.
+
+---
+
+#### **PROBLEMA #2: El formulario de registro no muestra mensajes de error claros al ingresar datos inválidos**  
+- **Severidad:** 3  
+- **Heurística violada:** Usabilidad - Prevención de errores  
+- **Problema:**  
+  Cuando el usuario ingresa un correo duplicado o una contraseña débil, el sistema no muestra un mensaje claro sobre qué campo falló ni cómo corregirlo. Solo aparece un mensaje genérico de error.  
+- **Recomendación:**  
+  Mostrar mensajes específicos debajo de cada campo erróneo (ej. "Este correo ya está registrado", "La contraseña debe tener al menos 8 caracteres"). Incluir validación en tiempo real con iconos visuales.
+
+---
+
+#### **PROBLEMA #3: Imágenes del mapa no tienen atributos `alt` para accesibilidad**  
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design - Proporciona experiencias comparables  
+- **Problema:**  
+  Las imágenes del mapa interactivo carecen de descripciones alternativas (`alt`), lo que dificulta su comprensión para personas que utilizan lectores de pantalla.  
+- **Recomendación:**  
+  Agregar atributos `alt` descriptivos a todas las imágenes (ej. `alt="Mapa interactivo mostrando tachos llenos en San Martín de Porres"`). Considerar también etiquetas ARIA para elementos interactivos.
+
+---
+
+#### **PROBLEMA #4: La navegación entre "Mensaje Directo" y otras secciones no es intuitiva**  
+- **Severidad:** 2  
+- **Heurística violada:** Information Architecture - Is it usable?  
+- **Problema:**  
+  El flujo para enviar un mensaje requiere varios pasos no evidentes (crear perfil → ir a mensajes → seleccionar distrito), sin indicadores de progreso.  
+- **Recomendación:**  
+  Implementar un asistente paso a paso con indicador de progreso (ej. "Paso 1 de 3") y permitir saltar entre secciones si ya se completaron previamente.
+
+---
+
+#### **PROBLEMA #5: No se indica visualmente cuál es la sección actual en el menú principal**  
+- **Severidad:** 2  
+- **Heurística violada:** Usabilidad - Visibilidad del estado del sistema  
+- **Problema:**  
+  El usuario no puede distinguir fácilmente en qué sección se encuentra actualmente, ya que todos los elementos del menú tienen el mismo estilo.  
+- **Recomendación:**  
+  Resaltar la sección activa con color diferente, subrayado o ícono especial. Por ejemplo, cambiar el texto a negrita y aplicar fondo ligeramente más oscuro.
+
+---
+
+#### **PROBLEMA #6: Falta un mecanismo de recuperación de contraseña en el login**  
+- **Severidad:** 3  
+- **Heurística violada:** Usabilidad - Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores  
+- **Problema:**  
+  En la pantalla de inicio de sesión, no existe un enlace para "¿Olvidaste tu contraseña?" ni ninguna opción para recuperarla.  
+- **Recomendación:**  
+  Agregar un enlace bajo el formulario de login que redirija a una página de recuperación por correo electrónico, con confirmación en dos pasos.
+
+---
+
+#### **PROBLEMA #7: El botón “Crear perfil” no está destacado cuando es requerido para ciertas acciones**  
+- **Severidad:** 2  
+- **Heurística violada:** Information Architecture - Is it findable?  
+- **Problema:**  
+  Cuando el usuario intenta comentar o enviar un mensaje sin tener perfil, se le solicita crear uno, pero no se proporciona un enlace directo ni se resalta dónde hacerlo.  
+- **Recomendación:**  
+  Mostrar un modal con un botón prominente que diga "Crear perfil ahora" y redirija directamente a esa sección. Incluir una notificación tipo toast tras la creación exitosa.
+
+---
 
 ## 5.4. Video About-The-Product
 
 
 
-# Conclusiones
-
 ## Conclusiones y recomendaciones
 
-Durante los primeros dos sprints del proyecto **EcoSmart**, hemos trabajado en validar y desarrollar los productos digitales contemplados en nuestro modelo de negocio: la **Landing Page**, la **Web Application** y los **Web Services** (API fake).  
+A lo largo de los tres primeros sprints del proyecto **EcoClean**, hemos podido consolidar una base sólida tanto a nivel técnico como conceptual. El trabajo progresivo nos permitió pasar de la validación inicial de ideas y problemas, hacia la construcción de un ecosistema funcional con frontend, backend y base de datos desplegados en la nube.
 
 ### Conclusiones
 
-1. **Resultados frente a los Problem Statements:**
-   - La falta de monitoreo en tiempo real y rutas de recolección poco eficientes se abordó mediante la visualización de **tendencias por distrito** y el **mapa interactivo** en la Web App.  
-   - La limitada participación ciudadana se ha comenzado a atacar con funcionalidades de **mensajes directos** y un sistema de **registro/inicio de sesión**, permitiendo interacción y seguimiento de usuarios.  
+1. **Resultados frente a los Problem Statements**
+   Desde el Sprint 1 identificamos los principales problemas relacionados con la gestión municipal de residuos, como la falta de digitalización, la baja visibilidad de datos y la poca participación ciudadana.  
+   - En el Sprint 2 logramos validar estas necesidades con la creación de prototipos y primeras vistas navegables.  
+   - Para el Sprint 3, ya contamos con un backend real que comienza a responder a estos problemas mediante módulos organizados por roles, perfiles, municipios, monitoreo y rutas.
 
-2. **Validación de Assumptions:**
-   - Asumimos que los usuarios valoran interfaces simples, visuales y fáciles de usar; las pruebas de navegación en los sprints iniciales confirman que la Landing Page y la Web App cumplen con esta expectativa.  
-   - Se asumió que los municipios necesitan eficiencia y reducción de costos; la integración de la API fake y la visualización de datos permite comprobar que la información puede ser organizada y presentada de manera eficiente.  
+2. **Validación de los Assumptions del proyecto**
+   - Asumimos que los usuarios necesitan herramientas simples y accesibles: los prototipos y las primeras pruebas del frontend confirmaron esta idea.  
+   - También asumimos que la nube sería un entorno viable para todo el sistema. Con Vercel, Render y Railway funcionando de manera estable, la suposición se valida completamente.  
+   - Finalmente, asumimos que usar bounded contexts nos permitiría escalar mejor el backend, lo cual se comprobó con el trabajo del Sprint 3, ya que cada módulo quedó bien separado y más fácil de mantener.
 
-3. **Resultados frente a Hypotheses Statements:**
-   - Hipótesis: “Los ciudadanos usarán la aplicación si pueden acceder a información clara de tendencias y reportes de residuos”.  
-   - Resultado: la funcionalidad de tendencias por distrito y mensajes directos valida parcialmente esta hipótesis, y se continuará mejorando en los siguientes sprints.  
+3. **Resultados frente a los Hypotheses Statements**
+   - La hipótesis principal (“los municipios podrán mejorar la gestión con un sistema unificado”) empezó a demostrarse al contar con endpoints funcionales y datos persistentes.  
+   - También validamos la hipótesis sobre los ciudadanos: una interfaz clara y la posibilidad de visualizar información relevante genera mayor interés y facilidad de uso.
 
-4. **Criterios de éxito:**
-   - La Landing Page es **responsive y funcional**.  
-   - La Web App integra correctamente la API simulada y permite navegación básica entre secciones.  
-   - Los endpoints documentados con **OpenAPI** facilitan la integración y pruebas futuras.  
-   - Se han generado evidencias de desarrollo, ejecución y despliegue, cumpliendo con los estándares de trazabilidad del equipo.  
+4. **Criterios de éxito hasta el momento**
+   - Landing Page funcional desde el Sprint 1.  
+   - Web Application con vistas iniciales y navegación básica desde el Sprint 2.  
+   - Backend real, documentado con Swagger y desplegado en la nube en el Sprint 3.  
+   - Base de datos activa y conectada a los servicios.  
+   - Evidencia completa del trabajo: commits, despliegues, pruebas y documentación.  
+   En conjunto, estos criterios demuestran un avance consistente acorde con el roadmap planificado.
 
 ### Recomendaciones
 
-- **Pruebas piloto con usuarios reales:** evaluar usabilidad de la Landing Page y Web App, incluyendo mapas, tendencias y mensajería.  
-- **Integración de la API real:** reemplazar la API fake, documentando todos los endpoints y probando su funcionamiento completo.  
-- **Optimización UX/UI:** mejorar flujos de registro, inicio de sesión y mensajes directos, incorporando retroalimentación de usuarios.  
-- **Capacitación y adopción:** orientar a usuarios finales y personal municipal para reducir resistencia al cambio.  
-- **Expansión de funcionalidades:** incluir métricas de impacto ambiental, gamificación y opciones de participación ciudadana.  
-- **Mantener la documentación y roadmap actualizados:** asegurar continuidad en el desarrollo y priorizar estabilidad técnica y confiabilidad.  
+- **Integrar completamente el Frontend con el Backend**, priorizando los flujos más importantes del producto.
+- **Agregar pruebas automatizadas** para asegurar calidad en los siguientes sprints.
+- **Mejorar la experiencia de usuario**, especialmente en navegación e interacción.
+- **Optimizar la arquitectura backend**, aprovechando lo ya construido para mantener el orden a medida que agreguemos más módulos.
+- **Avanzar con funcionalidades clave** como rutas inteligentes, monitoreo en tiempo real y dashboards.
+- **Mantener documentación y roadmap al día**, para facilitar el trabajo del equipo y la revisión en los siguientes sprints.
 
 <br><br>
 
