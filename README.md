@@ -1029,40 +1029,44 @@ Los errores fueron puntuados tomando en cuenta la siguiente escala de severidad:
 
 
 
-# Conclusiones
-
 ## Conclusiones y recomendaciones
 
-Durante los primeros dos sprints del proyecto **EcoSmart**, hemos trabajado en validar y desarrollar los productos digitales contemplados en nuestro modelo de negocio: la **Landing Page**, la **Web Application** y los **Web Services** (API fake).  
+A lo largo de los tres primeros sprints del proyecto **EcoClean**, hemos podido consolidar una base sólida tanto a nivel técnico como conceptual. El trabajo progresivo nos permitió pasar de la validación inicial de ideas y problemas, hacia la construcción de un ecosistema funcional con frontend, backend y base de datos desplegados en la nube.
 
 ### Conclusiones
 
-1. **Resultados frente a los Problem Statements:**
-   - La falta de monitoreo en tiempo real y rutas de recolección poco eficientes se abordó mediante la visualización de **tendencias por distrito** y el **mapa interactivo** en la Web App.  
-   - La limitada participación ciudadana se ha comenzado a atacar con funcionalidades de **mensajes directos** y un sistema de **registro/inicio de sesión**, permitiendo interacción y seguimiento de usuarios.  
+1. **Resultados frente a los Problem Statements**
+   Desde el Sprint 1 identificamos los principales problemas relacionados con la gestión municipal de residuos, como la falta de digitalización, la baja visibilidad de datos y la poca participación ciudadana.  
+   - En el Sprint 2 logramos validar estas necesidades con la creación de prototipos y primeras vistas navegables.  
+   - Para el Sprint 3, ya contamos con un backend real que comienza a responder a estos problemas mediante módulos organizados por roles, perfiles, municipios, monitoreo y rutas.
 
-2. **Validación de Assumptions:**
-   - Asumimos que los usuarios valoran interfaces simples, visuales y fáciles de usar; las pruebas de navegación en los sprints iniciales confirman que la Landing Page y la Web App cumplen con esta expectativa.  
-   - Se asumió que los municipios necesitan eficiencia y reducción de costos; la integración de la API fake y la visualización de datos permite comprobar que la información puede ser organizada y presentada de manera eficiente.  
+2. **Validación de los Assumptions del proyecto**
+   - Asumimos que los usuarios necesitan herramientas simples y accesibles: los prototipos y las primeras pruebas del frontend confirmaron esta idea.  
+   - También asumimos que la nube sería un entorno viable para todo el sistema. Con Vercel, Render y Railway funcionando de manera estable, la suposición se valida completamente.  
+   - Finalmente, asumimos que usar bounded contexts nos permitiría escalar mejor el backend, lo cual se comprobó con el trabajo del Sprint 3, ya que cada módulo quedó bien separado y más fácil de mantener.
 
-3. **Resultados frente a Hypotheses Statements:**
-   - Hipótesis: “Los ciudadanos usarán la aplicación si pueden acceder a información clara de tendencias y reportes de residuos”.  
-   - Resultado: la funcionalidad de tendencias por distrito y mensajes directos valida parcialmente esta hipótesis, y se continuará mejorando en los siguientes sprints.  
+3. **Resultados frente a los Hypotheses Statements**
+   - La hipótesis principal (“los municipios podrán mejorar la gestión con un sistema unificado”) empezó a demostrarse al contar con endpoints funcionales y datos persistentes.  
+   - También validamos la hipótesis sobre los ciudadanos: una interfaz clara y la posibilidad de visualizar información relevante genera mayor interés y facilidad de uso.
 
-4. **Criterios de éxito:**
-   - La Landing Page es **responsive y funcional**.  
-   - La Web App integra correctamente la API simulada y permite navegación básica entre secciones.  
-   - Los endpoints documentados con **OpenAPI** facilitan la integración y pruebas futuras.  
-   - Se han generado evidencias de desarrollo, ejecución y despliegue, cumpliendo con los estándares de trazabilidad del equipo.  
+4. **Criterios de éxito hasta el momento**
+   - Landing Page funcional desde el Sprint 1.  
+   - Web Application con vistas iniciales y navegación básica desde el Sprint 2.  
+   - Backend real, documentado con Swagger y desplegado en la nube en el Sprint 3.  
+   - Base de datos activa y conectada a los servicios.  
+   - Evidencia completa del trabajo: commits, despliegues, pruebas y documentación.  
+   En conjunto, estos criterios demuestran un avance consistente acorde con el roadmap planificado.
 
 ### Recomendaciones
 
-- **Pruebas piloto con usuarios reales:** evaluar usabilidad de la Landing Page y Web App, incluyendo mapas, tendencias y mensajería.  
-- **Integración de la API real:** reemplazar la API fake, documentando todos los endpoints y probando su funcionamiento completo.  
-- **Optimización UX/UI:** mejorar flujos de registro, inicio de sesión y mensajes directos, incorporando retroalimentación de usuarios.  
-- **Capacitación y adopción:** orientar a usuarios finales y personal municipal para reducir resistencia al cambio.  
-- **Expansión de funcionalidades:** incluir métricas de impacto ambiental, gamificación y opciones de participación ciudadana.  
-- **Mantener la documentación y roadmap actualizados:** asegurar continuidad en el desarrollo y priorizar estabilidad técnica y confiabilidad.  
+- **Integrar completamente el Frontend con el Backend**, priorizando los flujos más importantes del producto.
+- **Agregar pruebas automatizadas** para asegurar calidad en los siguientes sprints.
+- **Mejorar la experiencia de usuario**, especialmente en navegación e interacción.
+- **Optimizar la arquitectura backend**, aprovechando lo ya construido para mantener el orden a medida que agreguemos más módulos.
+- **Avanzar con funcionalidades clave** como rutas inteligentes, monitoreo en tiempo real y dashboards.
+- **Mantener documentación y roadmap al día**, para facilitar el trabajo del equipo y la revisión en los siguientes sprints.
+
+Estas conclusiones reflejan el trabajo acumulado desde el inicio del proyecto y marcan una base firme para los avances que vienen. 
 
 <br><br>
 
