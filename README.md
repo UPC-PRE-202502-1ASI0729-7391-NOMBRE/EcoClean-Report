@@ -886,139 +886,142 @@ A continuación, se muestra la evidencia de colaboración utilizando **GitHub In
 
 ### 5.3.3. Evaluaciones según heurísticas
 
-# Evaluación Heurística de Usabilidad y Diseño Inclusivo  
-## Documentación del Proyecto **“ChroniCaree”**
-
-| Campo | Descripción |
-|--------|--------------|
-| **Carrera** | Ingeniería de Software |
-| **Curso** | Desarrollo de Aplicaciones Open Source |
-| **Sección** | 7391 |
-| **Profesores** | Todos |
-| **Auditor(es)** | Grupo 04 |
-| **Cliente(s)** | Grupo 03 |
-| **Sitio evaluado** | ChroniCaree |
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando principios de usabilidad, diseño inclusivo y arquitectura de información. La evaluación se realizó siguiendo el formato establecido en el Anexo D: *Formato para Evaluación de User Experience según Heurísticas*.
 
 ---
 
-## Tareas Evaluadas
+### **UX Heuristics & Principles Evaluation**  
+**Usability – Inclusive Design – Information Architecture**  
 
-Las tareas evaluadas se enfocan en la claridad, organización y accesibilidad:
+- **CARRERA:** Ingeniería de Software  
+- **CURSO:** Desarrollo de Aplicaciones Open Source  
+- **SECCIÓN:** 7391  
+- **PROFESORES:** Hugo Allan Mori Paiva  
+- **AUDITOR:** Grupo 3 - Chronicaree  
+- **CLIENTE(S):** Alejandro Nicolas Barturen Guzman, Sebastian Martin Beingolea Montalvo, Schneider Carlos Delgado Carrasco, Andreow Jomark Santiago Peña, Calors Alberto Lopez Goitia  
 
-1. Comprender rápidamente qué es “ChroniCaree”.  
-2. Navegar el índice y ubicar capítulos específicos.  
-3. Acceder a la landing page y al reporte.  
-4. Revisar imágenes de diseño (logo, spacing, flows).  
-5. Entender la estructura del repositorio.  
-6. Ver colaboraciones, actividad y despliegues.  
-7. Identificar estándares de trabajo y organización.  
-8. Encontrar entregables rápidos sin perderse visualmente.  
-
----
-
-## Escala de Severidad
-
-| Nivel | Descripción |
-|-------|-------------|
-| **1** | Problema leve, mejora opcional. |
-| **2** | Problema menor, requiere revisión. |
-| **3** | Problema importante, afecta la experiencia. |
-| **4** | Problema crítico, bloquea el uso normal. |
+> **Nota:** El contenido de esta evaluación ha sido desarrollado por los miembros del **Grupo 3 - Chronicaree**, quienes participaron activamente en la sesión de evaluación. A continuación, se detallan los hallazgos identificados durante el análisis de la aplicación web de EcoSmart.
 
 ---
 
-## Resumen General de Problemas
-
-| # | Problema identificado | Sev. | Principio afectado |
-|---|------------------------|:---:|---------------------|
-| 1 | README demasiado extenso y difícil de escanear. | 3 | Information Architecture |
-| 2 | Falta sección de instalación y ejecución. | 3 | Usability – Ayuda mínima |
-| 3 | Imágenes sin descripción adecuada. | 3 | Inclusive Design |
-| 4 | Índice muy profundo y poco orientador. | 2 | Findability |
-| 5 | Exceso de imágenes repetidas y ruido visual. | 2 | Eficiencia |
-| 6 | Inconsistencias en formato y estilos. | 2 | Consistency & Standards |
-| 7 | Falta una conclusión o cierre del documento. | 2 | Feedback |
-| 8 | Conexión débil entre diseño UX/UI e implementación. | 2 | Match with real world |
+### **SITE o APP A EVALUAR:**  
+**EcoSmart Waste Solutions**
 
 ---
 
-# Descripción de Problemas y Recomendaciones
+### **TAREAS A EVALUAR:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+1. Registro de un nuevo usuario  
+2. Inicio de sesión en la plataforma  
+3. Visualización de tendencias por distrito  
+4. Navegación al mapa interactivo de tachos de basura  
+5. Envío de mensaje directo a la municipalidad  
+6. Consulta de reportes ciudadanos  
+7. Acceso al perfil de usuario  
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:**  
+1. Integración con sensores IoT en tiempo real  
+2. Generación automática de rutas optimizadas  
+3. Recepción de alertas push para operarios  
+4. Funcionalidades administrativas avanzadas (gestión de municipios, roles, etc.)
 
 ---
 
-### P1. README demasiado extenso y difícil de escanear  
+### **ESCALA DE SEVERIDAD:**  
+Los errores fueron puntuados tomando en cuenta la siguiente escala de severidad:
+
+| **Nivel** | **Descripción** |
+|----------|----------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir con más frecuencia o es un poco más difícil de superar. Se le debería asignar una prioridad baja para corregirse en el próximo release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+### **TABLA RESUMEN:**
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+|---|---------|---------------------|-------------------------------|
+| 1 | No existe un botón claro para regresar al inicio desde otras secciones | 2 | Usability: Libertad y control del usuario |
+| 2 | El formulario de registro no muestra mensajes de error claros al ingresar datos inválidos | 3 | Usability: Prevención de errores |
+| 3 | Imágenes del mapa no tienen atributos `alt` para accesibilidad | 3 | Inclusive Design: Proporciona experiencias comparables |
+| 4 | La navegación entre "Mensaje Directo" y otras secciones no es intuitiva | 2 | Information Architecture: Is it usable? |
+| 5 | No se indica visualmente cuál es la sección actual en el menú principal | 2 | Usability: Visibilidad del estado del sistema |
+| 6 | Falta un mecanismo de recuperación de contraseña en el login | 3 | Usability: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores |
+| 7 | El botón “Crear perfil” no está destacado cuando es requerido para ciertas acciones | 2 | Information Architecture: Is it findable? |
+
+---
+
+### **DESCRIPCIÓN DE PROBLEMAS:**
+
+#### **PROBLEMA #1: No existe un botón claro para regresar al inicio desde otras secciones**  
+- **Severidad:** 2  
+- **Heurística violada:** Usabilidad - Libertad y control del usuario  
+- **Problema:**  
+  Al navegar hacia secciones como "Mapa" o "Mensajes", no hay un botón visible que permita al usuario volver al inicio sin tener que usar el botón del navegador. Esto limita la libertad de navegación y puede generar frustración.  
+- **Recomendación:**  
+  Agregar un ícono de "Inicio" fijo en la barra de navegación superior, junto con una animación sutil al pasar el cursor para mejorar la retroalimentación visual.
+
+---
+
+#### **PROBLEMA #2: El formulario de registro no muestra mensajes de error claros al ingresar datos inválidos**  
 - **Severidad:** 3  
-- **Heurística:** *Information Architecture – Organización del contenido*  
-- **Descripción:** El documento contiene demasiado texto, imágenes y apartados extensos sin jerarquía visual clara, lo que aumenta la carga cognitiva del lector.  
-- **Recomendación:** Resumir secciones, agrupar contenido secundario en `<details>` y mover documentación pesada a una carpeta `/docs/`.
+- **Heurística violada:** Usabilidad - Prevención de errores  
+- **Problema:**  
+  Cuando el usuario ingresa un correo duplicado o una contraseña débil, el sistema no muestra un mensaje claro sobre qué campo falló ni cómo corregirlo. Solo aparece un mensaje genérico de error.  
+- **Recomendación:**  
+  Mostrar mensajes específicos debajo de cada campo erróneo (ej. "Este correo ya está registrado", "La contraseña debe tener al menos 8 caracteres"). Incluir validación en tiempo real con iconos visuales (✅ / ❌).
 
 ---
 
-### P2. Falta sección de instalación y ejecución  
+#### **PROBLEMA #3: Imágenes del mapa no tienen atributos `alt` para accesibilidad**  
 - **Severidad:** 3  
-- **Heurística:** *Usability – Ayuda mínima*  
-- **Descripción:** El README no explica cómo ejecutar el proyecto localmente ni qué dependencias requiere.  
-- **Recomendación:** Crear un apartado “Instalación y Uso” con requisitos, comandos, entorno `.env` y pasos de ejecución.
+- **Heurística violada:** Inclusive Design - Proporciona experiencias comparables  
+- **Problema:**  
+  Las imágenes del mapa interactivo carecen de descripciones alternativas (`alt`), lo que dificulta su comprensión para personas que utilizan lectores de pantalla.  
+- **Recomendación:**  
+  Agregar atributos `alt` descriptivos a todas las imágenes (ej. `alt="Mapa interactivo mostrando tachos llenos en San Martín de Porres"`). Considerar también etiquetas ARIA para elementos interactivos.
 
 ---
 
-### P3. Imágenes sin descripción adecuada  
+#### **PROBLEMA #4: La navegación entre "Mensaje Directo" y otras secciones no es intuitiva**  
+- **Severidad:** 2  
+- **Heurística violada:** Information Architecture - Is it usable?  
+- **Problema:**  
+  El flujo para enviar un mensaje requiere varios pasos no evidentes (crear perfil → ir a mensajes → seleccionar distrito), sin indicadores de progreso.  
+- **Recomendación:**  
+  Implementar un asistente paso a paso con indicador de progreso (ej. "Paso 1 de 3") y permitir saltar entre secciones si ya se completaron previamente.
+
+---
+
+#### **PROBLEMA #5: No se indica visualmente cuál es la sección actual en el menú principal**  
+- **Severidad:** 2  
+- **Heurística violada:** Usabilidad - Visibilidad del estado del sistema  
+- **Problema:**  
+  El usuario no puede distinguir fácilmente en qué sección se encuentra actualmente, ya que todos los elementos del menú tienen el mismo estilo.  
+- **Recomendación:**  
+  Resaltar la sección activa con color diferente, subrayado o ícono especial. Por ejemplo, cambiar el texto a negrita y aplicar fondo ligeramente más oscuro.
+
+---
+
+#### **PROBLEMA #6: Falta un mecanismo de recuperación de contraseña en el login**  
 - **Severidad:** 3  
-- **Heurística:** *Inclusive Design – Experiencias comparables*  
-- **Descripción:** Varias imágenes usan solo “Figura XX” o nombres de archivo, sin suficiente contexto para usuarios o lectores de pantalla.  
-- **Recomendación:** Agregar textos alternativos descriptivos, pies de imagen claros y usar `aria-hidden="true"` si son decorativas.
+- **Heurística violada:** Usabilidad - Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores  
+- **Problema:**  
+  En la pantalla de inicio de sesión, no existe un enlace para "¿Olvidaste tu contraseña?" ni ninguna opción para recuperarla.  
+- **Recomendación:**  
+  Agregar un enlace bajo el formulario de login que redirija a una página de recuperación por correo electrónico, con confirmación en dos pasos.
 
 ---
 
-### P4. Índice poco orientador  
+#### **PROBLEMA #7: El botón “Crear perfil” no está destacado cuando es requerido para ciertas acciones**  
 - **Severidad:** 2  
-- **Heurística:** *Information Architecture – Findability*  
-- **Descripción:** El índice es muy profundo, lo cual dificulta encontrar secciones clave rápidamente.  
-- **Recomendación:** Incluir un “Mapa rápido” con solo 5–7 secciones principales para navegación rápida.
-
----
-
-### P5. Exceso de capturas repetidas y ruido visual  
-- **Severidad:** 2  
-- **Heurística:** *Usability – Eficiencia y carga cognitiva*  
-- **Descripción:** El README contiene capturas repetidas (commits, Netlify, actividad), alargando innecesariamente el documento.  
-- **Recomendación:** Mantener solo las imágenes esenciales y mover las demás a un archivo aparte en `/docs/evidencias.md`.
-
----
-
-### P6. Inconsistencias en formato y estilos  
-- **Severidad:** 2  
-- **Heurística:** *Consistency & Standards*  
-- **Descripción:** Existen variaciones en formato de títulos, numeración, mezcla de idiomas y nomenclatura de figuras.  
-- **Recomendación:** Aplicar una guía de estilo general para todo el README (niveles de títulos, idioma, figuras y tablas).
-
----
-
-### P7. Falta de conclusiones o estado final del proyecto  
-- **Severidad:** 2  
-- **Heurística:** *Usability – Feedback y cierre*  
-- **Descripción:** El README no incluye una sección final que resuma aprendizajes, estado del proyecto o próximos pasos.  
-- **Recomendación:** Añadir un capítulo “Conclusiones y Trabajo Futuro”.
-
----
-
-### P8. Conexión débil entre UX/UI y resultados implementados  
-- **Severidad:** 2  
-- **Heurística:** *Match with the real world – Comunicación clara*  
-- **Descripción:** Aunque se incluyen spacing, tipografías y wireflows, no se muestra cómo fueron aplicados en el desarrollo real.  
-- **Recomendación:** Añadir comparaciones del tipo “Diseño vs Implementación” con capturas del sistema final.
-
----
-
-# Conclusión
-
-El proyecto ChroniCaree es completo y evidencia un trabajo sólido de documentación. Sin embargo, puede mejorar su usabilidad aplicando:
-
-- Mejor estructura visual.  
-- Reducción de ruido visual.  
-- Accesibilidad más clara.  
-- Secciones técnicas obligatorias (instalación y uso).  
-- Un cierre formal sobre el estado del proyecto.
+- **Heurística violada:** Information Architecture - Is it findable?  
+- **Problema:**  
+  Cuando el usuario intenta comentar o enviar un mensaje sin tener perfil, se le solicita crear uno, pero no se proporciona un enlace directo ni se resalta dónde hacerlo.  
+- **Recomendación:**  
+  Mostrar un modal con un botón prominente que diga "Crear perfil ahora" y redirija directamente a esa sección. Incluir una notificación tipo toast tras la creación exitosa.
 
 ---
 
