@@ -679,6 +679,26 @@ Para el Sprint 3, el equipo se enfocó en dos aspectos principales: el desarroll
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
+Durante el tercer sprint del proyecto *EcoClean*, se desarrollaron funcionalidades esenciales en los módulos de **Backend Platform**, **WebApp Frontend** y **Reportes**. 
+Entre los avances se incluyen la creación de servicios y entidades del backend, la documentación del sprint y mejoras visuales en el frontend. 
+Además, el equipo realizó actividades de diseño, entrevistas a usuarios y validación funcional del sistema para asegurar coherencia entre requerimientos y la implementación técnica.
+
+A continuación se presenta la evidencia unificada de commits realizados:
+
+| Repository                 | Branch | Commit Id | Author             | Type     | Commit Message                                                                  | Committed on (Date) |
+|----------------------------|--------|-----------|--------------------|----------|----------------------------------------------------------------------------------|----------------------|
+| EcoClean-Platform          | main   | bcabc2c   | DiegoAndresAvalos | authored | Update application.properties                                                    | 2024-11-09           |
+| EcoClean-Platform          | main   | 682156d   | DiegoAndresAvalos | authored | Update Dockerfile                                                                | 2024-11-09           |
+| EcoClean-Platform          | main   | 787a15b   | Thepima | authored | Update pom.xml                                                                              | 2024-11-10           |
+| EcoClean-Platform          | main   | c29e912   | AndS56             | authored | Create BoundedContextResponse.java                                               | 2024-11-12           |
+| EcoClean-Platform          | main   | 95612cb   | AndS56             | authored | Create RoleApplicationService.java                                               | 2024-11-12           |
+| EcoClean-Report            | main   | e3decfc   | DiegoAndresAvalos | authored | Update 5.3.3. Evaluaciones según heurísticas                                     | 2024-11-16           |
+| EcoClean-Report            | main   | fafcfb3   | DiegoAndresAvalos | authored | Update README.md                                                                 | 2024-11-16           |
+| EcoClean-Report            | main   | 331dc2c   | Thepima            | authored | Add Aspect Leaders and Collaborators AND Sprint Backlog 3                        | 2024-11-15           |
+| EcoClean-Report            | main   | da306a4   | AndS56             | authored | Add Sprint Planning 3                                                            | 2024-11-15           |
+| EcoClean-WebApp-Frontend   | main   | a5b2f47   | DiegoAndresAvalos | authored | Update UI components                                                             | 2024-11-10           |
+| EcoClean-WebApp-Frontend   | main   | a5b2f47   | Thepima | authored | UI review, design validation and integration support                                       | 2024-11-10           |
+
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
