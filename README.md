@@ -778,12 +778,13 @@ Este glosario será la base de nuestra comunicación durante el desarrollo, evit
 
 Lás Épicas:
 
-| Epic ID | Título                         | Descripción                                                                                                                                        |
-| ------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| EP01    | Gestión de residuos urbanos    | Como ciudadano, quiero depositar mis residuos en tachos inteligentes para contribuir a una gestión más eficiente y sostenible.                     |
-| EP02    | Monitoreo y control municipal  | Como municipalidad, quiero supervisar en tiempo real el estado de los tachos inteligentes para tomar decisiones oportunas y reducir desbordes.     |
-| EP03    | Optimización de recolección    | Como operario de limpieza, quiero recibir rutas optimizadas en mi aplicación móvil para ahorrar tiempo y combustible en el proceso de recolección. |
-| EP04    | Transparencia y sostenibilidad | Como autoridad municipal, quiero generar reportes de eficiencia para evaluar el impacto económico y ambiental de la solución.                      |
+| Epic ID | Título                          | Descripción                                                                                                                                                                                         |
+| ------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| EP01    | Gestión de residuos urbanos     | Como ciudadano, quiero depositar mis residuos en tachos inteligentes para contribuir a una gestión más eficiente y sostenible.                                                                      |
+| EP02    | Monitoreo y control municipal   | Como municipalidad, quiero supervisar en tiempo real el estado de los tachos inteligentes para tomar decisiones oportunas y reducir desbordes.                                                      |
+| EP03    | Optimización de recolección     | Como operario de limpieza, quiero recibir rutas optimizadas en mi aplicación móvil para ahorrar tiempo y combustible en el proceso de recolección.                                                  |
+| EP04    | Transparencia y sostenibilidad  | Como autoridad municipal, quiero generar reportes de eficiencia para evaluar el impacto económico y ambiental de la solución.                                                                       |
+| EP05    | Administración de la Plataforma | Como Administrador de EcoSmart, quiero tener las herramientas para gestionar los usuarios, roles y entidades (como municipios) de la plataforma para asegurar su correcto funcionamiento y control. |
 
 Las Historias de Usuario:
 
