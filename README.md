@@ -32,7 +32,6 @@
 | Diego Andres Avalos Cordova    | U202313922 |
 | Joaquin Enrique Carranza Tesén | U20191B935 |
 | Piero Alberto Velarde Luyo | U20211A620 |
-| Sebastian Gabriel Zuñiga Calle | U20221b479 |
 
 </div>
 
@@ -67,7 +66,11 @@
 | TP1 | 10/10/25 | Piero Velarde | Mejora del Lean UX Canvas |
 | TP1 | 10/10/25 | Piero Velarde | Capitulo V Services Documentation Evidence for Sprint Review |
 | TP1 | 10/10/25 | Piero Velarde | Capitulo V  Software Deployment Evidence for Sprint Review |
-
+| TB2 | 15/11/25 | Andree Cardenas | Capitulo V Sprint 3 |
+| TB2 | 12/11/25 | Andree Cardenas | Desarrollo del Backend |
+| TB2 | 10/10/25 | Piero Velarde |  |
+| TB2 | 10/10/25 | Joaquin Carranza | |
+| TB2 | 12/10/25 | Diego Avalos | Desarrollo del Backend |
 
 </div>
 
