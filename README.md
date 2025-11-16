@@ -874,7 +874,7 @@ Durante el Sprint 3, el equipo de EcoClean trabajó de manera colaborativa para 
 
 A continuación, se muestra la evidencia de colaboración utilizando **GitHub Insights**, donde se refleja la actividad del equipo durante el Sprint 3.
 
-![Imagen/MySQL](https://i.postimg.cc/vHrqVJ3M/Eco-Smart-My-SQL-Evicencia.jpg)
+![Imagen/MySQL](https://i.postimg.cc/P5htbkhd/Eco-Smart-Contribuciones-TB2.png)
 
 ## 5.3. Validation Interviews
 
