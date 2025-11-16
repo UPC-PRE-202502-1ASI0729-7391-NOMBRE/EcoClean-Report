@@ -856,6 +856,25 @@ Los resultados confirmaron:
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 3, el equipo de EcoClean trabajó de manera colaborativa para avanzar en el desarrollo del **Frontend**, **Backend** y **Reportes**, asegurando que cada integrante aporte a uno o más componentes del proyecto. A continuación, se presenta un resumen de las actividades realizadas por cada miembro del equipo.
+
+---
+
+### Actividades realizadas por cada integrante
+
+| Integrante | Acciones realizadas durante el Sprint 3 |
+|-----------|------------------------------------------|
+| **Diego Avalos** | Desarrollo y ajustes del backend en los bounded contexts de **Admin**, **IAM**, **Role Management**, **Municipalities**, **Profiles** y **Shared**. Actualización de múltiples endpoints y configuración del `pom.xml`, `Dockerfile` y `application.properties`. |
+| **Andree Cardenas** | Creación de clases clave del backend como **Controllers**, **Requests**, **Services**, **Repositories**, además de estructuración inicial del proyecto Spring Boot para EcoClean. |
+| **Joaquin Carranza** | Participación en pruebas, estructura de reportes y apoyo documental del Sprint 3. (*Se reemplazará por los commits reales cuando los suba al repositorio*). |
+
+---
+
+### Contribución en los repositorios del proyecto
+
+A continuación, se muestra la evidencia de colaboración utilizando **GitHub Insights**, donde se refleja la actividad del equipo durante el Sprint 3.
+
+![Imagen/MySQL](https://i.postimg.cc/vHrqVJ3M/Eco-Smart-My-SQL-Evicencia.jpg)
 
 ## 5.3. Validation Interviews
 
