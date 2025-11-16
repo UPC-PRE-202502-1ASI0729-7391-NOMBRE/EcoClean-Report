@@ -702,6 +702,141 @@ Para el Sprint 3, el equipo se enfocó en dos aspectos principales: el desarroll
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+# Evaluación Heurística de Usabilidad y Diseño Inclusivo  
+## Documentación del Proyecto **“ChroniCaree”**
+
+| Campo | Descripción |
+|--------|--------------|
+| **Carrera** | Ingeniería de Software |
+| **Curso** | Desarrollo de Aplicaciones Open Source |
+| **Sección** | 7391 |
+| **Profesores** | Todos |
+| **Auditor(es)** | Grupo 04 |
+| **Cliente(s)** | Grupo 03 |
+| **Sitio evaluado** | ChroniCaree |
+
+---
+
+## Tareas Evaluadas
+
+Las tareas evaluadas se enfocan en la claridad, organización y accesibilidad:
+
+1. Comprender rápidamente qué es “ChroniCaree”.  
+2. Navegar el índice y ubicar capítulos específicos.  
+3. Acceder a la landing page y al reporte.  
+4. Revisar imágenes de diseño (logo, spacing, flows).  
+5. Entender la estructura del repositorio.  
+6. Ver colaboraciones, actividad y despliegues.  
+7. Identificar estándares de trabajo y organización.  
+8. Encontrar entregables rápidos sin perderse visualmente.  
+
+---
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| **1** | Problema leve, mejora opcional. |
+| **2** | Problema menor, requiere revisión. |
+| **3** | Problema importante, afecta la experiencia. |
+| **4** | Problema crítico, bloquea el uso normal. |
+
+---
+
+## Resumen General de Problemas
+
+| # | Problema identificado | Sev. | Principio afectado |
+|---|------------------------|:---:|---------------------|
+| 1 | README demasiado extenso y difícil de escanear. | 3 | Information Architecture |
+| 2 | Falta sección de instalación y ejecución. | 3 | Usability – Ayuda mínima |
+| 3 | Imágenes sin descripción adecuada. | 3 | Inclusive Design |
+| 4 | Índice muy profundo y poco orientador. | 2 | Findability |
+| 5 | Exceso de imágenes repetidas y ruido visual. | 2 | Eficiencia |
+| 6 | Inconsistencias en formato y estilos. | 2 | Consistency & Standards |
+| 7 | Falta una conclusión o cierre del documento. | 2 | Feedback |
+| 8 | Conexión débil entre diseño UX/UI e implementación. | 2 | Match with real world |
+
+---
+
+# Descripción de Problemas y Recomendaciones
+
+---
+
+### P1. README demasiado extenso y difícil de escanear  
+- **Severidad:** 3  
+- **Heurística:** *Information Architecture – Organización del contenido*  
+- **Descripción:** El documento contiene demasiado texto, imágenes y apartados extensos sin jerarquía visual clara, lo que aumenta la carga cognitiva del lector.  
+- **Recomendación:** Resumir secciones, agrupar contenido secundario en `<details>` y mover documentación pesada a una carpeta `/docs/`.
+
+---
+
+### P2. Falta sección de instalación y ejecución  
+- **Severidad:** 3  
+- **Heurística:** *Usability – Ayuda mínima*  
+- **Descripción:** El README no explica cómo ejecutar el proyecto localmente ni qué dependencias requiere.  
+- **Recomendación:** Crear un apartado “Instalación y Uso” con requisitos, comandos, entorno `.env` y pasos de ejecución.
+
+---
+
+### P3. Imágenes sin descripción adecuada  
+- **Severidad:** 3  
+- **Heurística:** *Inclusive Design – Experiencias comparables*  
+- **Descripción:** Varias imágenes usan solo “Figura XX” o nombres de archivo, sin suficiente contexto para usuarios o lectores de pantalla.  
+- **Recomendación:** Agregar textos alternativos descriptivos, pies de imagen claros y usar `aria-hidden="true"` si son decorativas.
+
+---
+
+### P4. Índice poco orientador  
+- **Severidad:** 2  
+- **Heurística:** *Information Architecture – Findability*  
+- **Descripción:** El índice es muy profundo, lo cual dificulta encontrar secciones clave rápidamente.  
+- **Recomendación:** Incluir un “Mapa rápido” con solo 5–7 secciones principales para navegación rápida.
+
+---
+
+### P5. Exceso de capturas repetidas y ruido visual  
+- **Severidad:** 2  
+- **Heurística:** *Usability – Eficiencia y carga cognitiva*  
+- **Descripción:** El README contiene capturas repetidas (commits, Netlify, actividad), alargando innecesariamente el documento.  
+- **Recomendación:** Mantener solo las imágenes esenciales y mover las demás a un archivo aparte en `/docs/evidencias.md`.
+
+---
+
+### P6. Inconsistencias en formato y estilos  
+- **Severidad:** 2  
+- **Heurística:** *Consistency & Standards*  
+- **Descripción:** Existen variaciones en formato de títulos, numeración, mezcla de idiomas y nomenclatura de figuras.  
+- **Recomendación:** Aplicar una guía de estilo general para todo el README (niveles de títulos, idioma, figuras y tablas).
+
+---
+
+### P7. Falta de conclusiones o estado final del proyecto  
+- **Severidad:** 2  
+- **Heurística:** *Usability – Feedback y cierre*  
+- **Descripción:** El README no incluye una sección final que resuma aprendizajes, estado del proyecto o próximos pasos.  
+- **Recomendación:** Añadir un capítulo “Conclusiones y Trabajo Futuro”.
+
+---
+
+### P8. Conexión débil entre UX/UI y resultados implementados  
+- **Severidad:** 2  
+- **Heurística:** *Match with the real world – Comunicación clara*  
+- **Descripción:** Aunque se incluyen spacing, tipografías y wireflows, no se muestra cómo fueron aplicados en el desarrollo real.  
+- **Recomendación:** Añadir comparaciones del tipo “Diseño vs Implementación” con capturas del sistema final.
+
+---
+
+# Conclusión
+
+El proyecto ChroniCaree es completo y evidencia un trabajo sólido de documentación. Sin embargo, puede mejorar su usabilidad aplicando:
+
+- Mejor estructura visual.  
+- Reducción de ruido visual.  
+- Accesibilidad más clara.  
+- Secciones técnicas obligatorias (instalación y uso).  
+- Un cierre formal sobre el estado del proyecto.
+
+---
 
 ## 5.4. Video About-The-Product
 
