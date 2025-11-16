@@ -702,6 +702,27 @@ A continuación se presenta la evidencia unificada de commits realizados:
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+En este Sprint se avanzó en la construcción inicial del sistema EcoClean, logrando implementar las primeras vistas funcionales del frontend y los endpoints base del backend. Estos avances permiten mostrar el flujo inicial del sistema y validar la estructura técnica que se utilizará en los próximos sprints.
+
+A continuación, se presentan los screenshots correspondientes a las principales vistas del sistema implementadas durante el Sprint 3:
+
+### **Frontend – Vista 1: Pantalla Inicial / Login**
+[Enlace d la foto](https://...)
+
+### **Frontend – Vista 2: Dashboard / Navegación Principal**
+[Enlace d la foto](https://...)
+
+---
+
+### **Backend – Documentación Swagger (Endpoints del Sprint 3)**
+En esta vista se muestran los endpoints creados en el backend utilizando Spring Boot, documentados mediante Swagger:
+
+[Enlace d la foto](https://...)
+
+---
+
+Estos elementos representan el avance visual y funcional logrado durante este sprint, evidenciando el progreso tanto en la interfaz de usuario como en la construcción del API Backend.
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
