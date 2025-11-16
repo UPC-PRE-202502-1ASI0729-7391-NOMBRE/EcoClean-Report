@@ -723,6 +723,77 @@ En esta vista se muestran los endpoints creados en el backend utilizando Spring 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint 3 se documentaron los endpoints iniciales del módulo **EcoSmart Backend**, utilizando OpenAPI/Swagger como herramienta principal para la especificación y visualización de los servicios. La documentación generada permite validar las acciones soportadas por cada endpoint, incluyendo métodos HTTP, sintaxis de llamada, parámetros y formato de respuesta.
+
+Los avances realizados en este Sprint incluyen la creación de los primeros bounded contexts del backend en los módulos:
+
+- `admin`
+- `iam`
+- `monitoring`
+- `operations`
+- `profile`
+- `reporting`
+- `shared`
+- `smartbins`
+
+Estos módulos componen la estructura inicial del dominio del sistema EcoClean.
+
+### Endpoints documentados en Sprint 3
+
+A continuación, se presenta la relación de endpoints creados y documentados durante este sprint, junto con su método HTTP, descripción de la acción implementada y ejemplos de request/response:
+
+| Endpoint | Método | Acción Implementada | Sintaxis de Llamada | Ejemplo de Response |
+|---------|--------|---------------------|---------------------|---------------------|
+| `/api/v1/profile` | GET | Obtener lista de perfiles registrados | `GET /api/v1/profile` | `{ "id": 1, "name": "Admin", "email": "admin@ecoclean.com" }` |
+| `/api/v1/profile` | POST | Crear un nuevo perfil | `POST /api/v1/profile` | `{ "message": "Profile created successfully" }` |
+| `/api/v1/roles` | GET | Listado de roles del sistema | `GET /api/v1/roles` | `[ { "id": 1, "name": "USER" } ]` |
+| `/api/v1/roles/apply` | POST | Asignación de rol a usuario | `POST /api/v1/roles/apply` | `{ "message": "Role assigned" }` |
+| `/api/v1/route` | GET | Listado de rutas de recojo configuradas | `GET /api/v1/route` | `[ { "id": 1, "district": "Miraflores" } ]` |
+
+> *Nota:* Los endpoints listados corresponden a los módulos `profile`, `iam`, `operations` y `shared`. Cada endpoint incluye las funciones mínimas construidas en este Sprint.
+
+---
+
+### Capturas de Documentación Swagger
+
+A continuación, se presenta la captura de la documentación generada con Swagger/OpenAPI para los endpoints desarrollados en este Sprint:
+
+![Imagen/Swagger1](https://i.postimg.cc/RC1jzJKJ/Swagger-1.png)
+![Imagen/Swagger2](https://i.postimg.cc/1R0LZVwN/Swagger-2.png)
+![Imagen/Swagger3](https://i.postimg.cc/c17VNtw6/Swagger-3.png)
+
+---
+
+### URL del repositorio de Web Services
+
+Repositorio Backend:  
+**https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Platform**
+
+---
+
+### 📝 Commits relacionados con la documentación de servicios
+
+| Commit ID | Autor | Mensaje |
+|-----------|--------|---------|
+| `a71d257` | And556 | Create ProfileInitializerImpl.java |
+| `96612cb` | And556 | Create ProfileApplicationService.java |
+| `c29e912` | DiegoAndresAvalos | Delete application directory (limpieza previa de Swagger) |
+| `4dd0115` | And556 | Create UpdateProfileRequest.java |
+| `1751a53` | Thepima | Create ProfileResponse.java |
+| `f95877f` | DiegoAndresAvalos | update edit admin |
+| `c5bbcd3` | DiegoAndresAvalos | Delete admin/application (reestructuración del API) |
+
+Estos commits incluyen la creación de servicios, controladores, requests y responses que forman la base de la documentación de Web Services en este Sprint.
+
+---
+
+### ✔ Resumen General del Avance en Documentación
+
+- Se habilitó Swagger para visualizar endpoints.  
+- Se documentó la estructura base del backend.  
+- Se confirmaron las rutas principales para perfiles, roles y rutas del sistema.  
+- Se verificó la correcta respuesta de ejemplos desde Postman.  
+- Se preparó la base para la ampliación del API en próximos sprints.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
