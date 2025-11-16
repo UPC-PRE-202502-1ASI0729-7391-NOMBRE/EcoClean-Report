@@ -634,6 +634,19 @@ A continuación podremos visualizar la evidencia de colaboración de los integra
 
 #### 5.2.3.1. Sprint Planning 3
 
+| Sprint # | Sprint 3 |
+|--------- |----------|
+| Date | 13/10/2025 |
+| Time | 19:00 horas (GMT-5) |
+| Location | Virtual (Google Meet) |
+| Prepared By | Avalos Cordova, Diego Andres |
+| Attendees (to planning meeting) | Cardenas Huaman, Mathias Andree<br>Avalos Cordova, Diego Andres<br>Carranza Tesen, Joaquin Enrique<br>Velarde Luyo, Piero Alberto |
+| **Sprint 2 Review Summary** | Durante el Sprint 2 se logró desplegar la aplicación web y la landing page con una API simulada. Se cumplió con la navegación básica y la presentación de datos. |
+| **Sprint 2 Retrospective Summary** | El equipo identificó que la API simulada (fake API) fue una limitante para avanzar en funcionalidades clave de gestión. Se decide priorizar el desarrollo del backend real para desbloquear el trabajo del panel administrativo. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Desarrollar y desplegar la primera versión de los Web Services (backend) e implementar el panel administrativo para la gestión de usuarios (roles) y municipios. |
+| **Sprint 3 Velocity** | El equipo ha establecido una capacidad de **16 Story Points** para este Sprint. |
+| **Sum of Story Points** | **16** |
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
