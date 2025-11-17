@@ -1860,7 +1860,25 @@ A continuación, se muestra la evidencia de colaboración utilizando **GitHub In
 10. En una sola frase, ¿cuál es el principal valor que espera obtener de una aplicación que le conecta con la gestión inteligente de residuos de su ciudad?
 
 ### 5.3.2. Registro de entrevistas
+**1. Segmento Objetivo: Municipalidad o Funcionario Publico**
 
+| <img width="1825" height="559" alt="Captura de pantalla 2025-11-16 224110" src="https://github.com/user-attachments/assets/cca786e9-2ddd-4ba5-aad1-4833ebe9b60f" /> |
+|------|
+| Entrevistado: Ander |
+| Género: Masculino |
+| Edad: 22 años |
+| Link de la entrevista (YouTube): [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/IQAXtxcs1XqzSJYkQVG--VgkASzIsG1gOLZSTjJAg20pCvY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PCqe3V) | 
+| Ander de 22 años considera que el principal desafío operativo y presupuestario es el gasto excesivo en combustible debido a rutas fijas ineficientes, buscando mitigar esto con tecnología de sensores para optimizar la recolección, yendo solo cuando los contenedores lo requieran. Para tomar decisiones efectivas, la métrica crucial es el costo real por tonelada de basura movida, y la adopción de una nueva plataforma solo se justificaría si demuestra un ahorro superior al 15% en el primer año en combustible y mantenimiento. Además de la eficiencia, se espera mejorar la percepción ciudadana eliminando contenedores desbordados y ofreciendo transparencia mediante la visualización de rutas y el seguimiento de reportes, aunque las principales reservas son el posible daño o robo de los sensores y la resistencia del personal a la nueva tecnología.|
+
+**2. Segmento Objetivo: Ciudadano Urbano**
+
+| <img width="1825" height="564" alt="Captura de pantalla 2025-11-16 224350" src="https://github.com/user-attachments/assets/58a860a8-ffba-4788-9671-90615e730260" /> |
+|------|
+| Entrevistado: Emily Aqui |
+| Género: Masculino |
+| Edad: 20 años |
+| Link de la entrevista (YouTube): [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/IQDwrXbJjLdVQ7x2T-eZ-7Q3AZbaXKXN_TP97piJDzjs5zs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DfWoDw) | 
+| Emily Auqui de 20 años busca principalmente que el servicio de recolección sea invisible, predecible y sin problemas. Su mayor frustración es la incertidumbre sobre la hora de recolección, y el dato más valioso de una aplicación sería la ventana de tiempo exacta para sacar y guardar su basura. Estaría motivado a reportar problemas si el proceso es tan rápido como enviar un mensaje o una foto, buscando la confianza en la app a través de un historial de cumplimiento de recolecciones pasadas. También desearía recibir alertas el día anterior como recordatorio del servicio, ver un "contador" simple del porcentaje de reciclaje distrital, y le gustaría ganar puntos o insignias por interactuar y reportar problemas. Su expectativa es que la aplicación resuelva sus dudas sobre residuos no comunes mediante una función de búsqueda con foto.|
 
 
 ### 5.3.3. Evaluaciones según heurísticas
@@ -2013,7 +2031,7 @@ Los errores fueron puntuados tomando en cuenta la siguiente escala de severidad:
 | Género: Masculino |
 | Edad: 22 años |
 | Link de la entrevista (YouTube): [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/IQAMLNoTmO5GQIKu6GJezJBcAVsdH6R3bTQhcQcXJW9x0Zk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UnaqFF) | 
-| Emily Auqui de 20 años busca principalmente que el servicio de recolección sea invisible, predecible y sin problemas. Su mayor frustración es la incertidumbre sobre la hora de recolección, y el dato más valioso de una aplicación sería la ventana de tiempo exacta para sacar y guardar su basura. Estaría motivado a reportar problemas si el proceso es tan rápido como enviar un mensaje o una foto, buscando la confianza en la app a través de un historial de cumplimiento de recolecciones pasadas. También desearía recibir alertas el día anterior como recordatorio del servicio, ver un "contador" simple del porcentaje de reciclaje distrital, y le gustaría ganar puntos o insignias por interactuar y reportar problemas. Su expectativa es que la aplicación resuelva sus dudas sobre residuos no comunes mediante una función de búsqueda con foto.|
+| Ander de 22 años piensa que EcoSmart es una herramienta formidable y de gran valor estratégico para la administración municipal. Opina que la plataforma ya permite una gestión de recursos basada en datos, pero subraya que el inminente mapa a tiempo real es crucial porque proporcionará la visibilidad operacional necesaria para alcanzar la máxima eficiencia logística, reducir costos operativos y, fundamentalmente, cumplir con los objetivos de sostenibilidad y servicio a la ciudadanía.|
 
 **2. Segmento Objetivo: Ciudadano Urbano**
 | <img width="1826" height="503" alt="Captura de pantalla 2025-11-16 222254" src="https://github.com/user-attachments/assets/702a473c-94d8-449e-851b-284283c0fa79" /> |
@@ -2022,7 +2040,7 @@ Los errores fueron puntuados tomando en cuenta la siguiente escala de severidad:
 | Género: Masculino |
 | Edad: 20 años |
 | Link de la entrevista (YouTube): [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/IQCpZs3E4b5IRKjH_HgCZhYNATf-A88oVez2rBGBiOnQpZg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=m4YQ9h) | 
-| Emily Auqui de 20 años busca principalmente que el servicio de recolección sea invisible, predecible y sin problemas. Su mayor frustración es la incertidumbre sobre la hora de recolección, y el dato más valioso de una aplicación sería la ventana de tiempo exacta para sacar y guardar su basura. Estaría motivado a reportar problemas si el proceso es tan rápido como enviar un mensaje o una foto, buscando la confianza en la app a través de un historial de cumplimiento de recolecciones pasadas. También desearía recibir alertas el día anterior como recordatorio del servicio, ver un "contador" simple del porcentaje de reciclaje distrital, y le gustaría ganar puntos o insignias por interactuar y reportar problemas. Su expectativa es que la aplicación resuelva sus dudas sobre residuos no comunes mediante una función de búsqueda con foto.|
+| Emily Auqui de 20 años opina que la aplicación EcoSmart es una solución brillante y fascinante gracias a su concepto de tachos inteligentes y su interfaz limpia y usable. Piensa que, si bien la versión actual es muy buena, la próxima implementación del mapa a tiempo real será un "cambio de juego" que impulsará enormemente la eficiencia y consolidará a la aplicación como una herramienta esencial.|
 
 ## 5.5. Video About-The-Team
 [About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313922_upc_edu_pe/IQAoYxDEg4_zS6aNgim-4vC7AYATa9GM9SZfirPvxokWYe0?e=szsS4b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
