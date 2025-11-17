@@ -2049,8 +2049,6 @@ A lo largo de los tres primeros sprints del proyecto **EcoClean**, hemos podido 
 
 [About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313922_upc_edu_pe/IQAoYxDEg4_zS6aNgim-4vC7AYATa9GM9SZfirPvxokWYe0?e=szsS4b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-<br><br>
-
 # Bibliografía
 
 - INEI. (2022). *Estadísticas ambientales: Residuos sólidos municipales*. Instituto Nacional de Estadística e Informática. Recuperado de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1832/libro.pdf  
