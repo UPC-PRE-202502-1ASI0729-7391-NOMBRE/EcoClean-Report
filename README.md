@@ -1862,6 +1862,7 @@ A continuación, se muestra la evidencia de colaboración utilizando **GitHub In
 ### 5.3.2. Registro de entrevistas
 
 
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando principios de usabilidad, diseño inclusivo y arquitectura de información. La evaluación se realizó siguiendo el formato establecido en el Anexo D: *Formato para Evaluación de User Experience según Heurísticas*.
@@ -2005,10 +2006,25 @@ Los errores fueron puntuados tomando en cuenta la siguiente escala de severidad:
 
 ## 5.4. Video About-The-Product
 
-[About-The-Product](https://url-del-video)
+**1. Segmento Objetivo: Municipalidad o Funcionario Publico**
+| <img width="1818" height="551" alt="Captura de pantalla 2025-11-16 223725" src="https://github.com/user-attachments/assets/e486c514-1e09-4150-b50b-6b6b8022683d" /> |
+|------|
+| Entrevistado: Ander |
+| Género: Masculino |
+| Edad: 22 años |
+| Link de la entrevista (YouTube): [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/IQAMLNoTmO5GQIKu6GJezJBcAVsdH6R3bTQhcQcXJW9x0Zk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UnaqFF) | 
+| Emily Auqui de 20 años busca principalmente que el servicio de recolección sea invisible, predecible y sin problemas. Su mayor frustración es la incertidumbre sobre la hora de recolección, y el dato más valioso de una aplicación sería la ventana de tiempo exacta para sacar y guardar su basura. Estaría motivado a reportar problemas si el proceso es tan rápido como enviar un mensaje o una foto, buscando la confianza en la app a través de un historial de cumplimiento de recolecciones pasadas. También desearía recibir alertas el día anterior como recordatorio del servicio, ver un "contador" simple del porcentaje de reciclaje distrital, y le gustaría ganar puntos o insignias por interactuar y reportar problemas. Su expectativa es que la aplicación resuelva sus dudas sobre residuos no comunes mediante una función de búsqueda con foto.|
+
+**2. Segmento Objetivo: Ciudadano Urbano**
+| <img width="1826" height="503" alt="Captura de pantalla 2025-11-16 222254" src="https://github.com/user-attachments/assets/702a473c-94d8-449e-851b-284283c0fa79" /> |
+|------|
+| Entrevistado: Emily Aqui |
+| Género: Masculino |
+| Edad: 20 años |
+| Link de la entrevista (YouTube): [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/IQCpZs3E4b5IRKjH_HgCZhYNATf-A88oVez2rBGBiOnQpZg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=m4YQ9h) | 
+| Emily Auqui de 20 años busca principalmente que el servicio de recolección sea invisible, predecible y sin problemas. Su mayor frustración es la incertidumbre sobre la hora de recolección, y el dato más valioso de una aplicación sería la ventana de tiempo exacta para sacar y guardar su basura. Estaría motivado a reportar problemas si el proceso es tan rápido como enviar un mensaje o una foto, buscando la confianza en la app a través de un historial de cumplimiento de recolecciones pasadas. También desearía recibir alertas el día anterior como recordatorio del servicio, ver un "contador" simple del porcentaje de reciclaje distrital, y le gustaría ganar puntos o insignias por interactuar y reportar problemas. Su expectativa es que la aplicación resuelva sus dudas sobre residuos no comunes mediante una función de búsqueda con foto.|
 
 ## 5.5. Video About-The-Team
-
 [About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313922_upc_edu_pe/IQAoYxDEg4_zS6aNgim-4vC7AYATa9GM9SZfirPvxokWYe0?e=szsS4b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Conclusiones y recomendaciones
