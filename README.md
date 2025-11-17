@@ -2007,6 +2007,9 @@ Los errores fueron puntuados tomando en cuenta la siguiente escala de severidad:
 
 [About-The-Product](https://url-del-video)
 
+## 5.5. Video About-The-Team
+
+[About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313922_upc_edu_pe/IQAoYxDEg4_zS6aNgim-4vC7AYATa9GM9SZfirPvxokWYe0?e=szsS4b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Conclusiones y recomendaciones
 
@@ -2044,10 +2047,6 @@ A lo largo de los tres primeros sprints del proyecto **EcoClean**, hemos podido 
 - **Optimizar la arquitectura backend**, aprovechando lo ya construido para mantener el orden a medida que agreguemos más módulos.
 - **Avanzar con funcionalidades clave** como rutas inteligentes, monitoreo en tiempo real y dashboards.
 - **Mantener documentación y roadmap al día**, para facilitar el trabajo del equipo y la revisión en los siguientes sprints.
-
-## 5.4. Video About-The-Team
-
-[About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313922_upc_edu_pe/IQAoYxDEg4_zS6aNgim-4vC7AYATa9GM9SZfirPvxokWYe0?e=szsS4b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Bibliografía
 
