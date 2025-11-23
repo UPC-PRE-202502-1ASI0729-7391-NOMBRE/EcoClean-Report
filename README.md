@@ -1,7 +1,7 @@
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 <h3 align="center"> Ingeniería de Software </h3>
-<h3 align="center"> Ciclo 2025 - 2 </h3>
+<h3 align="center"> Periodo 2025 - 2 </h3>
 
 <br>
 
