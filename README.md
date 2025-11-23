@@ -35,7 +35,7 @@
 
 </div>
 
-<h3 align="center">Septiembre, 2025</h3>
+<h3 align="center">Noviembre, 2025</h3>
 
 <br><br>
 
