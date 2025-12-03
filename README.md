@@ -12,7 +12,7 @@
 
 <h1 align="center"> Informe del Trabajo Final </h1>
 
-<h3 align="center"> Desarrollo de Aplicaciones Open Source - 7391 </h3>
+<h3 align="center"> Desarrollo de Aplicaciones Open Source </h3>
 
 <h3 align="center"> Docente: Mori Paiva, Hugo Allan </h3>
 
