@@ -1,8 +1,6 @@
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 <h3 align="center"> Ingeniería de Software </h3>
-<h3 align="center"> Periodo 2025 - 20 </h3>
-<h3 align="center"> NRC: 7391 </h3>
 
 <br>
 
@@ -36,7 +34,9 @@
 
 </div>
 
-<h3 align="center">Noviembre, 2025</h3>
+<h3 align="center"> Periodo 2025 - 20 </h3>
+<h3 align="center"> NRC: 7391 </h3>
+<h3 align="center"> Diciembre, 2025</h3>
 
 <br><br>
 
