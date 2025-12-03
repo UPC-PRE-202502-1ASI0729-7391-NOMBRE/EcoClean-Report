@@ -2,6 +2,7 @@
 
 <h3 align="center"> Ingeniería de Software </h3>
 <h3 align="center"> Periodo 2025 - 20 </h3>
+<h3 align="center"> NRC: 7391 </h3>
 
 <br>
 
@@ -11,7 +12,7 @@
 
 <br>
 
-<h1 align="center"> TB2 Report </h1>
+<h1 align="center"> Informe del Trabajo Final </h1>
 
 <h3 align="center"> Desarrollo de Aplicaciones Open Source - 7391 </h3>
 
