@@ -1832,12 +1832,62 @@ A continuación, se muestra la evidencia de colaboración utilizando **GitHub In
 
 ### 5.2.4.1. Sprint Planning 4
 
+| Sprint # | Sprint 4 |
+|--------- |----------|
+| Date | 05/12/2025 |
+| Time | 12:00 horas (GMT-5) |
+| Location | Virtual (Google Meet) |
+| Prepared By | Avalos Cordova, Diego Andres |
+| Attendees (to planning meeting) | Cardenas Huaman, Mathias Andree<br>Avalos Cordova, Diego Andres<br>Carranza Tesen, Joaquin Enrique<br>Velarde Luyo, Piero Alberto |
+| **Sprint 3 Review Summary** | Durante el Sprint 3 se logró desplegar el web services e implementar un panel administrativo. Además, se corrigieron errores de la aplicación web. |
+| **Sprint 3 Retrospective Summary** | El equipo identificó que al priorizar la fake API, aplazamos el despliegue del backend real y la validación del contrato de Swagger, lo que generó retrasos en la integración final y el desbloqueo del frontend. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal** | Desarrollar y desplegar la última versión de los Web Services (backend) y aplicación web(frontend). |
+| **Sprint 4 Velocity** | El equipo ha establecido una capacidad de **? Story Points** para este Sprint. |
+| **Sum of Story Points** | **?** |
+
 ### 5.2.4.2. Aspect Leaders and Collaborators
+Para el Sprint 4, el equipo se enfocó en dos aspectos principales: el desarrollo de la última versión del aplicativo (Web Application) y la integración del backend (Web Services and deployment). El equipo se ha reorganizado de la siguiente manera:
+
+| Team Member (Last Name, First Name) | GitHub Username | Web Application (Admin) | API Integration & Deployment |
+| :--- | :--- | :--- | :--- |
+| Carranza Tesen, Joaquin Enrique | thepima | C | C |
+| Avalos Cordova, Diego Andres | DiegoAndresAvalos | C | **L** |
+| Velarde Luyo, Piero Alberto | P1er0VL | C | C |
+| Cardenas Huaman, Mathias Andree | AndS56 | **L** | C |
 
 ### 5.2.4.3. Sprint Backlog 4
-
+| Sprint # | Sprint 4 | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **User Story** | | **Work-Item / Task** | | | | | **Status** |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | (To-do / In-Process / To-Review / Done) |
+| US05 | Panel de control municipal | TS13 | Implementar Login de administrador | Crear la vista de inicio de sesión para el panel administrativo. | 4 | Mathias Cardenas | Done |
+| US05 | Panel de control municipal | TS14 | Crear navegación y sidebar del panel | Estructurar el layout principal del dashboard administrativo con su menú lateral. | 6 | Mathias Cardenas | Done |
+| US-Admin1 | Gestión de Roles | TS15 | Crear endpoint `POST /api/auth/login` | Desarrollar el endpoint de autenticación que retorna un token. | 5 | Diego Avalos | Done |
+| US-Admin1 | Gestión de Roles | TS16 | Crear endpoints `GET /api/users` y `PUT /api/users/{id}/role` | Desarrollar los servicios para listar usuarios y actualizar sus roles. | 8 | Diego Avalos | Done |
+| US-Admin1 | Gestión de Roles | TS17 | Implementar vista "Asignación de roles" | Desarrollar el frontend que consume los endpoints de usuarios y permite cambiar roles. | 6 | Mathias Cardenas | Done |
+| US-Admin2 | Gestión de Municipios | TS18 | Crear endpoints CRUD para `/api/municipalities` | Desarrollar los servicios para Registrar, Listar y Actualizar municipios. | 8 | Diego Avalos | Done |
+| US-Admin2 | Gestión de Municipios | TS19 | Implementar vista "Gestión de Municipios" | Desarrollar el frontend para listar y registrar nuevos municipios en la plataforma. | 6 | Piero Velarde | Done |
 ### 5.2.4.4. Development Evidence for Sprint Review
+Durante el cuarto sprint del proyecto *EcoClean*, se desarrollaron funcionalidades esenciales en los módulos de **Backend Platform**, **WebApp Frontend** y **Reportes**. 
+Entre los avances se incluyen la creación de servicios y entidades del backend, la documentación del sprint , mejoras visuales en el frontend y conexión entre estas. 
+Además, el equipo realizó actividades de diseño, entrevistas a usuarios y validación funcional del sistema para asegurar coherencia entre requerimientos y la implementación técnica.
 
+A continuación se presenta la evidencia unificada de commits realizados:
+
+| Repository                 | Branch | Commit Id | Author             | Type     | Commit Message                                                                  | Committed on (Date) |
+|----------------------------|--------|-----------|--------------------|----------|----------------------------------------------------------------------------------|----------------------|
+| EcoClean-Platform          | main   | bcabc2c   | DiegoAndresAvalos | authored | Update application.properties                                                    | 2025-11-09           |
+| EcoClean-Platform          | main   | 682156d   | DiegoAndresAvalos | authored | Update Dockerfile                                                                | 2025-11-09           |
+| EcoClean-Platform          | main   | 787a15b   | Thepima | authored | Update pom.xml                                                                              | 2025-11-10           |
+| EcoClean-Platform          | main   | c29e912   | AndS56             | authored | Create BoundedContextResponse.java                                               | 2025-11-12           |
+| EcoClean-Platform          | main   | 95612cb   | AndS56             | authored | Create RoleApplicationService.java                                               | 2025-11-12           |
+| EcoClean-Report            | main   | e3decfc   | DiegoAndresAvalos | authored | Update 5.3.3. Evaluaciones según heurísticas                                     | 2025-11-16           |
+| EcoClean-Report            | main   | fafcfb3   | DiegoAndresAvalos | authored | Update README.md                                                                 | 2025-11-16           |
+| EcoClean-Report            | main   | 331dc2c   | Thepima            | authored | Add Aspect Leaders and Collaborators AND Sprint Backlog 3                        | 2025-11-15           |
+| EcoClean-Report            | main   | da306a4   | AndS56             | authored | Add Sprint Planning 3                                                            | 2025-11-15           |
+| EcoClean-WebApp-Frontend   | main   | a5b2f47   | DiegoAndresAvalos | authored | Update UI components                                                             | 2025-11-10           |
+| EcoClean-WebApp-Frontend   | main   | a5b2f47   | Thepima | authored | UI review, design validation and integration support                                       | 2025-11-10           |
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
@@ -1845,6 +1895,24 @@ A continuación, se muestra la evidencia de colaboración utilizando **GitHub In
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, el equipo de EcoClean trabajó de manera colaborativa para avanzar en el desarrollo del **Frontend**, **Backend** y **Reportes**, asegurando que cada integrante aporte a uno o más componentes del proyecto. A continuación, se presenta un resumen de las actividades realizadas por cada miembro del equipo.
+
+---
+
+### Actividades realizadas por cada integrante
+
+| Integrante | Acciones realizadas durante el Sprint 4 |
+|-----------|------------------------------------------|
+| **Diego Avalos** | Desarrollo y ajustes del backend en los bounded contexts de **Admin**, **IAM**, **Role Management**, **Municipalities**, **Profiles** y **Shared**. Actualización de múltiples endpoints y configuración del `pom.xml`, `Dockerfile` y `application.properties`. |
+| **Andree Cardenas** | Creación de clases clave del backend como **Controllers**, **Requests**, **Services**, **Repositories**, además de estructuración inicial del proyecto Spring Boot para EcoClean. |
+| **Joaquin Carranza** | Participación en pruebas, estructura de reportes y apoyo documental del Sprint 4. (*Se reemplazará por los commits reales cuando los suba al repositorio*). |
+
+---
+
+### Contribución en los repositorios del proyecto
+
+A continuación, se muestra la evidencia de colaboración utilizando **GitHub Insights**, donde se refleja la actividad del equipo durante el Sprint 4.
 
 
 ## 5.3. Validation Interviews
