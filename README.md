@@ -1917,7 +1917,7 @@ Los avances realizados en este Sprint incluyen la creación de los primeros boun
 
 Estos módulos componen la estructura inicial del dominio del sistema EcoClean.
 
-### Endpoints documentados en Sprint 3
+### Endpoints documentados en Sprint 4
 
 A continuación, se presenta la relación de endpoints creados y documentados durante este sprint, junto con su método HTTP, descripción de la acción implementada y ejemplos de request/response:
 
