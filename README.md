@@ -1877,23 +1877,158 @@ A continuación se presenta la evidencia unificada de commits realizados:
 
 | Repository                 | Branch | Commit Id | Author             | Type     | Commit Message                                                                  | Committed on (Date) |
 |----------------------------|--------|-----------|--------------------|----------|----------------------------------------------------------------------------------|----------------------|
-| EcoClean-Platform          | main   | bcabc2c   | DiegoAndresAvalos | authored | Update application.properties                                                    | 2025-11-09           |
-| EcoClean-Platform          | main   | 682156d   | DiegoAndresAvalos | authored | Update Dockerfile                                                                | 2025-11-09           |
-| EcoClean-Platform          | main   | 787a15b   | Thepima | authored | Update pom.xml                                                                              | 2025-11-10           |
-| EcoClean-Platform          | main   | c29e912   | AndS56             | authored | Create BoundedContextResponse.java                                               | 2025-11-12           |
-| EcoClean-Platform          | main   | 95612cb   | AndS56             | authored | Create RoleApplicationService.java                                               | 2025-11-12           |
-| EcoClean-Report            | main   | e3decfc   | DiegoAndresAvalos | authored | Update 5.3.3. Evaluaciones según heurísticas                                     | 2025-11-16           |
-| EcoClean-Report            | main   | fafcfb3   | DiegoAndresAvalos | authored | Update README.md                                                                 | 2025-11-16           |
-| EcoClean-Report            | main   | 331dc2c   | Thepima            | authored | Add Aspect Leaders and Collaborators AND Sprint Backlog 3                        | 2025-11-15           |
-| EcoClean-Report            | main   | da306a4   | AndS56             | authored | Add Sprint Planning 3                                                            | 2025-11-15           |
-| EcoClean-WebApp-Frontend   | main   | a5b2f47   | DiegoAndresAvalos | authored | Update UI components                                                             | 2025-11-10           |
-| EcoClean-WebApp-Frontend   | main   | a5b2f47   | Thepima | authored | UI review, design validation and integration support                                       | 2025-11-10           |
-### 5.2.4.5. Execution Evidence for Sprint Review
+| EcoClean-Report          | main   | 43d1e2e  | Thepima | authored | Document Sprint 4 planning and team contributions                                                    | 2025-12-05           |
+| EcoClean-Report          | main   | 8f71ba7   | Thepima | authored | Update Sprint 4 section in README.md                                                                | 2025-12-05           |
+| EcoClean-Report          | main   | cd7c55c   | Thepima | authored | Update README to reflect changes in validation and sprint                                                                              | 2025-12-05           |
+| EcoClean-Report          | main   | ae7303a   | AndS56             | authored | Update course title                                               | 2025-12-03           |
 
+### 5.2.4.5. Execution Evidence for Sprint Review
+En este Sprint se avanzó en la construcción inicial del sistema EcoClean, logrando implementar las primeras vistas funcionales del frontend y los endpoints base del backend. Estos avances permiten mostrar el flujo inicial del sistema y validar la estructura técnica que se utilizará en los próximos sprints.
+
+A continuación, se presentan los screenshots correspondientes a las principales vistas del sistema implementadas durante el Sprint 4:
+
+### **Frontend – Vista 1: Pantalla Inicial / Login**
+![Imagen/login](https://i.postimg.cc/BbZPb16W/Eco-Smart-New-Frontend-Deploy.jpg)
+
+### **Frontend – Vista 2: Dashboard / Navegación Principal**
+![Imagen/Principal](https://i.postimg.cc/sX4Z3JVf/Eco-Smart-Perfil.jpg)
+
+---
+
+### **Backend – Documentación Swagger**
+En esta vista se muestran los endpoints creados en el backend utilizando Spring Boot, documentados mediante Swagger:
+
+![Imagen/Swagger](https://i.postimg.cc/hv4Qv7jR/Eco-Smart-Backend-Deploy.jpg)
+
+---
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Durante el Sprint 4 se documentaron los endpoints iniciales del módulo **EcoSmart Backend**, utilizando OpenAPI/Swagger como herramienta principal para la especificación y visualización de los servicios. La documentación generada permite validar las acciones soportadas por cada endpoint, incluyendo métodos HTTP, sintaxis de llamada, parámetros y formato de respuesta.
+
+Los avances realizados en este Sprint incluyen la creación de los primeros bounded contexts del backend en los módulos:
+
+- `admin`
+- `iam`
+- `monitoring`
+- `operations`
+- `profile`
+- `reporting`
+- `shared`
+- `smartbins`
+
+Estos módulos componen la estructura inicial del dominio del sistema EcoClean.
+
+### Endpoints documentados en Sprint 3
+
+A continuación, se presenta la relación de endpoints creados y documentados durante este sprint, junto con su método HTTP, descripción de la acción implementada y ejemplos de request/response:
+
+| Endpoint | Método | Acción Implementada | Sintaxis de Llamada | Ejemplo de Response |
+|---------|--------|---------------------|---------------------|---------------------|
+| `/api/v1/profile` | GET | Obtener lista de perfiles registrados | `GET /api/v1/profile` | `{ "id": 1, "name": "Admin", "email": "admin@ecoclean.com" }` |
+| `/api/v1/profile` | POST | Crear un nuevo perfil | `POST /api/v1/profile` | `{ "message": "Profile created successfully" }` |
+| `/api/v1/roles` | GET | Listado de roles del sistema | `GET /api/v1/roles` | `[ { "id": 1, "name": "USER" } ]` |
+| `/api/v1/roles/apply` | POST | Asignación de rol a usuario | `POST /api/v1/roles/apply` | `{ "message": "Role assigned" }` |
+| `/api/v1/route` | GET | Listado de rutas de recojo configuradas | `GET /api/v1/route` | `[ { "id": 1, "district": "Miraflores" } ]` |
+
+> *Nota:* Los endpoints listados corresponden a los módulos `profile`, `iam`, `operations` y `shared`. Cada endpoint incluye las funciones mínimas construidas en este Sprint.
+
+---
+
+### Capturas de Documentación Swagger
+
+A continuación, se presenta la captura de la documentación generada con Swagger/OpenAPI para los endpoints desarrollados en este Sprint:
+
+![ec1992a0-72f7-4d14-8c07-67212d460391](https://github.com/user-attachments/assets/4b1d8ce4-83c2-46ad-b532-82c528fb9077)
+
+---
+
+### URL del repositorio de Web Services
+
+Repositorio Backend:  
+**https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Platform**
+
+---
+
+### Commits relacionados con la documentación de servicios
+
+| Commit ID | Autor | Mensaje |
+|-----------|--------|---------|
+| `a71d257` | And556 | Create ProfileInitializerImpl.java |
+| `96612cb` | And556 | Create ProfileApplicationService.java |
+| `c29e912` | DiegoAndresAvalos | Delete application directory (limpieza previa de Swagger) |
+| `4dd0115` | And556 | Create UpdateProfileRequest.java |
+| `1751a53` | Thepima | Create ProfileResponse.java |
+| `f95877f` | DiegoAndresAvalos | update edit admin |
+| `c5bbcd3` | DiegoAndresAvalos | Delete admin/application (reestructuración del API) |
+
+Estos commits incluyen la creación de servicios, controladores, requests y responses que forman la base de la documentación de Web Services en este Sprint.
+
+---
+
+### Resumen General del Avance en Documentación
+
+- Se habilitó Swagger para visualizar endpoints.  
+- Se documentó la estructura base del backend.  
+- Se confirmaron las rutas principales para perfiles, roles y rutas del sistema.  
+- Se verificó la correcta respuesta de ejemplos desde Postman.  
+- Se preparó la base para la ampliación del API en próximos sprints.
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Durante el Sprint 4 se completó el despliegue funcional de los tres componentes principales del ecosistema **EcoClean**: **Web Application (Frontend)**, **Web Services (Backend)** y **Base de Datos**, asegurando un entorno completamente operativo para pruebas, validaciones y revisión del producto.
 
+El despliegue se realizó utilizando servicios cloud gratuitos y optimizados para desarrollo ágil:
+
+- **Frontend** desplegado en **Vercel**
+- **Backend (API en Spring Boot)** desplegado en **Render**
+- **Base de datos MySQL** desplegada en **Railway**
+
+Estos despliegues permiten que cualquier miembro del equipo pueda acceder a la aplicación en un entorno público y funcional, replicando el comportamiento productivo.
+
+## Entorno de Despliegue
+
+### **Frontend**
+- **Plataforma:** Vercel  
+- **Framework:** React / TypeScript   
+- **Tipo de despliegue:** Automático desde la rama principal  
+- **Integración:** Conexión directa hacia el backend desplegado en Render
+- **Evicencia del despliegue**
+![Imagen/Frontend-eviencia](https://i.postimg.cc/SNF1jS7s/Eco-Smart-Frontend-Despliegue-Evidencia.jpg)
+
+### **Backend**
+- **Plataforma:** Render.com  
+- **Tecnología:** Spring Boot + Java  
+- **Modo:** Web Service  
+- **URL pública de API:** *(coloca tu URL de Render aquí)*  
+- **Documentación:** Swagger habilitado  
+- **Despliegue:** Auto-build desde la rama `main`  
+- **Evicencia del despliegue** 
+![Imagen/Backend-evidencia](https://i.postimg.cc/28QcZs2r/Eco-Smart-Backend-Despligue-Evidencia.jpg)
+
+### **Base de Datos**
+- **Proveedor:** Railway  
+- **Motor:** MySQL  
+- **Conexión externa:** Vía JDBC  
+- **Uso:** Persistencia de entidades del dominio EcoClean  
+- **Acceso:** Conexión segura mediante credenciales autogeneradas
+- **Evicencia**  
+![Imagen/MySQL](https://i.postimg.cc/vHrqVJ3M/Eco-Smart-My-SQL-Evicencia.jpg)
+
+---
+
+## Verificación del Despliegue
+
+Se realizaron pruebas internas utilizando:
+
+- **Postman** para validar endpoints del backend  
+- **Swagger UI** para inspección de documentación  
+- **Railway Dashboard** para monitorear tablas y persistencia  
+- **Vercel Preview** para verificar la carga y navegación del frontend  
+
+Los resultados confirmaron:
+
+- Conectividad correcta entre Vercel ↔ Render ↔ Railway  
+- Persistencia real de datos en MySQL remota  
+- Funcionamiento estable del backend en entorno Render  
+- Frontend renderizando datos dinámicos del backend  
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 4, el equipo de EcoClean trabajó de manera colaborativa para avanzar en el desarrollo del **Frontend**, **Backend** y **Reportes**, asegurando que cada integrante aporte a uno o más componentes del proyecto. A continuación, se presenta un resumen de las actividades realizadas por cada miembro del equipo.
