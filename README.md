@@ -106,7 +106,7 @@
 
 | URL del repositorio del New Frontend |
 | -------------------------------------- |
-| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Web-Frontend](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-WebApp-Frontend) |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Web-Frontend](https://eco-clean-front-end.vercel.app/sign-in) |
 
 | URL del repositorio del Backend |
 | -------------------------------------- |
