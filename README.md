@@ -110,7 +110,7 @@
 
 | URL del repositorio del Backend |
 | -------------------------------------- |
-| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Platfom](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Platfom) |
+| [https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Backend-Platform](https://github.com/UPC-PRE-202502-1ASI0729-7391-NOMBRE/EcoClean-Backend-Platform) |
 
 <br><br>
 
