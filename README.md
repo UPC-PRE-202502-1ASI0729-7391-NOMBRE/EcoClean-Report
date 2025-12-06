@@ -1851,8 +1851,8 @@ A continuación, se muestra la evidencia de colaboración utilizando **GitHub In
 | **Sprint 3 Retrospective Summary** | El equipo identificó que al priorizar la fake API, aplazamos el despliegue del backend real y la validación del contrato de Swagger, lo que generó retrasos en la integración final y el desbloqueo del frontend. |
 | **Sprint Goal & User Stories** | |
 | **Sprint 4 Goal** | Desarrollar y desplegar la última versión de los Web Services (backend) y aplicación web(frontend). |
-| **Sprint 4 Velocity** | El equipo ha establecido una capacidad de **? Story Points** para este Sprint. |
-| **Sum of Story Points** | **?** |
+| **Sprint 4 Velocity** | El equipo ha establecido una capacidad de **4 Story Points** para este Sprint. |
+| **Sum of Story Points** | **12** |
 
 ### 5.2.4.2. Aspect Leaders and Collaborators
 Para el Sprint 4, el equipo se enfocó en dos aspectos principales: el desarrollo de la última versión del aplicativo (Web Application) y la integración del backend (Web Services and deployment). El equipo se ha reorganizado de la siguiente manera:
@@ -1869,13 +1869,10 @@ Para el Sprint 4, el equipo se enfocó en dos aspectos principales: el desarroll
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **User Story** | | **Work-Item / Task** | | | | | **Status** |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | (To-do / In-Process / To-Review / Done) |
-| US05 | Panel de control municipal | TS13 | Implementar Login de administrador | Crear la vista de inicio de sesión para el panel administrativo. | 4 | Mathias Cardenas | Done |
-| US05 | Panel de control municipal | TS14 | Crear navegación y sidebar del panel | Estructurar el layout principal del dashboard administrativo con su menú lateral. | 6 | Mathias Cardenas | Done |
-| US-Admin1 | Gestión de Roles | TS15 | Crear endpoint `POST /api/auth/login` | Desarrollar el endpoint de autenticación que retorna un token. | 5 | Diego Avalos | Done |
-| US-Admin1 | Gestión de Roles | TS16 | Crear endpoints `GET /api/users` y `PUT /api/users/{id}/role` | Desarrollar los servicios para listar usuarios y actualizar sus roles. | 8 | Diego Avalos | Done |
-| US-Admin1 | Gestión de Roles | TS17 | Implementar vista "Asignación de roles" | Desarrollar el frontend que consume los endpoints de usuarios y permite cambiar roles. | 6 | Mathias Cardenas | Done |
-| US-Admin2 | Gestión de Municipios | TS18 | Crear endpoints CRUD para `/api/municipalities` | Desarrollar los servicios para Registrar, Listar y Actualizar municipios. | 8 | Diego Avalos | Done |
-| US-Admin2 | Gestión de Municipios | TS19 | Implementar vista "Gestión de Municipios" | Desarrollar el frontend para listar y registrar nuevos municipios en la plataforma. | 6 | Piero Velarde | Done |
+| US04 | Visualización de tachos en mapa | TS20 | Implementar mapa de distrito | Crear la vista en donde se muentra un mapa con los tachos llenos. | 4 | Piero  | In-Process |
+| US15 | Tendencia de cada distrito | TS21 | Crear panel de tendencia | Crear vista en donde se muestran las tendencias de cada distrito | 6 | Mathias  | In-Process |
+| US16 | Mensaje directo | TS22 | Crear mensaje directo hacia la municipilidad | Implementar apartado en donde puedas contactarte con un operario. | 5 | Diego  | Done |
+| US17 | Solicitud de empleo | TS23 | Implementar apartado de solicitud de empleo | Elaborar un formulario en donde el usuario pueda solicitar empleo de operario o funcionario publico. | 8 | Joaquin  | Done |
 ### 5.2.4.4. Development Evidence for Sprint Review
 Durante el cuarto sprint del proyecto *EcoClean*, se desarrollaron funcionalidades esenciales en los módulos de **Backend Platform**, **WebApp Frontend** y **Reportes**. 
 Entre los avances se incluyen la creación de servicios y entidades del backend, la documentación del sprint , mejoras visuales en el frontend y conexión entre estas. 
