@@ -77,6 +77,14 @@
 | TB2 | 12/11/25 | Diego Avalos | Desarrollo del Backend |
 | TB2 | 12/11/25 | Diego Avalos | Despliegue del Backend |
 | TB2 | 12/11/25 | Diego Avalos | Capitulo V Sprint 3 |
+| TF  | 02/12/25 | Diego Avalos | Capitulo V avance del 4|
+| TF  | 02/12/25 | Diego Avalos | Correción y actualización del frontend|
+| TF  | 01/12/25 | Joaquin Carranza | Capitulo V revisión de los sprints anteriores y avance del 4|
+| TF  | 03/12/25 | Joaquin Carranza | Correción y actualización del frontend|
+| TF  | 04/12/25 | Andree Cárdenas | Capitulo V avance del 4|
+| TF  | 02/12/25 | Andree Cárdenas | Corrección y actualización del Backend|
+| TF  | 03/12/25 | Piero Velarde | Capitulo V avance del 4|
+| TF  | 02/12/25 | Piero Velarde | Corrección y actualización del Backend|
 
 </div>
 
