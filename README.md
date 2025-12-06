@@ -1903,7 +1903,8 @@ A continuación, se presentan los screenshots correspondientes a las principales
 ### **Backend – Documentación Swagger**
 En esta vista se muestran los endpoints creados en el backend utilizando Spring Boot, documentados mediante Swagger:
 
-![Imagen/Swagger](https://i.postimg.cc/hv4Qv7jR/Eco-Smart-Backend-Deploy.jpg)
+![ec1992a0-72f7-4d14-8c07-67212d460391](https://github.com/user-attachments/assets/70d7eae4-ea88-457e-b69e-15213c4fbd87)
+
 
 ---
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
