@@ -2055,6 +2055,7 @@ Durante el Sprint 4, el equipo de EcoClean trabajó de manera colaborativa para 
 
 A continuación, se muestra la evidencia de colaboración utilizando **GitHub Insights**, donde se refleja la actividad del equipo durante el Sprint 4.
 
+<img width="989" height="902" alt="Captura de pantalla 2025-12-05 203210" src="https://github.com/user-attachments/assets/389a23e9-ca91-4384-8a29-c4a22491e29f" />
 
 ## 5.3. Validation Interviews
 
