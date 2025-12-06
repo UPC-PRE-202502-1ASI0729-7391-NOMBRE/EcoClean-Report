@@ -2279,36 +2279,29 @@ A lo largo de los tres primeros sprints del proyecto **EcoClean**, hemos podido 
 
 ### Conclusiones
 
-1. **Resultados frente a los Problem Statements**
-   Desde el Sprint 1 identificamos los principales problemas relacionados con la gestión municipal de residuos, como la falta de digitalización, la baja visibilidad de datos y la poca participación ciudadana.  
-   - En el Sprint 2 logramos validar estas necesidades con la creación de prototipos y primeras vistas navegables.  
-   - Para el Sprint 3, ya contamos con un backend real que comienza a responder a estos problemas mediante módulos organizados por roles, perfiles, municipios, monitoreo y rutas.
+A lo largo del proyecto logramos abordar de manera progresiva los principales desafíos identificados desde el Sprint 1, especialmente aquellos relacionados con la gestión municipal de residuos: la falta de digitalización, la escasa visibilidad de datos y la limitada participación ciudadana. Durante el Sprint 2, estos problemas fueron validados mediante prototipos y primeras vistas navegables, lo que nos permitió confirmar que estábamos alineados con las necesidades reales. Finalmente, en el Sprint 3 consolidamos un backend funcional y organizado por módulos, capaz de responder a los distintos perfiles y roles dentro del sistema, además de dar soporte a funciones de monitoreo y rutas.
 
-2. **Validación de los Assumptions del proyecto**
-   - Asumimos que los usuarios necesitan herramientas simples y accesibles: los prototipos y las primeras pruebas del frontend confirmaron esta idea.  
-   - También asumimos que la nube sería un entorno viable para todo el sistema. Con Vercel, Render y Railway funcionando de manera estable, la suposición se valida completamente.  
-   - Finalmente, asumimos que usar bounded contexts nos permitiría escalar mejor el backend, lo cual se comprobó con el trabajo del Sprint 3, ya que cada módulo quedó bien separado y más fácil de mantener.
+En cuanto a los **assumptions** iniciales, se comprobó que los usuarios requerían herramientas simples, claras y accesibles. Las pruebas del frontend confirmaron este enfoque. También se validó la decisión de trabajar en la nube: los despliegues en Vercel, Render y Railway fueron estables y permitieron integrar de forma efectiva los distintos servicios. Asimismo, la adopción de bounded contexts demostró ser una buena estrategia para la escalabilidad del backend, ya que permitió separar adecuadamente cada módulo y facilitar su mantenimiento.
 
-3. **Resultados frente a los Hypotheses Statements**
-   - La hipótesis principal (“los municipios podrán mejorar la gestión con un sistema unificado”) empezó a demostrarse al contar con endpoints funcionales y datos persistentes.  
-   - También validamos la hipótesis sobre los ciudadanos: una interfaz clara y la posibilidad de visualizar información relevante genera mayor interés y facilidad de uso.
+Respecto a las **hypotheses statements**, empezamos a evidenciar que un sistema unificado realmente puede mejorar la gestión municipal. La existencia de endpoints operativos, datos persistentes y módulos funcionales constituye un primer indicador positivo. También se confirmó que una interfaz clara y orientada a las necesidades del ciudadano puede aumentar el interés y la facilidad de uso, fortaleciendo así su participación.
 
-4. **Criterios de éxito hasta el momento**
-   - Landing Page funcional desde el Sprint 1.  
-   - Web Application con vistas iniciales y navegación básica desde el Sprint 2.  
-   - Backend real, documentado con Swagger y desplegado en la nube en el Sprint 3.  
-   - Base de datos activa y conectada a los servicios.  
-   - Evidencia completa del trabajo: commits, despliegues, pruebas y documentación.  
-   En conjunto, estos criterios demuestran un avance consistente acorde con el roadmap planificado.
+Si revisamos los **criterios de éxito**, podemos afirmar que se cumplieron de manera consistente:  
+- Desde el Sprint 1 contamos con una Landing Page funcional.  
+- En el Sprint 2 logramos vistas iniciales con navegación básica.  
+- El Sprint 3 marca un hito importante con el backend real, documentado con Swagger y desplegado en la nube.  
+- La base de datos quedó correctamente integrada y operativa.  
+- Todo el proceso queda respaldado mediante evidencia completa: commits, despliegues, pruebas y documentación.  
+
+En conjunto, estos resultados muestran un avance sólido y alineado con el roadmap previsto, confirmando que el proyecto se encuentra en una etapa madura y lista para su crecimiento.
 
 ### Recomendaciones
 
-- **Integrar completamente el Frontend con el Backend**, priorizando los flujos más importantes del producto.
-- **Agregar pruebas automatizadas** para asegurar calidad en los siguientes sprints.
-- **Mejorar la experiencia de usuario**, especialmente en navegación e interacción.
-- **Optimizar la arquitectura backend**, aprovechando lo ya construido para mantener el orden a medida que agreguemos más módulos.
-- **Avanzar con funcionalidades clave** como rutas inteligentes, monitoreo en tiempo real y dashboards.
-- **Mantener documentación y roadmap al día**, para facilitar el trabajo del equipo y la revisión en los siguientes sprints.
+- Integrar completamente el frontend con el backend, priorizando los flujos principales del producto.  
+- Incorporar pruebas automatizadas para asegurar la calidad del sistema en futuros sprints.  
+- Mejorar la experiencia de usuario, sobre todo en aspectos de navegación e interacción.  
+- Continuar optimizando la arquitectura del backend para mantener la organización a medida que se agreguen nuevos módulos.  
+- Avanzar con funcionalidades clave como rutas inteligentes, monitoreo en tiempo real y dashboards.  
+- Mantener la documentación y el roadmap siempre actualizados para facilitar la colaboración y la revisión del proyecto.
 
 # Bibliografía
 
