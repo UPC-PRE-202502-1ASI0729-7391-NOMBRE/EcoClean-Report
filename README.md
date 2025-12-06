@@ -2275,8 +2275,6 @@ Los errores fueron puntuados tomando en cuenta la siguiente escala de severidad:
 
 ## Conclusiones y recomendaciones
 
-A lo largo de los tres primeros sprints del proyecto **EcoClean**, hemos podido consolidar una base sólida tanto a nivel técnico como conceptual. El trabajo progresivo nos permitió pasar de la validación inicial de ideas y problemas, hacia la construcción de un ecosistema funcional con frontend, backend y base de datos desplegados en la nube.
-
 ### Conclusiones
 
 A lo largo del proyecto logramos abordar de manera progresiva los principales desafíos identificados desde el Sprint 1, especialmente aquellos relacionados con la gestión municipal de residuos: la falta de digitalización, la escasa visibilidad de datos y la limitada participación ciudadana. Durante el Sprint 2, estos problemas fueron validados mediante prototipos y primeras vistas navegables, lo que nos permitió confirmar que estábamos alineados con las necesidades reales. Finalmente, en el Sprint 3 consolidamos un backend funcional y organizado por módulos, capaz de responder a los distintos perfiles y roles dentro del sistema, además de dar soporte a funciones de monitoreo y rutas.
